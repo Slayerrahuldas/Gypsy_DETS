@@ -6,7 +6,7 @@ let jsonData = []; // Global variable to hold fetched JSON data
 // Function to fetch data from JSON file
 async function fetchData() {
     try {
-        const response = await fetch("json/data.json"); // Replace 'data.json' with your JSON file's path
+        const response = await fetch("json/data.json"); // Update with correct path
         if (!response.ok) throw new Error("Failed to fetch data.");
         jsonData = await response.json();
         initialize(); // Populate the table and filters after fetching data
@@ -36,23 +36,23 @@ function applyFilters() {
     let filteredData = [...jsonData]; // Start with the original data
 
     // Get dropdown filter values
-    const filterDetsMeName = document.getElementById("filter-deets-me-name").value;
-    const filterDetsBeat = document.getElementById("filter-deets-beat").value;
-    const filterFnrMeName = document.getElementById("filter-fnr-me-name").value;
-    const filterFnrBeat = document.getElementById("filter-fnr-beat").value;
+    const filterKioskMeName = document.getElementById("filter-kiosk-me-name").value;
+    const filterKioskBeat = document.getElementById("filter-kiosk-beat").value;
+    const filterNutsMeName = document.getElementById("filter-nuts-me-name").value;
+    const filterNutsBeat = document.getElementById("filter-nuts-beat").value;
 
     // Apply dropdown filters
-    if (filterDetsMeName !== "") {
-        filteredData = filteredData.filter((row) => row["DETS ME Name"] === filterDetsMeName);
+    if (filterKioskMeName !== "") {
+        filteredData = filteredData.filter((row) => row["KIOSK ME Name"] === filterKioskMeName);
     }
-    if (filterDetsBeat !== "") {
-        filteredData = filteredData.filter((row) => row["DETS Beat"] === filterDetsBeat);
+    if (filterKioskBeat !== "") {
+        filteredData = filteredData.filter((row) => row["KIOSK Beat"] === filterKioskBeat);
     }
-    if (filterFnrMeName !== "") {
-        filteredData = filteredData.filter((row) => row["FnR ME Name"] === filterFnrMeName);
+    if (filterNutsMeName !== "") {
+        filteredData = filteredData.filter((row) => row["NUTS ME Name"] === filterNutsMeName);
     }
-    if (filterFnrBeat !== "") {
-        filteredData = filteredData.filter((row) => row["FnR Beat"] === filterFnrBeat);
+    if (filterNutsBeat !== "") {
+        filteredData = filteredData.filter((row) => row["NUTS Beat"] === filterNutsBeat);
     }
 
     // Search Bar Filter
@@ -85,24 +85,24 @@ function applyFilters() {
 
 // Function to dynamically update dropdown options
 function updateDropdowns(filteredData) {
-    const detsMeNames = new Set();
-    const detsBeats = new Set();
-    const fnrMeNames = new Set();
-    const fnrBeats = new Set();
+    const kioskMeNames = new Set();
+    const kioskBeats = new Set();
+    const nutsMeNames = new Set();
+    const nutsBeats = new Set();
 
     // Collect unique options from filtered data
     filteredData.forEach((row) => {
-        if (row["DETS ME Name"]) detsMeNames.add(row["DETS ME Name"]);
-        if (row["DETS Beat"]) detsBeats.add(row["DETS Beat"]);
-        if (row["FnR ME Name"]) fnrMeNames.add(row["FnR ME Name"]);
-        if (row["FnR Beat"]) fnrBeats.add(row["FnR Beat"]);
+        if (row["KIOSK ME Name"]) kioskMeNames.add(row["KIOSK ME Name"]);
+        if (row["KIOSK Beat"]) kioskBeats.add(row["KIOSK Beat"]);
+        if (row["NUTS ME Name"]) nutsMeNames.add(row["NUTS ME Name"]);
+        if (row["NUTS Beat"]) nutsBeats.add(row["NUTS Beat"]);
     });
 
     // Repopulate dropdowns with updated options
-    populateSelectDropdown("filter-deets-me-name", detsMeNames, "DETS ME Name");
-    populateSelectDropdown("filter-deets-beat", detsBeats, "DETS Beat");
-    populateSelectDropdown("filter-fnr-me-name", fnrMeNames, "FnR ME Name");
-    populateSelectDropdown("filter-fnr-beat", fnrBeats, "FnR Beat");
+    populateSelectDropdown("filter-kiosk-me-name", kioskMeNames, "KIOSK ME Name");
+    populateSelectDropdown("filter-kiosk-beat", kioskBeats, "KIOSK Beat");
+    populateSelectDropdown("filter-nuts-me-name", nutsMeNames, "NUTS ME Name");
+    populateSelectDropdown("filter-nuts-beat", nutsBeats, "NUTS Beat");
 }
 
 // Function to populate dropdown filters
@@ -113,9 +113,9 @@ function populateSelectDropdown(id, optionsSet, columnName) {
 
     // Add the column name as the default option
     const defaultOption = document.createElement("option");
-    defaultOption.textContent = columnName; // Use column name as the placeholder
-    defaultOption.value = ""; // Set empty value to ignore this selection in filters
-    defaultOption.selected = true; // Make it the default selected option
+    defaultOption.textContent = columnName;
+    defaultOption.value = "";
+    defaultOption.selected = true;
     dropdown.appendChild(defaultOption);
 
     // Populate other options
@@ -140,10 +140,10 @@ document.getElementById("reset-button").addEventListener("click", () => {
     document.getElementById("search-bar").value = "";
 
     // Reset dropdown filters to default
-    document.getElementById("filter-deets-me-name").selectedIndex = 0;
-    document.getElementById("filter-deets-beat").selectedIndex = 0;
-    document.getElementById("filter-fnr-me-name").selectedIndex = 0;
-    document.getElementById("filter-fnr-beat").selectedIndex = 0;
+    document.getElementById("filter-kiosk-me-name").selectedIndex = 0;
+    document.getElementById("filter-kiosk-beat").selectedIndex = 0;
+    document.getElementById("filter-nuts-me-name").selectedIndex = 0;
+    document.getElementById("filter-nuts-beat").selectedIndex = 0;
 
     // Reapply filters to show the unfiltered data
     applyFilters();
@@ -151,10 +151,10 @@ document.getElementById("reset-button").addEventListener("click", () => {
 
 // Event listeners for dropdowns and search bar
 document.getElementById("search-bar").addEventListener("input", applyFilters);
-document.getElementById("filter-deets-me-name").addEventListener("change", applyFilters);
-document.getElementById("filter-deets-beat").addEventListener("change", applyFilters);
-document.getElementById("filter-fnr-me-name").addEventListener("change", applyFilters);
-document.getElementById("filter-fnr-beat").addEventListener("change", applyFilters);
+document.getElementById("filter-kiosk-me-name").addEventListener("change", applyFilters);
+document.getElementById("filter-kiosk-beat").addEventListener("change", applyFilters);
+document.getElementById("filter-nuts-me-name").addEventListener("change", applyFilters);
+document.getElementById("filter-nuts-beat").addEventListener("change", applyFilters);
 
 // Filter button event listeners
 document.getElementById("filter-button-1").addEventListener("click", () => {
