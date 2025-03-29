@@ -6,7 +6,7 @@ let jsonData = []; // Global variable to hold fetched JSON data
 // Function to fetch data from JSON file
 async function fetchData() {
     try {
-        const response = await fetch("data.json"); // Replace 'data.json' with your JSON file's path
+        const response = await fetch("json/data.json"); // Replace 'data.json' with your JSON file's path
         if (!response.ok) throw new Error("Failed to fetch data.");
         jsonData = await response.json();
         initialize(); // Populate the table and filters after fetching data
