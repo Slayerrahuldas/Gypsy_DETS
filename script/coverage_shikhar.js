@@ -6,7 +6,7 @@ let jsonData = []; // Global variable to hold fetched JSON data
 // Function to fetch data from JSON file
 async function fetchData() {
     try {
-        const response = await fetch("json/data.json"); // Replace 'data.json' with your JSON file's path
+        const response = await fetch("json/data.json"); // Ensure correct path
         if (!response.ok) throw new Error("Failed to fetch data.");
         jsonData = await response.json();
         initialize(); // Populate the table and filters after fetching data
@@ -39,22 +39,22 @@ function populateTable(data) {
     });
 }
 
-// Function to apply all filters and update the table and dropdowns
+// Function to apply all filters and update the table
 function applyFilters() {
     let filteredData = jsonData.filter((row) => {
         const filterValues = {
-            "DETS ME Name": document.getElementById("filter-deets-me-name").value,
-            "DETS Beat": document.getElementById("filter-deets-beat").value,
-            "FnR ME Name": document.getElementById("filter-fnr-me-name").value,
-            "FnR Beat": document.getElementById("filter-fnr-beat").value
+            "KIOSK ME Name": document.getElementById("filter-kiosk-me-name").value,
+            "KIOSK Beat": document.getElementById("filter-kiosk-beat").value,
+            "NUTS ME Name": document.getElementById("filter-nuts-me-name").value,
+            "NUTS Beat": document.getElementById("filter-nuts-beat").value
         };
         const searchQuery = document.getElementById("search-bar").value.toLowerCase();
 
         return (
-            (filterValues["DETS ME Name"] === "" || row["DETS ME Name"] === filterValues["DETS ME Name"]) &&
-            (filterValues["DETS Beat"] === "" || row["DETS Beat"] === filterValues["DETS Beat"]) &&
-            (filterValues["FnR ME Name"] === "" || row["FnR ME Name"] === filterValues["FnR ME Name"]) &&
-            (filterValues["FnR Beat"] === "" || row["FnR Beat"] === filterValues["FnR Beat"]) &&
+            (filterValues["KIOSK ME Name"] === "" || row["KIOSK ME Name"] === filterValues["KIOSK ME Name"]) &&
+            (filterValues["KIOSK Beat"] === "" || row["KIOSK Beat"] === filterValues["KIOSK Beat"]) &&
+            (filterValues["NUTS ME Name"] === "" || row["NUTS ME Name"] === filterValues["NUTS ME Name"]) &&
+            (filterValues["NUTS Beat"] === "" || row["NUTS Beat"] === filterValues["NUTS Beat"]) &&
             (searchQuery === "" ||
                 row["HUL Code"].toLowerCase().includes(searchQuery) ||
                 row["HUL Outlet Name"].toLowerCase().includes(searchQuery)) &&
@@ -70,17 +70,17 @@ function applyFilters() {
 // Function to update dropdown options dynamically
 function updateDropdowns(filteredData) {
     const dropdowns = {
-        "filter-deets-me-name": { header: "DETS ME Name", values: new Set() },
-        "filter-deets-beat": { header: "DETS Beat", values: new Set() },
-        "filter-fnr-me-name": { header: "FnR ME Name", values: new Set() },
-        "filter-fnr-beat": { header: "FnR Beat", values: new Set() }
+        "filter-kiosk-me-name": { header: "KIOSK ME Name", values: new Set() },
+        "filter-kiosk-beat": { header: "KIOSK Beat", values: new Set() },
+        "filter-nuts-me-name": { header: "NUTS ME Name", values: new Set() },
+        "filter-nuts-beat": { header: "NUTS Beat", values: new Set() }
     };
 
     filteredData.forEach((row) => {
-        if (row["DETS ME Name"]) dropdowns["filter-deets-me-name"].values.add(row["DETS ME Name"]);
-        if (row["DETS Beat"]) dropdowns["filter-deets-beat"].values.add(row["DETS Beat"]);
-        if (row["FnR ME Name"]) dropdowns["filter-fnr-me-name"].values.add(row["FnR ME Name"]);
-        if (row["FnR Beat"]) dropdowns["filter-fnr-beat"].values.add(row["FnR Beat"]);
+        if (row["KIOSK ME Name"]) dropdowns["filter-kiosk-me-name"].values.add(row["KIOSK ME Name"]);
+        if (row["KIOSK Beat"]) dropdowns["filter-kiosk-beat"].values.add(row["KIOSK Beat"]);
+        if (row["NUTS ME Name"]) dropdowns["filter-nuts-me-name"].values.add(row["NUTS ME Name"]);
+        if (row["NUTS Beat"]) dropdowns["filter-nuts-beat"].values.add(row["NUTS Beat"]);
     });
 
     Object.keys(dropdowns).forEach((id) => {
