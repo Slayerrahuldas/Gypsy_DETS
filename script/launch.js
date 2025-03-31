@@ -18,18 +18,17 @@ function populateTable(data) {
 
     data.forEach((item, index) => {
         const row = document.createElement("tr");
-        
-        // Add row number
+
         const rowNumberCell = document.createElement("td");
         rowNumberCell.textContent = index + 1;
         row.appendChild(rowNumberCell);
 
-        ["HUL Code", "HUL Outlet Name", "ME Name", "DETS Beat", "BasePack Code", "BasePack Desc", "Target (VMQ)", "Achv Qty", "Status"].forEach(key => {
+        ["HUL Code", "HUL Outlet Name", "ME Name", "BEAT", "BasePack Code", "BasePack Desc", "Target (VMQ)", "Achv Qty", "Status"].forEach(key => {
             const cell = document.createElement("td");
             cell.textContent = item[key] || "";
             row.appendChild(cell);
         });
-        
+
         tableBody.appendChild(row);
     });
 }
@@ -39,7 +38,7 @@ function applyFilters() {
 
     const filters = {
         "ME Name": document.getElementById("filter-me-name").value,
-        "DETS Beat": document.getElementById("filter-dets-beat").value,
+        "BEAT": document.getElementById("filter-beat").value,
         "BasePack Desc": document.getElementById("filter-basepack-desc").value
     };
 
@@ -47,11 +46,11 @@ function applyFilters() {
 
     filteredData = filteredData.filter(row => 
         (!filters["ME Name"] || row["ME Name"] === filters["ME Name"]) &&
-        (!filters["DETS Beat"] || row["DETS Beat"] === filters["DETS Beat"]) &&
+        (!filters["BEAT"] || row["BEAT"] === filters["BEAT"]) &&
         (!filters["BasePack Desc"] || row["BasePack Desc"] === filters["BasePack Desc"]) &&
         (!searchQuery || row["HUL Code"].toLowerCase().includes(searchQuery) || row["HUL Outlet Name"].toLowerCase().includes(searchQuery))
     );
-    
+
     if (filterButtonActive) {
         filteredData = filteredData.filter(row => row["Status"] === "Pending");
     }
@@ -61,12 +60,12 @@ function applyFilters() {
 }
 
 function updateDropdowns(filteredData) {
-    const headers = ["ME Name", "DETS Beat", "BasePack Desc"];
+    const headers = ["ME Name", "BEAT", "BasePack Desc"];
     const options = headers.reduce((acc, key) => {
         acc[key] = new Set(filteredData.map(row => row[key]).filter(Boolean));
         return acc;
     }, {});
-    
+
     headers.forEach(header => populateSelectDropdown(`filter-${header.toLowerCase().replace(/ /g, '-')}`, options[header], header));
 }
 
@@ -94,13 +93,13 @@ document.getElementById("reset-button").addEventListener("click", () => {
     filterButtonActive = false;
     document.getElementById("filter-button-1").style.backgroundColor = "blue";
     document.getElementById("search-bar").value = "";
-    ["filter-me-name", "filter-dets-beat", "filter-basepack-desc"].forEach(id => document.getElementById(id).selectedIndex = 0);
+    ["filter-me-name", "filter-beat", "filter-basepack-desc"].forEach(id => document.getElementById(id).selectedIndex = 0);
     applyFilters();
 });
 
 document.getElementById("search-bar").addEventListener("input", applyFilters);
 document.getElementById("filter-me-name").addEventListener("change", applyFilters);
-document.getElementById("filter-dets-beat").addEventListener("change", applyFilters);
+document.getElementById("filter-beat").addEventListener("change", applyFilters);
 document.getElementById("filter-basepack-desc").addEventListener("change", applyFilters);
 
 document.getElementById("filter-button-1").addEventListener("click", () => {
