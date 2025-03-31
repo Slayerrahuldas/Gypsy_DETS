@@ -19,37 +19,36 @@ function populateTable(data) {
     data.forEach((item, index) => {
         const row = document.createElement("tr");
 
-        const rowNumberCell = document.createElement("td");
-        rowNumberCell.textContent = index + 1;
-        row.appendChild(rowNumberCell);
+        // Add row number
+        row.appendChild(createCell(index + 1));
 
+        // Add data columns
         ["HUL Code", "HUL Outlet Name", "ME Name", "BEAT", "BasePack Code", "BasePack Desc", "Target (VMQ)", "Achv Qty", "Status"].forEach(key => {
-            const cell = document.createElement("td");
-            cell.textContent = item[key] || "";
-            row.appendChild(cell);
+            row.appendChild(createCell(item[key]));
         });
 
         tableBody.appendChild(row);
     });
 }
 
+// Utility function to create table cells
+function createCell(value) {
+    const cell = document.createElement("td");
+    cell.textContent = value !== undefined && value !== null ? value : "";
+    return cell;
+}
+
 function applyFilters() {
-    let filteredData = [...jsonData];
-
-    const filters = {
-        "ME Name": document.getElementById("filter-me-name").value,
-        "BEAT": document.getElementById("filter-beat").value,
-        "BasePack Desc": document.getElementById("filter-basepack-desc").value
-    };
-
-    const searchQuery = document.getElementById("search-bar").value.toLowerCase();
-
-    filteredData = filteredData.filter(row => 
-        (!filters["ME Name"] || row["ME Name"] === filters["ME Name"]) &&
-        (!filters["BEAT"] || row["BEAT"] === filters["BEAT"]) &&
-        (!filters["BasePack Desc"] || row["BasePack Desc"] === filters["BasePack Desc"]) &&
-        (!searchQuery || row["HUL Code"].toLowerCase().includes(searchQuery) || row["HUL Outlet Name"].toLowerCase().includes(searchQuery))
-    );
+    let filteredData = jsonData.filter(row => {
+        return (
+            (getFilterValue("filter-me-name") === "" || row["ME Name"] === getFilterValue("filter-me-name")) &&
+            (getFilterValue("filter-beat") === "" || row["BEAT"] === getFilterValue("filter-beat")) &&
+            (getFilterValue("filter-basepack-desc") === "" || row["BasePack Desc"] === getFilterValue("filter-basepack-desc")) &&
+            (document.getElementById("search-bar").value === "" || 
+                row["HUL Code"].toLowerCase().includes(document.getElementById("search-bar").value.toLowerCase()) ||
+                row["HUL Outlet Name"].toLowerCase().includes(document.getElementById("search-bar").value.toLowerCase()))
+        );
+    });
 
     if (filterButtonActive) {
         filteredData = filteredData.filter(row => row["Status"] === "Pending");
@@ -59,36 +58,37 @@ function applyFilters() {
     updateDropdowns(filteredData);
 }
 
-function updateDropdowns(filteredData) {
-    const headers = ["ME Name", "BEAT", "BasePack Desc"];
-    const options = headers.reduce((acc, key) => {
-        acc[key] = new Set(filteredData.map(row => row[key]).filter(Boolean));
-        return acc;
-    }, {});
-
-    headers.forEach(header => populateSelectDropdown(`filter-${header.toLowerCase().replace(/ /g, '-')}`, options[header], header));
+// Helper function to get filter values
+function getFilterValue(id) {
+    return document.getElementById(id).value;
 }
 
-function populateSelectDropdown(id, optionsSet, columnName) {
+function updateDropdowns(filteredData) {
+    const headers = ["ME Name", "BEAT", "BasePack Desc"];
+    headers.forEach(header => populateDropdown(`filter-${header.toLowerCase().replace(/ /g, '-')}`, getUniqueValues(filteredData, header), header));
+}
+
+// Extract unique values for dropdowns
+function getUniqueValues(data, key) {
+    return [...new Set(data.map(item => item[key]).filter(Boolean))];
+}
+
+// Populate dropdowns dynamically
+function populateDropdown(id, options, defaultText) {
     const dropdown = document.getElementById(id);
     const selectedValue = dropdown.value;
     dropdown.innerHTML = "";
 
-    const defaultOption = document.createElement("option");
-    defaultOption.textContent = columnName;
-    defaultOption.value = "";
-    defaultOption.selected = true;
-    dropdown.appendChild(defaultOption);
+    dropdown.appendChild(new Option(defaultText, "", true));
 
-    optionsSet.forEach(option => {
-        const optionElement = document.createElement("option");
-        optionElement.textContent = option;
-        optionElement.value = option;
+    options.forEach(option => {
+        const optionElement = new Option(option, option);
         if (option === selectedValue) optionElement.selected = true;
         dropdown.appendChild(optionElement);
     });
 }
 
+// Event Listeners
 document.getElementById("reset-button").addEventListener("click", () => {
     filterButtonActive = false;
     document.getElementById("filter-button-1").style.backgroundColor = "blue";
