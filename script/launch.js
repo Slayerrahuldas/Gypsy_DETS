@@ -22,7 +22,7 @@ function populateTable(data) {
         // Add row number
         row.appendChild(createCell(index + 1));
 
-        // Add data columns
+        // Add table data
         ["HUL Code", "HUL Outlet Name", "ME Name", "BEAT", "BasePack Code", "BasePack Desc", "Target (VMQ)", "Achv Qty", "Status"].forEach(key => {
             row.appendChild(createCell(item[key]));
         });
@@ -31,10 +31,10 @@ function populateTable(data) {
     });
 }
 
-// Utility function to create table cells
+// 🛠 Utility function to create table cells (Fixes Zero Display Issue)
 function createCell(value) {
     const cell = document.createElement("td");
-    cell.textContent = value !== undefined && value !== null ? value : "";
+    cell.textContent = value === 0 ? "0" : value !== undefined && value !== null ? value : "";
     return cell;
 }
 
@@ -58,7 +58,7 @@ function applyFilters() {
     updateDropdowns(filteredData);
 }
 
-// Helper function to get filter values
+// 🛠 Helper function to get filter values
 function getFilterValue(id) {
     return document.getElementById(id).value;
 }
@@ -68,12 +68,12 @@ function updateDropdowns(filteredData) {
     headers.forEach(header => populateDropdown(`filter-${header.toLowerCase().replace(/ /g, '-')}`, getUniqueValues(filteredData, header), header));
 }
 
-// Extract unique values for dropdowns
+// 🛠 Extract unique values for dropdowns
 function getUniqueValues(data, key) {
     return [...new Set(data.map(item => item[key]).filter(Boolean))];
 }
 
-// Populate dropdowns dynamically
+// 🛠 Populate dropdowns dynamically
 function populateDropdown(id, options, defaultText) {
     const dropdown = document.getElementById(id);
     const selectedValue = dropdown.value;
@@ -88,7 +88,7 @@ function populateDropdown(id, options, defaultText) {
     });
 }
 
-// Event Listeners
+// 📌 Event Listeners
 document.getElementById("reset-button").addEventListener("click", () => {
     filterButtonActive = false;
     document.getElementById("filter-button-1").style.backgroundColor = "blue";
@@ -108,6 +108,7 @@ document.getElementById("filter-button-1").addEventListener("click", () => {
     applyFilters();
 });
 
+// 🚀 Initialize
 function initialize() {
     populateTable(jsonData);
     applyFilters();
