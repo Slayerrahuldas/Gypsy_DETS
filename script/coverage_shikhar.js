@@ -1,146 +1,71 @@
-// Track the state of filter buttons
-let filterButton1Active = false;
-let filterButton2Active = false;
-let jsonData = []; // Global variable to hold fetched JSON data
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coverage & Shikhar</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <link rel="stylesheet" href="css/pages.css">
+</head>
+<body>
+    <header>
+        <h1><b>Coverage & Shikhar Dashboard</b></h1>
+    </header>
+    
+    <nav class="navbar">
+        <ul>
+            <li><a href="index.html"><img src="images/home.png" alt="Home" width="20"></a></li>
+            <li><a href="coverage_shikhar.html">Coverage & Shikhar</a></li>
+            <li><a href="sales.html">Sales</a></li>
+            <li><a href="launch.html">Launch</a></li>
+        </ul>
+    </nav>
+    
+    <div class="container">
+        <div class="search-bar-container">
+            <input type="text" id="search-bar" placeholder="Search by HUL Code or Party Name">
+        </div>
 
-// Function to fetch data from JSON file
-async function fetchData() {
-    try {
-        const response = await fetch("json/data.json"); // Ensure correct path
-        if (!response.ok) throw new Error("Failed to fetch data.");
-        jsonData = await response.json();
-        initialize(); // Populate the table and filters after fetching data
-    } catch (error) {
-        console.error("Error fetching data:", error);
-    }
-}
+        <div class="filters-container">
+            <select id="filter-dets-me-name">
+                <option value="">DETS ME Name</option>
+            </select>
+            <select id="filter-dets-beat">
+                <option value="">DETS Beat</option>
+            </select>
+            <select id="filter-fnb-me-name">
+                <option value="">FNB ME Name</option>
+            </select>
+            <select id="filter-fnb-beat">
+                <option value="">FNB Beat</option>
+            </select>
+        </div>
 
-// Function to populate the table with dynamic numbering
-function populateTable(data) {
-    const tableBody = document.getElementById("table-body");
-    tableBody.innerHTML = ""; // Clear existing data
+        <div class="buttons-container">
+            <button id="filter-button-1">ECO < 1000</button>
+            <button id="filter-button-2">Shikhar < 500</button>
+            <button id="reset-button">Reset Filters</button>
+        </div>
 
-    data.forEach((item, index) => {
-        const row = document.createElement("tr");
+        <table id="data-table">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>HUL Code</th>
+                    <th>Party Name</th>
+                    <th>Shikhar Outlet</th>
+                    <th>DETS ME Name</th>
+                    <th>DETS Beat</th>
+                    <th>FNB ME Name</th>
+                    <th>FNB Beat</th>
+                    <th>ECO</th>
+                    <th>SHIKHAR</th>
+                </tr>
+            </thead>
+            <tbody id="table-body"></tbody>
+        </table>
+    </div>
 
-        // Add row number (dynamic numbering)
-        const serialCell = document.createElement("td");
-        serialCell.textContent = index + 1; // Start from 1
-        row.appendChild(serialCell);
-
-        // Add data cells
-        for (const key in item) {
-            const cell = document.createElement("td");
-            cell.textContent = item[key];
-            row.appendChild(cell);
-        }
-
-        tableBody.appendChild(row);
-    });
-}
-
-// Function to apply all filters and update the table
-function applyFilters() {
-    let filteredData = jsonData.filter((row) => {
-        const filterValues = {
-            "KIOSK ME Name": document.getElementById("filter-kiosk-me-name").value,
-            "KIOSK Beat": document.getElementById("filter-kiosk-beat").value,
-            "NUTS ME Name": document.getElementById("filter-nuts-me-name").value,
-            "NUTS Beat": document.getElementById("filter-nuts-beat").value
-        };
-        const searchQuery = document.getElementById("search-bar").value.toLowerCase();
-
-        return (
-            (filterValues["KIOSK ME Name"] === "" || row["KIOSK ME Name"] === filterValues["KIOSK ME Name"]) &&
-            (filterValues["KIOSK Beat"] === "" || row["KIOSK Beat"] === filterValues["KIOSK Beat"]) &&
-            (filterValues["NUTS ME Name"] === "" || row["NUTS ME Name"] === filterValues["NUTS ME Name"]) &&
-            (filterValues["NUTS Beat"] === "" || row["NUTS Beat"] === filterValues["NUTS Beat"]) &&
-            (searchQuery === "" ||
-                row["HUL Code"].toLowerCase().includes(searchQuery) ||
-                row["HUL Outlet Name"].toLowerCase().includes(searchQuery)) &&
-            (!filterButton1Active || row["ECO"] < 1000) &&
-            (!filterButton2Active || (row["Shikhar"] < 500 && row["Shikhar Onboarding"] === "YES"))
-        );
-    });
-
-    populateTable(filteredData);
-    updateDropdowns(filteredData);
-}
-
-// Function to update dropdown options dynamically
-function updateDropdowns(filteredData) {
-    const dropdowns = {
-        "filter-kiosk-me-name": { header: "KIOSK ME Name", values: new Set() },
-        "filter-kiosk-beat": { header: "KIOSK Beat", values: new Set() },
-        "filter-nuts-me-name": { header: "NUTS ME Name", values: new Set() },
-        "filter-nuts-beat": { header: "NUTS Beat", values: new Set() }
-    };
-
-    filteredData.forEach((row) => {
-        if (row["KIOSK ME Name"]) dropdowns["filter-kiosk-me-name"].values.add(row["KIOSK ME Name"]);
-        if (row["KIOSK Beat"]) dropdowns["filter-kiosk-beat"].values.add(row["KIOSK Beat"]);
-        if (row["NUTS ME Name"]) dropdowns["filter-nuts-me-name"].values.add(row["NUTS ME Name"]);
-        if (row["NUTS Beat"]) dropdowns["filter-nuts-beat"].values.add(row["NUTS Beat"]);
-    });
-
-    Object.keys(dropdowns).forEach((id) => {
-        populateSelectDropdown(id, dropdowns[id].values, dropdowns[id].header);
-    });
-}
-
-// Function to populate a single dropdown with a header as the default placeholder
-function populateSelectDropdown(id, optionsSet, headerName) {
-    const dropdown = document.getElementById(id);
-    const selectedValue = dropdown.value;
-    dropdown.innerHTML = `<option value="">${headerName}</option>`; // Use column name as default option
-
-    optionsSet.forEach((option) => {
-        dropdown.innerHTML += `<option value="${option}" ${option === selectedValue ? "selected" : ""}>${option}</option>`;
-    });
-}
-
-// Function to reset filters
-function resetFilters() {
-    filterButton1Active = filterButton2Active = false;
-    document.getElementById("filter-button-1").style.backgroundColor = "blue";
-    document.getElementById("filter-button-2").style.backgroundColor = "blue";
-
-    document.getElementById("search-bar").value = "";
-    document.querySelectorAll("select").forEach((dropdown) => (dropdown.value = ""));
-
-    applyFilters();
-}
-
-// Debounce function to optimize search performance
-function debounce(func, delay = 300) {
-    let timer;
-    return function (...args) {
-        clearTimeout(timer);
-        timer = setTimeout(() => func(...args), delay);
-    };
-}
-
-// Initialize the table and filters
-function initialize() {
-    document.getElementById("reset-button").addEventListener("click", resetFilters);
-    document.getElementById("search-bar").addEventListener("input", debounce(applyFilters));
-    document.querySelectorAll("select").forEach((dropdown) => dropdown.addEventListener("change", applyFilters));
-
-    document.getElementById("filter-button-1").addEventListener("click", () => {
-        filterButton1Active = !filterButton1Active;
-        document.getElementById("filter-button-1").style.backgroundColor = filterButton1Active ? "green" : "blue";
-        applyFilters();
-    });
-
-    document.getElementById("filter-button-2").addEventListener("click", () => {
-        filterButton2Active = !filterButton2Active;
-        document.getElementById("filter-button-2").style.backgroundColor = filterButton2Active ? "green" : "blue";
-        applyFilters();
-    });
-
-    populateTable(jsonData);
-    applyFilters();
-}
-
-// Fetch data and initialize the page
-fetchData();
+    <script src="script/coverage_shikhar.js"></script>
+</body>
+</html>
