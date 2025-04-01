@@ -1,71 +1,107 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Coverage & Shikhar</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
-    <link rel="stylesheet" href="css/pages.css">
-</head>
-<body>
-    <header>
-        <h1><b>Coverage & Shikhar Dashboard</b></h1>
-    </header>
-    
-    <nav class="navbar">
-        <ul>
-            <li><a href="index.html"><img src="images/home.png" alt="Home" width="20"></a></li>
-            <li><a href="coverage_shikhar.html">Coverage & Shikhar</a></li>
-            <li><a href="sales.html">Sales</a></li>
-            <li><a href="launch.html">Launch</a></li>
-        </ul>
-    </nav>
-    
-    <div class="container">
-        <div class="search-bar-container">
-            <input type="text" id="search-bar" placeholder="Search by HUL Code or Party Name">
-        </div>
+let filterButton1Active = false;
+let filterButton2Active = false;
+let jsonData = [];
 
-        <div class="filters-container">
-            <select id="filter-dets-me-name">
-                <option value="">DETS ME Name</option>
-            </select>
-            <select id="filter-dets-beat">
-                <option value="">DETS Beat</option>
-            </select>
-            <select id="filter-fnb-me-name">
-                <option value="">FNB ME Name</option>
-            </select>
-            <select id="filter-fnb-beat">
-                <option value="">FNB Beat</option>
-            </select>
-        </div>
+async function fetchData() {
+    try {
+        const response = await fetch("json/data.json");
+        if (!response.ok) throw new Error("Failed to fetch data.");
+        jsonData = await response.json();
+        initialize();
+    } catch (error) {
+        console.error("Error fetching data:", error);
+    }
+}
 
-        <div class="buttons-container">
-            <button id="filter-button-1">ECO < 1000</button>
-            <button id="filter-button-2">Shikhar < 500</button>
-            <button id="reset-button">Reset Filters</button>
-        </div>
+function populateTable(data) {
+    const tableBody = document.getElementById("table-body");
+    tableBody.innerHTML = "";
 
-        <table id="data-table">
-            <thead>
-                <tr>
-                    <th>#</th>
-                    <th>HUL Code</th>
-                    <th>Party Name</th>
-                    <th>Shikhar Outlet</th>
-                    <th>DETS ME Name</th>
-                    <th>DETS Beat</th>
-                    <th>FNB ME Name</th>
-                    <th>FNB Beat</th>
-                    <th>ECO</th>
-                    <th>SHIKHAR</th>
-                </tr>
-            </thead>
-            <tbody id="table-body"></tbody>
-        </table>
-    </div>
+    data.forEach((item, index) => {
+        const row = document.createElement("tr");
 
-    <script src="script/coverage_shikhar.js"></script>
-</body>
-</html>
+        const serialCell = document.createElement("td");
+        serialCell.textContent = index + 1;
+        row.appendChild(serialCell);
+
+        const columns = ["HUL Code", "Party Name", "Shikhar Outlet", "DETS ME Name", "DETS Beat", "FNB ME Name", "FNB Beat", "ECO", "SHIKHAR"];
+        columns.forEach((key) => {
+            const cell = document.createElement("td");
+            cell.textContent = item[key] !== 0 ? item[key] : "-";
+            row.appendChild(cell);
+        });
+
+        tableBody.appendChild(row);
+    });
+}
+
+function applyFilters() {
+    let filteredData = jsonData.filter((row) => {
+        const filterValues = {
+            "DETS ME Name": document.getElementById("filter-dets-me-name").value,
+            "DETS Beat": document.getElementById("filter-dets-beat").value,
+            "FNB ME Name": document.getElementById("filter-fnb-me-name").value,
+            "FNB Beat": document.getElementById("filter-fnb-beat").value
+        };
+        const searchQuery = document.getElementById("search-bar").value.toLowerCase();
+
+        return (
+            (filterValues["DETS ME Name"] === "" || row["DETS ME Name"] === filterValues["DETS ME Name"]) &&
+            (filterValues["DETS Beat"] === "" || row["DETS Beat"] === filterValues["DETS Beat"]) &&
+            (filterValues["FNB ME Name"] === "" || row["FNB ME Name"] === filterValues["FNB ME Name"]) &&
+            (filterValues["FNB Beat"] === "" || row["FNB Beat"] === filterValues["FNB Beat"]) &&
+            (searchQuery === "" ||
+                row["HUL Code"].toLowerCase().includes(searchQuery) ||
+                row["Party Name"].toLowerCase().includes(searchQuery)) &&
+            (!filterButton1Active || row["ECO"] < 1000) &&
+            (!filterButton2Active || row["SHIKHAR"] < 500)
+        );
+    });
+
+    populateTable(filteredData);
+    updateDropdowns(filteredData);
+}
+
+function updateDropdowns(filteredData) {
+    const dropdowns = {
+        "filter-dets-me-name": { header: "DETS ME Name", values: new Set() },
+        "filter-dets-beat": { header: "DETS Beat", values: new Set() },
+        "filter-fnb-me-name": { header: "FNB ME Name", values: new Set() },
+        "filter-fnb-beat": { header: "FNB Beat", values: new Set() }
+    };
+
+    filteredData.forEach((row) => {
+        Object.keys(dropdowns).forEach((id) => {
+            if (row[dropdowns[id].header]) dropdowns[id].values.add(row[dropdowns[id].header]);
+        });
+    });
+
+    Object.keys(dropdowns).forEach((id) => {
+        populateSelectDropdown(id, dropdowns[id].values, dropdowns[id].header);
+    });
+}
+
+function populateSelectDropdown(id, optionsSet, headerName) {
+    const dropdown = document.getElementById(id);
+    dropdown.innerHTML = `<option value="">${headerName}</option>`;
+
+    optionsSet.forEach((option) => {
+        dropdown.innerHTML += `<option value="${option}">${option}</option>`;
+    });
+}
+
+function resetFilters() {
+    filterButton1Active = filterButton2Active = false;
+    document.getElementById("search-bar").value = "";
+    document.querySelectorAll("select").forEach((dropdown) => (dropdown.value = ""));
+    applyFilters();
+}
+
+function initialize() {
+    document.getElementById("reset-button").addEventListener("click", resetFilters);
+    document.getElementById("search-bar").addEventListener("input", applyFilters);
+    document.querySelectorAll("select").forEach((dropdown) => dropdown.addEventListener("change", applyFilters));
+    applyFilters();
+}
+
+fetchData();
