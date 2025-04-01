@@ -8,12 +8,10 @@
     <link rel="stylesheet" href="css/pages.css">
 </head>
 <body>
-    <!-- Header section -->
     <header>
         <h1><b>Coverage & Shikhar Dashboard</b></h1>
     </header>
     
-    <!-- Navigation Bar -->
     <nav class="navbar">
         <ul>
             <li><a href="index.html"><img src="images/home.png" alt="Home" width="20"></a></li>
@@ -24,57 +22,50 @@
     </nav>
     
     <div class="container">
-        <!-- Search Bar -->
         <div class="search-bar-container">
-            <input type="text" id="search-bar" placeholder="Search by HUL Code or Outlet Name">
+            <input type="text" id="search-bar" placeholder="Search by HUL Code or Party Name">
         </div>
 
-        <!-- Filters for KIOSK and NUTS fields -->
         <div class="filters-container">
-            <select id="filter-kiosk-me-name">
-                <option value="">KIOSK ME Name</option>
+            <select id="filter-dets-me-name">
+                <option value="">DETS ME Name</option>
             </select>
-            <select id="filter-kiosk-beat">
-                <option value="">KIOSK Beat</option>
+            <select id="filter-dets-beat">
+                <option value="">DETS Beat</option>
             </select>
-            <select id="filter-nuts-me-name">
-                <option value="">NUTS ME Name</option>
+            <select id="filter-fnb-me-name">
+                <option value="">FNB ME Name</option>
             </select>
-            <select id="filter-nuts-beat">
-                <option value="">NUTS Beat</option>
+            <select id="filter-fnb-beat">
+                <option value="">FNB Beat</option>
             </select>
         </div>
 
-        <!-- Buttons for filtering -->
         <div class="buttons-container">
             <button id="filter-button-1">ECO < 1000</button>
             <button id="filter-button-2">Shikhar < 500</button>
             <button id="reset-button">Reset Filters</button>
         </div>
 
-        <!-- Table -->
         <table id="data-table">
             <thead>
                 <tr>
                     <th>#</th>
                     <th>HUL Code</th>
-                    <th>HUL Outlet Name</th>
-                    <th>Shikhar Onboarding</th>
-                    <th>KIOSK ME Name</th>
-                    <th>KIOSK Beat</th>
-                    <th>NUTS ME Name</th>
-                    <th>NUTS Beat</th>
+                    <th>Party Name</th>
+                    <th>Shikhar Outlet</th>
+                    <th>DETS ME Name</th>
+                    <th>DETS Beat</th>
+                    <th>FNB ME Name</th>
+                    <th>FNB Beat</th>
                     <th>ECO</th>
-                    <th>Shikhar</th>
+                    <th>SHIKHAR</th>
                 </tr>
             </thead>
-            <tbody id="table-body">
-                <!-- Data will be populated here dynamically -->
-            </tbody>
+            <tbody id="table-body"></tbody>
         </table>
     </div>
 
-    <!-- Link to the script -->
     <script src="script/coverage_shikhar.js"></script>
 </body>
 </html>
