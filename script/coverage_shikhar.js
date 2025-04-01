@@ -24,7 +24,7 @@ function populateTable(data) {
         serialCell.textContent = index + 1;
         row.appendChild(serialCell);
 
-        const columns = ["HUL Code", "Party Name", "Shikhar Outlet", "DETS ME Name", "DETS Beat", "FNB ME Name", "FNB Beat", "ECO", "SHIKHAR"];
+        const columns = ["HUL Code", "Party Name", "Shikhar Outlet", "DETS ME Name", "DETS Beat", "FNB ME Name", "FNB Beat", "NUTS ME Name", "NUTS Beat", "ECO", "SHIKHAR"];
         columns.forEach((key) => {
             const cell = document.createElement("td");
             cell.textContent = item[key] !== 0 ? item[key] : "-";
@@ -41,15 +41,14 @@ function applyFilters() {
             "DETS ME Name": document.getElementById("filter-dets-me-name").value,
             "DETS Beat": document.getElementById("filter-dets-beat").value,
             "FNB ME Name": document.getElementById("filter-fnb-me-name").value,
-            "FNB Beat": document.getElementById("filter-fnb-beat").value
+            "FNB Beat": document.getElementById("filter-fnb-beat").value,
+            "NUTS ME Name": document.getElementById("filter-nuts-me-name").value,
+            "NUTS Beat": document.getElementById("filter-nuts-beat").value
         };
         const searchQuery = document.getElementById("search-bar").value.toLowerCase();
 
         return (
-            (filterValues["DETS ME Name"] === "" || row["DETS ME Name"] === filterValues["DETS ME Name"]) &&
-            (filterValues["DETS Beat"] === "" || row["DETS Beat"] === filterValues["DETS Beat"]) &&
-            (filterValues["FNB ME Name"] === "" || row["FNB ME Name"] === filterValues["FNB ME Name"]) &&
-            (filterValues["FNB Beat"] === "" || row["FNB Beat"] === filterValues["FNB Beat"]) &&
+            Object.keys(filterValues).every((key) => filterValues[key] === "" || row[key] === filterValues[key]) &&
             (searchQuery === "" ||
                 row["HUL Code"].toLowerCase().includes(searchQuery) ||
                 row["Party Name"].toLowerCase().includes(searchQuery)) &&
@@ -67,7 +66,9 @@ function updateDropdowns(filteredData) {
         "filter-dets-me-name": { header: "DETS ME Name", values: new Set() },
         "filter-dets-beat": { header: "DETS Beat", values: new Set() },
         "filter-fnb-me-name": { header: "FNB ME Name", values: new Set() },
-        "filter-fnb-beat": { header: "FNB Beat", values: new Set() }
+        "filter-fnb-beat": { header: "FNB Beat", values: new Set() },
+        "filter-nuts-me-name": { header: "NUTS ME Name", values: new Set() },
+        "filter-nuts-beat": { header: "NUTS Beat", values: new Set() }
     };
 
     filteredData.forEach((row) => {
