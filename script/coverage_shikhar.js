@@ -32,7 +32,7 @@ function populateTable(data) {
         const columns = [
             "HUL Code", "HUL Outlet Name", "Shikhar Outlet",
             "DETS ME Name", "DETS Beat", "FNB ME Name", 
-            "FNB Beat", "NUTS ME Name", "NUTS Beat", "ECO", "SHIKHAR"
+            "FNB Beat", "NUTS ME Name", "NUTS Beat", "ECO", "Shikhar"
         ];
         
         columns.forEach((key) => {
@@ -69,7 +69,7 @@ function applyFilters() {
                 row["HUL Code"].toLowerCase().includes(searchQuery) ||
                 row["HUL Outlet Name"].toLowerCase().includes(searchQuery)) &&
             (!filterButton1Active || row["ECO"] < 1000) &&
-            (!filterButton2Active || row["SHIKHAR"] < 500)
+            (!filterButton2Active || row["Shikhar"] < 500)
         );
     });
 
