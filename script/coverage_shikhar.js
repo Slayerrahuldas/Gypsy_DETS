@@ -6,7 +6,7 @@ let jsonData = []; // Global variable to hold fetched JSON data
 // Function to fetch data from JSON file
 async function fetchData() {
     try {
-        const response = await fetch("json/data.json"); // Ensure 'data.json' is in the correct path
+        const response = await fetch("data.json"); // Adjust if your JSON file is in a different location
         if (!response.ok) throw new Error("Failed to fetch data.");
         jsonData = await response.json();
         initialize(); // Populate the table and filters after fetching data
@@ -30,22 +30,14 @@ function populateTable(data) {
 
         // Add data cells
         const columns = [
-            "HUL Code",
-            "Party Name",
-            "Shikhar Onboarding",
-            "DETS ME Name",
-            "DETS Beat",
-            "FNB ME Name",
-            "FNB Beat",
-            "NUTS ME Name",
-            "NUTS Beat",
-            "ECO",
-            "Shikhar"
+            "HUL Code", "Party Name", "Shikhar Outlet",
+            "DETS ME Name", "DETS Beat", "FNB ME Name", 
+            "FNB Beat", "NUTS ME Name", "NUTS Beat", "ECO", "SHIKHAR"
         ];
-
-        columns.forEach((col) => {
+        
+        columns.forEach((key) => {
             const cell = document.createElement("td");
-            cell.textContent = item[col] || ""; // Avoid undefined values
+            cell.textContent = item[key] !== undefined ? item[key] : "";
             row.appendChild(cell);
         });
 
@@ -64,7 +56,6 @@ function applyFilters() {
             "NUTS ME Name": document.getElementById("filter-nuts-me-name").value,
             "NUTS Beat": document.getElementById("filter-nuts-beat").value
         };
-
         const searchQuery = document.getElementById("search-bar").value.toLowerCase();
 
         return (
@@ -78,7 +69,7 @@ function applyFilters() {
                 row["HUL Code"].toLowerCase().includes(searchQuery) ||
                 row["Party Name"].toLowerCase().includes(searchQuery)) &&
             (!filterButton1Active || row["ECO"] < 1000) &&
-            (!filterButton2Active || row["Shikhar"] < 500)
+            (!filterButton2Active || row["SHIKHAR"] < 500)
         );
     });
 
@@ -98,10 +89,12 @@ function updateDropdowns(filteredData) {
     };
 
     filteredData.forEach((row) => {
-        Object.keys(dropdowns).forEach((id) => {
-            const columnName = dropdowns[id].header;
-            if (row[columnName]) dropdowns[id].values.add(row[columnName]);
-        });
+        if (row["DETS ME Name"]) dropdowns["filter-dets-me-name"].values.add(row["DETS ME Name"]);
+        if (row["DETS Beat"]) dropdowns["filter-dets-beat"].values.add(row["DETS Beat"]);
+        if (row["FNB ME Name"]) dropdowns["filter-fnb-me-name"].values.add(row["FNB ME Name"]);
+        if (row["FNB Beat"]) dropdowns["filter-fnb-beat"].values.add(row["FNB Beat"]);
+        if (row["NUTS ME Name"]) dropdowns["filter-nuts-me-name"].values.add(row["NUTS ME Name"]);
+        if (row["NUTS Beat"]) dropdowns["filter-nuts-beat"].values.add(row["NUTS Beat"]);
     });
 
     Object.keys(dropdowns).forEach((id) => {
