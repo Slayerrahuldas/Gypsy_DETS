@@ -30,7 +30,7 @@ function populateTable(data) {
 
         // Add data cells
         const columns = [
-            "HUL Code", "Party Name", "Shikhar Outlet",
+            "HUL Code", "HUL Outlet Name", "Shikhar Outlet",
             "DETS ME Name", "DETS Beat", "FNB ME Name", 
             "FNB Beat", "NUTS ME Name", "NUTS Beat", "ECO", "SHIKHAR"
         ];
@@ -67,7 +67,7 @@ function applyFilters() {
             (filterValues["NUTS Beat"] === "" || row["NUTS Beat"] === filterValues["NUTS Beat"]) &&
             (searchQuery === "" ||
                 row["HUL Code"].toLowerCase().includes(searchQuery) ||
-                row["Party Name"].toLowerCase().includes(searchQuery)) &&
+                row["HUL Outlet Name"].toLowerCase().includes(searchQuery)) &&
             (!filterButton1Active || row["ECO"] < 1000) &&
             (!filterButton2Active || row["SHIKHAR"] < 500)
         );
