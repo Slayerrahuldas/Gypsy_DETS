@@ -1,21 +1,22 @@
-// Track the state of filter buttons
+// Track filter button states
 let filterButton1Active = false;
 let filterButton2Active = false;
-let jsonData = []; // Global variable to hold fetched JSON data
+let jsonData = []; // Global variable to hold fetched data
 
-// Function to fetch data from JSON file
+// Fetch data from JSON file
 async function fetchData() {
     try {
         const response = await fetch("json/data.json"); // Ensure correct path
         if (!response.ok) throw new Error("Failed to fetch data.");
         jsonData = await response.json();
-        initialize(); // Populate the table and filters after fetching data
+        updateDropdowns(jsonData); // Populate dropdowns BEFORE initializing
+        initialize(); // Initialize event listeners and table
     } catch (error) {
         console.error("Error fetching data:", error);
     }
 }
 
-// Function to populate the table with dynamic numbering
+// Populate table with dynamic numbering
 function populateTable(data) {
     const tableBody = document.getElementById("table-body");
     tableBody.innerHTML = ""; // Clear existing data
@@ -23,12 +24,12 @@ function populateTable(data) {
     data.forEach((item, index) => {
         const row = document.createElement("tr");
 
-        // Add row number (dynamic numbering)
+        // Row number
         const serialCell = document.createElement("td");
-        serialCell.textContent = index + 1; // Start from 1
+        serialCell.textContent = index + 1;
         row.appendChild(serialCell);
 
-        // Add data cells
+        // Data cells
         for (const key in item) {
             const cell = document.createElement("td");
             cell.textContent = item[key];
@@ -39,40 +40,36 @@ function populateTable(data) {
     });
 }
 
-// Function to apply all filters and update the table
+// Apply filters and update table
 function applyFilters() {
-    let filteredData = jsonData.filter((row) => {
-        const filterValues = {
-            "DETS ME Name": document.getElementById("filter-deets-me-name").value,
-            "DETS Beat": document.getElementById("filter-deets-beat").value,
-            "FnR ME Name": document.getElementById("filter-fnr-me-name").value,
-            "FnR Beat": document.getElementById("filter-fnr-beat").value,
-            "NUTS ME Name": document.getElementById("filter-nuts-me-name").value,
-            "NUTS Beat": document.getElementById("filter-nuts-beat").value
-        };
-        const searchQuery = document.getElementById("search-bar").value.toLowerCase();
+    const filterValues = {
+        "DETS ME Name": document.getElementById("filter-deets-me-name").value,
+        "DETS Beat": document.getElementById("filter-deets-beat").value,
+        "FnR ME Name": document.getElementById("filter-fnr-me-name").value,
+        "FnR Beat": document.getElementById("filter-fnr-beat").value,
+        "NUTS ME Name": document.getElementById("filter-nuts-me-name").value,
+        "NUTS Beat": document.getElementById("filter-nuts-beat").value
+    };
+    const searchQuery = document.getElementById("search-bar").value.toLowerCase();
 
-        return (
-            (filterValues["DETS ME Name"] === "" || row["DETS ME Name"] === filterValues["DETS ME Name"]) &&
-            (filterValues["DETS Beat"] === "" || row["DETS Beat"] === filterValues["DETS Beat"]) &&
-            (filterValues["FnR ME Name"] === "" || row["FnR ME Name"] === filterValues["FnR ME Name"]) &&
-            (filterValues["FnR Beat"] === "" || row["FnR Beat"] === filterValues["FnR Beat"]) &&
-            (filterValues["NUTS ME Name"] === "" || row["NUTS ME Name"] === filterValues["NUTS ME Name"]) &&
-            (filterValues["NUTS Beat"] === "" || row["NUTS Beat"] === filterValues["NUTS Beat"]) &&
-            (searchQuery === "" ||
-                row["HUL Code"].toLowerCase().includes(searchQuery) ||
-                row["Party Name"].toLowerCase().includes(searchQuery)) &&
-            (!filterButton1Active || row["ECO"] < 1000) &&
-            (!filterButton2Active || (row["SHIKHAR"] < 500 && row["Shikhar Outlet"] === "YES"))
-        );
-    });
+    let filteredData = jsonData.filter((row) => 
+        (!filterValues["DETS ME Name"] || row["DETS ME Name"] === filterValues["DETS ME Name"]) &&
+        (!filterValues["DETS Beat"] || row["DETS Beat"] === filterValues["DETS Beat"]) &&
+        (!filterValues["FnR ME Name"] || row["FnR ME Name"] === filterValues["FnR ME Name"]) &&
+        (!filterValues["FnR Beat"] || row["FnR Beat"] === filterValues["FnR Beat"]) &&
+        (!filterValues["NUTS ME Name"] || row["NUTS ME Name"] === filterValues["NUTS ME Name"]) &&
+        (!filterValues["NUTS Beat"] || row["NUTS Beat"] === filterValues["NUTS Beat"]) &&
+        (!searchQuery || row["HUL Code"].toLowerCase().includes(searchQuery) ||
+         row["Party Name"].toLowerCase().includes(searchQuery)) &&
+        (!filterButton1Active || row["ECO"] < 1000) &&
+        (!filterButton2Active || (row["SHIKHAR"] < 500 && row["Shikhar Outlet"] === "YES"))
+    );
 
     populateTable(filteredData);
-    updateDropdowns(filteredData);
 }
 
-// Function to update dropdown options dynamically
-function updateDropdowns(filteredData) {
+// Update dropdown options dynamically
+function updateDropdowns(data) {
     const dropdowns = {
         "filter-deets-me-name": { header: "DETS ME Name", values: new Set() },
         "filter-deets-beat": { header: "DETS Beat", values: new Set() },
@@ -82,7 +79,7 @@ function updateDropdowns(filteredData) {
         "filter-nuts-beat": { header: "NUTS Beat", values: new Set() }
     };
 
-    filteredData.forEach((row) => {
+    data.forEach((row) => {
         if (row["DETS ME Name"]) dropdowns["filter-deets-me-name"].values.add(row["DETS ME Name"]);
         if (row["DETS Beat"]) dropdowns["filter-deets-beat"].values.add(row["DETS Beat"]);
         if (row["FnR ME Name"]) dropdowns["filter-fnr-me-name"].values.add(row["FnR ME Name"]);
@@ -96,18 +93,17 @@ function updateDropdowns(filteredData) {
     });
 }
 
-// Function to populate a single dropdown with a header as the default placeholder
+// Populate a single dropdown with a header
 function populateSelectDropdown(id, optionsSet, headerName) {
     const dropdown = document.getElementById(id);
-    const selectedValue = dropdown.value;
-    dropdown.innerHTML = `<option value="">${headerName}</option>`; // Use column name as default option (acts as 'All')
+    dropdown.innerHTML = `<option value="">${headerName}</option>`; // Default option
 
     optionsSet.forEach((option) => {
-        dropdown.innerHTML += `<option value="${option}" ${option === selectedValue ? "selected" : ""}>${option}</option>`;
+        dropdown.innerHTML += `<option value="${option}">${option}</option>`;
     });
 }
 
-// Function to reset filters
+// Reset all filters
 function resetFilters() {
     filterButton1Active = filterButton2Active = false;
     document.getElementById("filter-button-1").style.backgroundColor = "blue";
@@ -119,7 +115,7 @@ function resetFilters() {
     applyFilters();
 }
 
-// Debounce function to optimize search performance
+// Debounce function for better performance
 function debounce(func, delay = 300) {
     let timer;
     return function (...args) {
@@ -128,7 +124,7 @@ function debounce(func, delay = 300) {
     };
 }
 
-// Initialize the table and filters
+// Initialize event listeners
 function initialize() {
     document.getElementById("reset-button").addEventListener("click", resetFilters);
     document.getElementById("search-bar").addEventListener("input", debounce(applyFilters));
@@ -136,19 +132,16 @@ function initialize() {
 
     document.getElementById("filter-button-1").addEventListener("click", () => {
         filterButton1Active = !filterButton1Active;
-        document.getElementById("filter-button-1").style.backgroundColor = filterButton1Active ? "green" : "blue";
         applyFilters();
     });
 
     document.getElementById("filter-button-2").addEventListener("click", () => {
         filterButton2Active = !filterButton2Active;
-        document.getElementById("filter-button-2").style.backgroundColor = filterButton2Active ? "green" : "blue";
         applyFilters();
     });
 
-    populateTable(jsonData);
     applyFilters();
 }
 
-// Fetch data and initialize the page
-fetchData();
+// Fetch data when page loads
+window.onload = fetchData;
