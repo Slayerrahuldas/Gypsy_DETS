@@ -6,7 +6,7 @@
   <title>DETS Launch Dashboard</title>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
   <link rel="stylesheet" href="css/pages.css" />
-  <link rel="stylesheet" href="css/multiselect-dropdown.css" /> <!-- For Dropdown -->
+  <link rel="stylesheet" href="css/multiselect-dropdown.css" /> <!-- multilsellect dropdown style -->
 </head>
 <body>
   <header>
@@ -28,18 +28,19 @@
     </div>
 
     <div class="filters-container">
+      <!-- Regular dropdown -->
       <select id="filter-me-name">
         <option value="">ME Name</option>
       </select>
 
       <!-- Multi-select dropdown for BEAT -->
-      <select id="filter-beat" multiple multiselect-search="true" multiselect-select-all="true">
-        <!-- options will be populated dynamically -->
+      <select id="filter-beat" multiple>
+        <!-- Options will be dynamically added -->
       </select>
 
       <!-- Multi-select dropdown for BasePack Desc -->
-      <select id="filter-basepack-desc" multiple multiselect-search="true" multiselect-select-all="true">
-        <!-- options will be populated dynamically -->
+      <select id="filter-basepack-desc" multiple>
+        <!-- Options will be dynamically added -->
       </select>
     </div>
 
@@ -67,7 +68,7 @@
     </table>
   </div>
 
-  <script src="script/multiselect-dropdown.js"></script> <!-- For Dropdown -->
+  <script src="script/multiselect-dropdown.js"></script> <!-- multiselect JS -->
   <script src="script/launch.js"></script>
 </body>
 </html>
