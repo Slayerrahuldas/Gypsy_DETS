@@ -2,7 +2,7 @@
   {
     "HUL Code": "HUL-20B317D-P42434",
     "HUL Outlet Name": "GOPAL STORES-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -18,8 +18,8 @@
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P42519",
@@ -29,8 +29,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P42519",
@@ -40,8 +40,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P42519",
@@ -51,8 +51,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P42697",
@@ -73,8 +73,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P42887",
@@ -84,8 +84,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P42887",
@@ -95,13 +95,13 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P42925",
     "HUL Outlet Name": "S N PRASAD SHAW-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-AMARPALLY-2",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -112,7 +112,7 @@
   {
     "HUL Code": "HUL-20B317D-P42925",
     "HUL Outlet Name": "S N PRASAD SHAW-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-AMARPALLY-2",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -123,7 +123,7 @@
   {
     "HUL Code": "HUL-20B317D-P42925",
     "HUL Outlet Name": "S N PRASAD SHAW-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-AMARPALLY-2",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -161,8 +161,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P42977",
@@ -172,8 +172,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P42977",
@@ -183,8 +183,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P43026",
@@ -266,7 +266,7 @@
   {
     "HUL Code": "HUL-20B317D-P43237",
     "HUL Outlet Name": "BOKADAR DUKAN-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-BAGBAZAR-2+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -282,7 +282,7 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 6,
-    "Achv Qty": 6,
+    "Achv Qty": 18,
     "Status": "Completed"
   },
   {
@@ -293,8 +293,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 6,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P43308",
@@ -310,7 +310,7 @@
   {
     "HUL Code": "HUL-20B317D-P43315",
     "HUL Outlet Name": "M B Variety STORES-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -321,7 +321,7 @@
   {
     "HUL Code": "HUL-20B317D-P43368",
     "HUL Outlet Name": "Ice Point-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -337,8 +337,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 3,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-20B317D-P43509",
@@ -376,7 +376,7 @@
   {
     "HUL Code": "HUL-20B317D-P43571",
     "HUL Outlet Name": "Grocery For You-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-SHYAMBAZAR+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -403,8 +403,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P43706",
@@ -425,7 +425,7 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
+    "Achv Qty": 1,
     "Status": "Pending"
   },
   {
@@ -475,7 +475,7 @@
   {
     "HUL Code": "HUL-20B317D-P43797",
     "HUL Outlet Name": "Guptaji St.-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-2+NUTS",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -535,8 +535,8 @@
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P43916",
@@ -557,8 +557,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P43923",
@@ -574,7 +574,7 @@
   {
     "HUL Code": "HUL-20B317D-P43951",
     "HUL Outlet Name": "Madan Variety-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -585,7 +585,7 @@
   {
     "HUL Code": "HUL-20B317D-P43951",
     "HUL Outlet Name": "Madan Variety-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -601,8 +601,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P43973",
@@ -620,17 +620,6 @@
     "HUL Outlet Name": "Laxmi Vty. St.-D",
     "ME Name": "SAMAR ADHIKARI",
     "BEAT": "K-MURARIPUKUR+NUTS",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-20B317D-P44008",
-    "HUL Outlet Name": "Laxmi Vty. St.-D",
-    "ME Name": "SAMAR ADHIKARI",
-    "BEAT": "K-MURARIPUKUR+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
@@ -640,7 +629,7 @@
   {
     "HUL Code": "HUL-20B317D-P44015",
     "HUL Outlet Name": "Ritis Corner-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -722,8 +711,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P44122",
@@ -733,7 +722,7 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 2,
+    "Achv Qty": 8,
     "Status": "Completed"
   },
   {
@@ -799,8 +788,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P44214",
@@ -810,19 +799,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-20B317D-P44221",
-    "HUL Outlet Name": "Golden Shop-D",
-    "ME Name": "JAYANTA  MANDAL",
-    "BEAT": "D-HATIBAGAN",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P44221",
@@ -854,13 +832,13 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P44335",
     "HUL Outlet Name": "Shaw Tea And Snacks-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-2+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -893,18 +871,18 @@
   {
     "HUL Code": "HUL-20B317D-P44371",
     "HUL Outlet Name": "LAXMI NARAYAN DRY CLEANERS-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P44400",
     "HUL Outlet Name": "Sanjib Ghosh-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -948,7 +926,7 @@
   {
     "HUL Code": "HUL-20B317D-P44425",
     "HUL Outlet Name": "Saha Stores-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -959,35 +937,13 @@
   {
     "HUL Code": "HUL-20B317D-P44440",
     "HUL Outlet Name": "Pappu Stores-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-20B317P44464",
-    "HUL Outlet Name": "SAPPERS BROKING SERVICES (P)LTD",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-TERETTI (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-20B317P44464",
-    "HUL Outlet Name": "SAPPERS BROKING SERVICES (P)LTD",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-TERETTI (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317P44480",
@@ -1003,7 +959,7 @@
   {
     "HUL Code": "HUL-20B317P44481",
     "HUL Outlet Name": "Sanjay Shaw.",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-2+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -1014,7 +970,7 @@
   {
     "HUL Code": "HUL-20B317P44484",
     "HUL Outlet Name": "Ritam Stores",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -1030,24 +986,13 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317P44491",
     "HUL Outlet Name": "SACHI PRODUCTS",
-    "ME Name": 0,
-    "BEAT": "",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-20B317P44491",
-    "HUL Outlet Name": "SACHI PRODUCTS",
-    "ME Name": 0,
+    "ME Name": "N.A.",
     "BEAT": "",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -1080,13 +1025,13 @@
   {
     "HUL Code": "HUL-20B317P44505",
     "HUL Outlet Name": "Bijoy Shaw",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317P44510",
@@ -1096,8 +1041,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317P44514",
@@ -1159,17 +1104,6 @@
     "HUL Outlet Name": "RABI ROY(HATIBAGAN)-F-D-D-D",
     "ME Name": "JAYANTA  MANDAL",
     "BEAT": "D-HATIBAGAN",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-216252F-C869",
-    "HUL Outlet Name": "RABI ROY(HATIBAGAN)-F-D-D-D",
-    "ME Name": "JAYANTA  MANDAL",
-    "BEAT": "D-HATIBAGAN",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
@@ -1206,8 +1140,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-216252F-C978",
@@ -1217,17 +1151,6 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217085D-B",
-    "HUL Outlet Name": "Bijoy Kumar Ajoy Kumar-D-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-TERRITY MARKET",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1250,8 +1173,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P1000",
@@ -1272,7 +1195,7 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 3,
+    "Achv Qty": 5,
     "Status": "Completed"
   },
   {
@@ -1296,17 +1219,6 @@
     "Target (VMQ)": 1,
     "Achv Qty": 1,
     "Status": "Completed"
-  },
-  {
-    "HUL Code": "HUL-217085D-P1031",
-    "HUL Outlet Name": "MUKHTER SHOW.-D-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-TERETTI (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-217085D-P1031",
@@ -1415,8 +1327,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P1093",
@@ -1465,7 +1377,7 @@
   {
     "HUL Code": "HUL-217085D-P1101",
     "HUL Outlet Name": "ANNAPURNA BHANDER (K. B. ST.)-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -1476,7 +1388,7 @@
   {
     "HUL Code": "HUL-217085D-P1101",
     "HUL Outlet Name": "ANNAPURNA BHANDER (K. B. ST.)-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -1487,18 +1399,18 @@
   {
     "HUL Code": "HUL-217085D-P1103",
     "HUL Outlet Name": "SREE MAA KALI BHANDER-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P1105",
     "HUL Outlet Name": "Durga Bhandar-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -1509,7 +1421,7 @@
   {
     "HUL Code": "HUL-217085D-P1105",
     "HUL Outlet Name": "Durga Bhandar-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -1520,7 +1432,7 @@
   {
     "HUL Code": "HUL-217085D-P1105",
     "HUL Outlet Name": "Durga Bhandar-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -1536,8 +1448,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P1134",
@@ -1547,8 +1459,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P1135",
@@ -1558,8 +1470,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P1136",
@@ -1591,8 +1503,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P1182",
@@ -1602,8 +1514,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P1203",
@@ -1663,7 +1575,7 @@
   {
     "HUL Code": "HUL-217085D-P1275",
     "HUL Outlet Name": "SHIB RAM STORES",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -1676,32 +1588,10 @@
     "HUL Outlet Name": "NAVABIHAR BHANDAR-D-D-D-D-D",
     "ME Name": "JAYANTA  MANDAL",
     "BEAT": "D-BECHU CHATTERJEE STREET",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217085D-P1315",
-    "HUL Outlet Name": "NAVABIHAR BHANDAR-D-D-D-D-D",
-    "ME Name": "JAYANTA  MANDAL",
-    "BEAT": "D-BECHU CHATTERJEE STREET",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217085D-P3553",
-    "HUL Outlet Name": "MAA KALI BHANDAR(VVR)-D-D-D-D-D",
-    "ME Name": "JAYANTA  MANDAL",
-    "BEAT": "D-VIVEKANANDA ROAD",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
+    "Achv Qty": 2,
     "Status": "Pending"
   },
   {
@@ -1822,18 +1712,7 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217085D-P707",
-    "HUL Outlet Name": "G MONDAL-D-D-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-BAGMARI-1",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
+    "Achv Qty": 1,
     "Status": "Pending"
   },
   {
@@ -1874,21 +1753,10 @@
     "HUL Outlet Name": "ANNAPURNA BHANDER-D-D-D-D-D",
     "ME Name": "Sukalyan  Saha",
     "BEAT": "D-BAGMARI-1",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217085D-P711",
-    "HUL Outlet Name": "ANNAPURNA BHANDER-D-D-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-BAGMARI-1",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
+    "Achv Qty": 2,
     "Status": "Pending"
   },
   {
@@ -1899,8 +1767,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P716",
@@ -1912,17 +1780,6 @@
     "Target (VMQ)": 3,
     "Achv Qty": 3,
     "Status": "Completed"
-  },
-  {
-    "HUL Code": "HUL-217085D-P717",
-    "HUL Outlet Name": "S K MALAKAR-D-D-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-BAGMARI-1",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-217085D-P717",
@@ -2020,8 +1877,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P821",
@@ -2097,8 +1954,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P824",
@@ -2138,17 +1995,6 @@
     "HUL Outlet Name": "VAREITY  STORES-D-D-D-D-D",
     "ME Name": "JAYANTA  MANDAL",
     "BEAT": "D-BECHU CHATTERJEE STREET",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217085D-P834",
-    "HUL Outlet Name": "VAREITY  STORES-D-D-D-D-D",
-    "ME Name": "JAYANTA  MANDAL",
-    "BEAT": "D-BECHU CHATTERJEE STREET",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
@@ -2163,8 +2009,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P834",
@@ -2174,18 +2020,7 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217085D-P868",
-    "HUL Outlet Name": "C K GHOSH-D-D-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-MANICKTALA",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 2,
+    "Achv Qty": 3,
     "Status": "Completed"
   },
   {
@@ -2196,8 +2031,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
-    "Achv Qty": 4,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-217085D-P868",
@@ -2328,7 +2163,7 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 9,
+    "Achv Qty": 6,
     "Status": "Completed"
   },
   {
@@ -2449,8 +2284,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P892",
@@ -2471,8 +2306,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 6,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P895",
@@ -2482,8 +2317,8 @@
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P895",
@@ -2493,8 +2328,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P895",
@@ -2504,8 +2339,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P895",
@@ -2559,8 +2394,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 12,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P900",
@@ -2570,8 +2405,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P909",
@@ -2609,51 +2444,40 @@
   {
     "HUL Code": "HUL-217085D-P973",
     "HUL Outlet Name": "BABA LOKE NATH STORES-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
-    "BEAT": "D-KAILASH BOSE STREET",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217085D-P973",
-    "HUL Outlet Name": "BABA LOKE NATH STORES-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P973",
     "HUL Outlet Name": "BABA LOKE NATH STORES-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P973",
     "HUL Outlet Name": "BABA LOKE NATH STORES-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P975",
     "HUL Outlet Name": "Kalika Bhandar-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -2664,35 +2488,35 @@
   {
     "HUL Code": "HUL-217085D-P976",
     "HUL Outlet Name": "N.C. Ghosh & Brothers-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P976",
     "HUL Outlet Name": "N.C. Ghosh & Brothers-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P976",
     "HUL Outlet Name": "N.C. Ghosh & Brothers-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P977",
@@ -2730,35 +2554,35 @@
   {
     "HUL Code": "HUL-217085D-P981",
     "HUL Outlet Name": "ROY,S STORES-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P981",
     "HUL Outlet Name": "ROY,S STORES-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P982",
     "HUL Outlet Name": "NEW LAXMI BHANDAR-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P986",
@@ -2787,22 +2611,11 @@
     "HUL Outlet Name": "P GHOSH-D-D-D-D",
     "ME Name": "SAIKAT   Das",
     "BEAT": "D-SOVA BAZAR",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217085D-PAR121",
-    "HUL Outlet Name": "P GHOSH-D-D-D-D",
-    "ME Name": "SAIKAT   Das",
-    "BEAT": "D-SOVA BAZAR",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR121",
@@ -2812,19 +2625,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217085D-PAR127",
-    "HUL Outlet Name": "Biswanath Stores-D-D-D-D",
-    "ME Name": "SAIKAT   Das",
-    "BEAT": "D-SOVA BAZAR (SVS)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR127",
@@ -2867,8 +2669,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR149",
@@ -2878,19 +2680,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217085D-PAR167",
-    "HUL Outlet Name": "Durga Stores-D-D-D-D",
-    "ME Name": "SAIKAT   Das",
-    "BEAT": "D-SOVA BAZAR",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR167",
@@ -2900,8 +2691,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR167",
@@ -2911,8 +2702,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR167",
@@ -2983,18 +2774,7 @@
   {
     "HUL Code": "HUL-217085D-PAR352",
     "HUL Outlet Name": "ADI LAXMI BHANDER-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
-    "BEAT": "D-KAILASH BOSE STREET",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217085D-PAR352",
-    "HUL Outlet Name": "ADI LAXMI BHANDER-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -3005,7 +2785,7 @@
   {
     "HUL Code": "HUL-217085D-PAR352",
     "HUL Outlet Name": "ADI LAXMI BHANDER-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -3016,7 +2796,7 @@
   {
     "HUL Code": "HUL-217085D-PAR352",
     "HUL Outlet Name": "ADI LAXMI BHANDER-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -3076,8 +2856,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085P-P3585",
@@ -3120,8 +2900,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085P-P3588",
@@ -3148,24 +2928,24 @@
   {
     "HUL Code": "HUL-217086D-1148",
     "HUL Outlet Name": "MPN N.C PAUL-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-1148",
     "HUL Outlet Name": "MPN N.C PAUL-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-1183",
@@ -3203,29 +2983,7 @@
   {
     "HUL Code": "HUL-217086D-1252",
     "HUL Outlet Name": "MPS M/S SRI DURGA (V) STORES-2-D-D-D-D",
-    "ME Name": "Joly Mahato",
-    "BEAT": "D-MURARIPUKUR",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217086D-1252",
-    "HUL Outlet Name": "MPS M/S SRI DURGA (V) STORES-2-D-D-D-D",
-    "ME Name": "Joly Mahato",
-    "BEAT": "D-MURARIPUKUR",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217086D-1252",
-    "HUL Outlet Name": "MPS M/S SRI DURGA (V) STORES-2-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -3263,8 +3021,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-1558",
@@ -3274,8 +3032,8 @@
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-1558",
@@ -3285,8 +3043,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 9,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-1558",
@@ -3560,8 +3318,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-1669",
@@ -3599,7 +3357,7 @@
   {
     "HUL Code": "HUL-217086D-1672",
     "HUL Outlet Name": "MODERN MUSEUM-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -3626,8 +3384,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-1674",
@@ -3637,8 +3395,8 @@
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-1674",
@@ -3648,8 +3406,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-1674",
@@ -3659,8 +3417,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-1674",
@@ -3670,8 +3428,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-1682",
@@ -3731,7 +3489,7 @@
   {
     "HUL Code": "HUL-217086D-1705",
     "HUL Outlet Name": "MPK M/S KHOKON STORES-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -3764,7 +3522,7 @@
   {
     "HUL Code": "HUL-217086D-203",
     "HUL Outlet Name": "SPM M/S MANOSHA BHANDER-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -3775,7 +3533,7 @@
   {
     "HUL Code": "HUL-217086D-204",
     "HUL Outlet Name": "SPL M/S LAXMI BHANDER-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -3786,7 +3544,7 @@
   {
     "HUL Code": "HUL-217086D-204",
     "HUL Outlet Name": "SPL M/S LAXMI BHANDER-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -3797,7 +3555,7 @@
   {
     "HUL Code": "HUL-217086D-204",
     "HUL Outlet Name": "SPL M/S LAXMI BHANDER-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -3808,7 +3566,7 @@
   {
     "HUL Code": "HUL-217086D-205",
     "HUL Outlet Name": "SPK M/S K.C. PRAMANICK-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -3819,7 +3577,7 @@
   {
     "HUL Code": "HUL-217086D-205",
     "HUL Outlet Name": "SPK M/S K.C. PRAMANICK-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -3830,7 +3588,7 @@
   {
     "HUL Code": "HUL-217086D-205",
     "HUL Outlet Name": "SPK M/S K.C. PRAMANICK-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -3841,7 +3599,7 @@
   {
     "HUL Code": "HUL-217086D-206",
     "HUL Outlet Name": "SPG GANDESWARI BHANDER-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -3852,7 +3610,7 @@
   {
     "HUL Code": "HUL-217086D-207",
     "HUL Outlet Name": "SPA M/S AMAR NATH HALDER-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -3863,7 +3621,7 @@
   {
     "HUL Code": "HUL-217086D-207",
     "HUL Outlet Name": "SPA M/S AMAR NATH HALDER-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -3885,18 +3643,18 @@
   {
     "HUL Code": "HUL-217086D-2121",
     "HUL Outlet Name": "PRADIP STORES",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-2121",
     "HUL Outlet Name": "PRADIP STORES",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -3907,7 +3665,7 @@
   {
     "HUL Code": "HUL-217086D-2121",
     "HUL Outlet Name": "PRADIP STORES",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -3918,7 +3676,7 @@
   {
     "HUL Code": "HUL-217086D-2132",
     "HUL Outlet Name": "MPS M/S SREE DURGA VTY ST-1-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -3929,40 +3687,29 @@
   {
     "HUL Code": "HUL-217086D-2137",
     "HUL Outlet Name": "MPA M/S ALOCK DUTTA-D-D-D-D",
-    "ME Name": "Joly Mahato",
-    "BEAT": "D-MURARIPUKUR",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217086D-2137",
-    "HUL Outlet Name": "MPA M/S ALOCK DUTTA-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-2137",
     "HUL Outlet Name": "MPA M/S ALOCK DUTTA-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 6,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-2142",
     "HUL Outlet Name": "MPJ M/S JANATA STORES-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -3973,7 +3720,7 @@
   {
     "HUL Code": "HUL-217086D-2142",
     "HUL Outlet Name": "MPJ M/S JANATA STORES-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -3984,7 +3731,7 @@
   {
     "HUL Code": "HUL-217086D-2142",
     "HUL Outlet Name": "MPJ M/S JANATA STORES-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -4022,7 +3769,7 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 2,
+    "Achv Qty": 4,
     "Status": "Completed"
   },
   {
@@ -4039,29 +3786,18 @@
   {
     "HUL Code": "HUL-217086D-2363",
     "HUL Outlet Name": "BSM M/S MUNNA STORES-D-D-D-D",
-    "ME Name": "Joly Mahato",
-    "BEAT": "D-RAJA DINENDRA ST",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217086D-2363",
-    "HUL Outlet Name": "BSM M/S MUNNA STORES-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-2363",
     "HUL Outlet Name": "BSM M/S MUNNA STORES-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -4072,24 +3808,24 @@
   {
     "HUL Code": "HUL-217086D-2375",
     "HUL Outlet Name": "BSO M/S OM NAMA SIBAYA-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-2375",
     "HUL Outlet Name": "BSO M/S OM NAMA SIBAYA-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-2538",
@@ -4109,28 +3845,6 @@
     "BEAT": "D-SHYAMBAZAR",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
-    "Target (VMQ)": 1,
-    "Achv Qty": 1,
-    "Status": "Completed"
-  },
-  {
-    "HUL Code": "HUL-217086D2589",
-    "HUL Outlet Name": "SKM M/S MAA MANOSHA BHANDER-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SK DEV ROAD-2",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 3,
-    "Achv Qty": 3,
-    "Status": "Completed"
-  },
-  {
-    "HUL Code": "HUL-217086D2589",
-    "HUL Outlet Name": "SKM M/S MAA MANOSHA BHANDER-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SK DEV ROAD-2",
-    "BasePack Code": 44302,
-    "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
     "Achv Qty": 1,
     "Status": "Completed"
@@ -4275,8 +3989,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-2620",
@@ -4297,8 +4011,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-2701",
@@ -4314,7 +4028,7 @@
   {
     "HUL Code": "HUL-217086D-2714",
     "HUL Outlet Name": "SPA M/S ANANDA BHANDER-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -4341,8 +4055,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-2760",
@@ -4363,8 +4077,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 1,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-2823",
@@ -4418,8 +4132,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 3,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-217086D-2841",
@@ -4464,28 +4178,6 @@
     "Target (VMQ)": 1,
     "Achv Qty": 2,
     "Status": "Completed"
-  },
-  {
-    "HUL Code": "HUL-217086D-2857",
-    "HUL Outlet Name": "SKB M/S BABLU STORES-D-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SK DEV ROAD-2",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217086D-2857",
-    "HUL Outlet Name": "SKB M/S BABLU STORES-D-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SK DEV ROAD-2",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 3,
-    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-217086D-2857",
@@ -4600,7 +4292,7 @@
   {
     "HUL Code": "HUL-217086D-526",
     "HUL Outlet Name": "SPN M/S NEMAI PAUL-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -4613,28 +4305,6 @@
     "HUL Outlet Name": "HBS M/S SHAW FOOD STORES-D-D-D-D",
     "ME Name": "JAYANTA  MANDAL",
     "BEAT": "D-HATIBAGAN",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217086D-701",
-    "HUL Outlet Name": "HBS M/S SHAW FOOD STORES-D-D-D-D",
-    "ME Name": "JAYANTA  MANDAL",
-    "BEAT": "D-HATIBAGAN",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217086D-701",
-    "HUL Outlet Name": "HBS M/S SHAW FOOD STORES-D-D-D-D",
-    "ME Name": "JAYANTA  MANDAL",
-    "BEAT": "D-HATIBAGAN",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
@@ -4655,24 +4325,24 @@
   {
     "HUL Code": "HUL-217086D-747",
     "HUL Outlet Name": "MPO M/S OM SAI-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-747",
     "HUL Outlet Name": "MPO M/S OM SAI-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-749",
@@ -4682,8 +4352,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-749",
@@ -4693,13 +4363,13 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-761",
     "HUL Outlet Name": "MPT M/S TARKESWARI BHANDER-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -4710,7 +4380,7 @@
   {
     "HUL Code": "HUL-217086D-761",
     "HUL Outlet Name": "MPT M/S TARKESWARI BHANDER-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -4721,7 +4391,7 @@
   {
     "HUL Code": "HUL-217086D-761",
     "HUL Outlet Name": "MPT M/S TARKESWARI BHANDER-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -4754,7 +4424,7 @@
   {
     "HUL Code": "HUL-217086D-769",
     "HUL Outlet Name": "MPS M/S SARKAR (V) STORES-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -4765,7 +4435,7 @@
   {
     "HUL Code": "HUL-217086D-769",
     "HUL Outlet Name": "MPS M/S SARKAR (V) STORES-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -4776,24 +4446,24 @@
   {
     "HUL Code": "HUL-217086D-784",
     "HUL Outlet Name": "MPR M/S RAHUL STORES-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-784",
     "HUL Outlet Name": "MPR M/S RAHUL STORES-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-981",
@@ -4851,9 +4521,31 @@
     "Status": "Completed"
   },
   {
+    "HUL Code": "HUL-217086D2589",
+    "HUL Outlet Name": "SKM M/S MAA MANOSHA BHANDER-D-D-D",
+    "ME Name": "Sukalyan  Saha",
+    "BEAT": "D-SK DEV ROAD-2",
+    "BasePack Code": 44175,
+    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
+    "Target (VMQ)": 3,
+    "Achv Qty": 3,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-217086D2589",
+    "HUL Outlet Name": "SKM M/S MAA MANOSHA BHANDER-D-D-D",
+    "ME Name": "Sukalyan  Saha",
+    "BEAT": "D-SK DEV ROAD-2",
+    "BasePack Code": 44302,
+    "BasePack Desc": "DOVE CREAM BAR 75G",
+    "Target (VMQ)": 1,
+    "Achv Qty": 1,
+    "Status": "Completed"
+  },
+  {
     "HUL Code": "HUL-217093D-P0184",
     "HUL Outlet Name": "SREE KRISHNA STORES - JR-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -4877,33 +4569,11 @@
     "HUL Outlet Name": "SREE KRISHNA TRADERS - JR-D-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "BEAT": "D-NAGERBAZAR (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217093D-P0188",
-    "HUL Outlet Name": "SREE KRISHNA TRADERS - JR-D-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-NAGERBAZAR (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217093D-P0188",
-    "HUL Outlet Name": "SREE KRISHNA TRADERS - JR-D-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-NAGERBAZAR (W/S)",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P0191",
@@ -4924,8 +4594,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P0191",
@@ -4935,8 +4605,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P0193",
@@ -4952,7 +4622,7 @@
   {
     "HUL Code": "HUL-217093D-P0196",
     "HUL Outlet Name": "MANAB DAS - JR-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-AMARPALLY-2",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -5007,7 +4677,7 @@
   {
     "HUL Code": "HUL-217093D-P0199",
     "HUL Outlet Name": "Ma Jagadamba Stores - JR-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -5018,7 +4688,7 @@
   {
     "HUL Code": "HUL-217093D-P0201",
     "HUL Outlet Name": "KUNDU STORES - KL-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -5029,7 +4699,7 @@
   {
     "HUL Code": "HUL-217093D-P0202",
     "HUL Outlet Name": "GUPTA BROTHERS - KL-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -5040,29 +4710,7 @@
   {
     "HUL Code": "HUL-217093D-P0203",
     "HUL Outlet Name": "ADI ANNAPURNA STORES - KL-D-D-D-D",
-    "ME Name": "Joly Mahato",
-    "BEAT": "D-KALINDI",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217093D-P0203",
-    "HUL Outlet Name": "ADI ANNAPURNA STORES - KL-D-D-D-D",
-    "ME Name": "Joly Mahato",
-    "BEAT": "D-KALINDI",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 3,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217093D-P0203",
-    "HUL Outlet Name": "ADI ANNAPURNA STORES - KL-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -5073,18 +4721,18 @@
   {
     "HUL Code": "HUL-217093D-P0203",
     "HUL Outlet Name": "ADI ANNAPURNA STORES - KL-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P0204",
     "HUL Outlet Name": "Radha Rani Stores - KL-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -5144,13 +4792,13 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P0292",
     "HUL Outlet Name": "RUPA VTY STORES-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -5161,13 +4809,13 @@
   {
     "HUL Code": "HUL-217093D-P0292",
     "HUL Outlet Name": "RUPA VTY STORES-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P0323",
@@ -5218,28 +4866,6 @@
     "HUL Outlet Name": "SREEMA BHANDAR - BBAZ-D-D-D-D",
     "ME Name": "Sukalyan  Saha",
     "BEAT": "D-BAGUIHATI BAZAR",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217093D-P0416",
-    "HUL Outlet Name": "SREEMA BHANDAR - BBAZ-D-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-BAGUIHATI BAZAR",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217093D-P0416",
-    "HUL Outlet Name": "SREEMA BHANDAR - BBAZ-D-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-BAGUIHATI BAZAR",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 2,
@@ -5254,8 +4880,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 3,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-217093D-P0600",
@@ -5265,7 +4891,7 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "Achv Qty": 7,
     "Status": "Completed"
   },
   {
@@ -5315,24 +4941,24 @@
   {
     "HUL Code": "HUL-217093D-P0646",
     "HUL Outlet Name": "TUBAI STORES - AMP-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-AMARPALLY-2",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P0646",
     "HUL Outlet Name": "TUBAI STORES - AMP-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-AMARPALLY-2",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P0653",
@@ -5348,7 +4974,7 @@
   {
     "HUL Code": "HUL-217093D-P0662",
     "HUL Outlet Name": "BANIK BROS. - AMP-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-AMARPALLY-2",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -5359,7 +4985,7 @@
   {
     "HUL Code": "HUL-217093D-P0662",
     "HUL Outlet Name": "BANIK BROS. - AMP-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-AMARPALLY-2",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -5394,33 +5020,11 @@
     "HUL Outlet Name": "SREE GURU ST-D-D-D-D-P",
     "ME Name": "Sukalyan  Saha",
     "BEAT": "D-BAGUIHATI BAZAR",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217093D-P0864",
-    "HUL Outlet Name": "SREE GURU ST-D-D-D-D-P",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-BAGUIHATI BAZAR",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217093D-P0864",
-    "HUL Outlet Name": "SREE GURU ST-D-D-D-D-P",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-BAGUIHATI BAZAR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P0866",
@@ -5430,8 +5034,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P0867",
@@ -5485,30 +5089,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217093D-P0878",
-    "HUL Outlet Name": "GITA ST-D-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-BAGUIHATI (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217093D-P0878",
-    "HUL Outlet Name": "GITA ST-D-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-BAGUIHATI (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P0878",
@@ -5529,8 +5111,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P0885",
@@ -5606,8 +5188,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P0896",
@@ -5650,8 +5232,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P0898",
@@ -5661,8 +5243,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P0899",
@@ -5749,7 +5331,7 @@
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 2,
+    "Achv Qty": 5,
     "Status": "Completed"
   },
   {
@@ -5793,8 +5375,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P1321",
@@ -5823,28 +5405,6 @@
     "HUL Outlet Name": "NEW MAAKALI STORES-D-D-D-D-U2NC",
     "ME Name": "Sukalyan  Saha",
     "BEAT": "D-BAGUIHATI BAZAR",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217093D-P149",
-    "HUL Outlet Name": "NEW MAAKALI STORES-D-D-D-D-U2NC",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-BAGUIHATI BAZAR",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217093D-P149",
-    "HUL Outlet Name": "NEW MAAKALI STORES-D-D-D-D-U2NC",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-BAGUIHATI BAZAR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
@@ -5865,18 +5425,18 @@
   {
     "HUL Code": "HUL-217093D-P229",
     "HUL Outlet Name": "CHAKRABORTY BROTHERS - KL-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093F-P162",
     "HUL Outlet Name": "ANANDAM-F-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -5914,8 +5474,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-140",
@@ -5925,8 +5485,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-141",
@@ -5936,8 +5496,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-157",
@@ -6037,28 +5597,6 @@
     "Target (VMQ)": 9,
     "Achv Qty": 9,
     "Status": "Completed"
-  },
-  {
-    "HUL Code": "HUL-217115D-203",
-    "HUL Outlet Name": "RAMESH CH AGARWAL-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-NAGERBAZAR (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-203",
-    "HUL Outlet Name": "RAMESH CH AGARWAL-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-NAGERBAZAR (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-217115D-203",
@@ -6244,8 +5782,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-7223",
@@ -6299,8 +5837,8 @@
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-7235",
@@ -6321,8 +5859,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-7235",
@@ -6343,8 +5881,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-7238",
@@ -6365,30 +5903,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-7241",
-    "HUL Outlet Name": "N C STORES-D-D-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-COLLEGE STREET(SBJ)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-7241",
-    "HUL Outlet Name": "N C STORES-D-D-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-COLLEGE STREET(SBJ)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-7247",
@@ -6398,8 +5914,8 @@
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-7247",
@@ -6409,8 +5925,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-7247",
@@ -6420,30 +5936,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-7250",
-    "HUL Outlet Name": "PANKAJ STORES-D-D-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-COLLEGE STREET(SBJ)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-7250",
-    "HUL Outlet Name": "PANKAJ STORES-D-D-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-COLLEGE STREET(SBJ)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-7250",
@@ -6530,8 +6024,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-7268",
@@ -6552,8 +6046,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-7274",
@@ -6563,8 +6057,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-7277",
@@ -6607,8 +6101,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-7371",
@@ -6662,8 +6156,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-217115D-7383",
@@ -6673,8 +6167,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-217115D-7386",
@@ -6717,8 +6211,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-217115D-7401",
@@ -6857,28 +6351,6 @@
     "HUL Outlet Name": "BMA M/S ADI NATH BASAK-D-D-D",
     "ME Name": "Sukalyan  Saha",
     "BEAT": "D-BAGMARI-1",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-7496",
-    "HUL Outlet Name": "BMA M/S ADI NATH BASAK-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-BAGMARI-1",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-7496",
-    "HUL Outlet Name": "BMA M/S ADI NATH BASAK-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-BAGMARI-1",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
@@ -6923,28 +6395,6 @@
     "HUL Outlet Name": "SBD Dinesh Stores-D-D-D",
     "ME Name": "SAIKAT   Das",
     "BEAT": "D-SHYAMBAZAR",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-7546",
-    "HUL Outlet Name": "SBD Dinesh Stores-D-D-D",
-    "ME Name": "SAIKAT   Das",
-    "BEAT": "D-SHYAMBAZAR",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-7546",
-    "HUL Outlet Name": "SBD Dinesh Stores-D-D-D",
-    "ME Name": "SAIKAT   Das",
-    "BEAT": "D-SHYAMBAZAR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 6,
@@ -6970,8 +6420,8 @@
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P11483",
@@ -6981,8 +6431,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P11483",
@@ -6992,52 +6442,41 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P11555",
     "HUL Outlet Name": "LAXMI BHANDER - BS1-D-D-D",
-    "ME Name": "Joly Mahato",
-    "BEAT": "D-RAJA DINENDRA ST",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P11555",
-    "HUL Outlet Name": "LAXMI BHANDER - BS1-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P11555",
     "HUL Outlet Name": "LAXMI BHANDER - BS1-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P11555",
     "HUL Outlet Name": "LAXMI BHANDER - BS1-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P11585",
@@ -7113,8 +6552,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-217115D-P11729",
@@ -7152,22 +6591,11 @@
   {
     "HUL Code": "HUL-217115D-P11918",
     "HUL Outlet Name": "MAHAMAYA STORES - SP-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P11936",
-    "HUL Outlet Name": "BASUDEV SAHA - VK RD-D-D-D",
-    "ME Name": "JAYANTA  MANDAL",
-    "BEAT": "D-VIVEKANANDA ROAD",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -7179,30 +6607,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P12008",
-    "HUL Outlet Name": "NEW GUPTA BHANDER - MANIKTALA-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-MANICKTALA",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P12008",
-    "HUL Outlet Name": "NEW GUPTA BHANDER - MANIKTALA-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-MANICKTALA",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P12008",
@@ -7212,8 +6618,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 6,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P12008",
@@ -7223,8 +6629,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P12107",
@@ -7256,8 +6662,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P12107",
@@ -7267,46 +6673,46 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P12218",
     "HUL Outlet Name": "GOPAL ROY - MP-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P12218",
     "HUL Outlet Name": "GOPAL ROY - MP-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P12218",
     "HUL Outlet Name": "GOPAL ROY - MP-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P12293",
     "HUL Outlet Name": "DALI STORES - AMARPALLY-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-AMARPALLY-2",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -7317,7 +6723,7 @@
   {
     "HUL Code": "HUL-217115D-P12293",
     "HUL Outlet Name": "DALI STORES - AMARPALLY-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-AMARPALLY-2",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -7350,7 +6756,7 @@
   {
     "HUL Code": "HUL-217115D-P12719",
     "HUL Outlet Name": "GOURI SANKAR STORES - KB-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -7361,24 +6767,24 @@
   {
     "HUL Code": "HUL-217115D-P12722",
     "HUL Outlet Name": "GANDHESWARI STORES - KB-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P12722",
     "HUL Outlet Name": "GANDHESWARI STORES - KB-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P12767",
@@ -7399,8 +6805,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P12911",
@@ -7432,8 +6838,8 @@
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P12989",
@@ -7443,8 +6849,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 9,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P12989",
@@ -7454,8 +6860,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P12989",
@@ -7465,8 +6871,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P13046",
@@ -7487,8 +6893,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P13055",
@@ -7515,7 +6921,7 @@
   {
     "HUL Code": "HUL-217115D-P13126",
     "HUL Outlet Name": "M.L SHAW - MP-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -7586,8 +6992,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P13294",
@@ -7625,7 +7031,7 @@
   {
     "HUL Code": "HUL-217115D-P13324",
     "HUL Outlet Name": "SATYANARAYAN BHANDER - MP-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -7636,33 +7042,11 @@
   {
     "HUL Code": "HUL-217115D-P13324",
     "HUL Outlet Name": "SATYANARAYAN BHANDER - MP-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P13348",
-    "HUL Outlet Name": "SHIV BHANDER - COLL SBJ-D-D-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-COLLEGE STREET(SBJ)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P13348",
-    "HUL Outlet Name": "SHIV BHANDER - COLL SBJ-D-D-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-COLLEGE STREET(SBJ)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -7707,8 +7091,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P13381",
@@ -7718,8 +7102,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P13408",
@@ -7729,8 +7113,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P13417",
@@ -7784,8 +7168,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P13501",
@@ -7795,8 +7179,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P13501",
@@ -7806,8 +7190,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P13510",
@@ -7839,28 +7223,6 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P13540",
-    "HUL Outlet Name": "SITARAM STORES - COLL SBJ-D-D-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-COLLEGE STREET(SBJ)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P13540",
-    "HUL Outlet Name": "SITARAM STORES - COLL SBJ-D-D-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-COLLEGE STREET(SBJ)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -7894,8 +7256,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P13832",
@@ -7905,8 +7267,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P13832",
@@ -7916,30 +7278,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P13895",
-    "HUL Outlet Name": "BASIR SHAW - D. DHARI-D-D-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-DAKSHINDARI",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P13895",
-    "HUL Outlet Name": "BASIR SHAW - D. DHARI-D-D-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-DAKSHINDARI",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P13895",
@@ -7949,8 +7289,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P13895",
@@ -7960,8 +7300,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P13928",
@@ -7977,7 +7317,7 @@
   {
     "HUL Code": "HUL-217115D-P13940",
     "HUL Outlet Name": "SHAW STATIONERY - BAGBAZAR-D-D-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-BAGBAZAR+NUTS",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -7988,29 +7328,7 @@
   {
     "HUL Code": "HUL-217115D-P17330",
     "HUL Outlet Name": "RAJESH KUMAR SHAW - HATIBAGAN-D-D-D",
-    "ME Name": "Sumit Patra",
-    "BEAT": "K-HATIBAGAN+NUTS",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P17330",
-    "HUL Outlet Name": "RAJESH KUMAR SHAW - HATIBAGAN-D-D-D",
-    "ME Name": "Sumit Patra",
-    "BEAT": "K-HATIBAGAN+NUTS",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P17330",
-    "HUL Outlet Name": "RAJESH KUMAR SHAW - HATIBAGAN-D-D-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN+NUTS",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -8067,33 +7385,11 @@
     "HUL Outlet Name": "JOY MATARA STORES - BAGUIATI-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "BEAT": "D-BAGUIHATI (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P18205",
-    "HUL Outlet Name": "JOY MATARA STORES - BAGUIATI-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-BAGUIHATI (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P18205",
-    "HUL Outlet Name": "JOY MATARA STORES - BAGUIATI-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-BAGUIHATI (W/S)",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 12,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 12,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P18266",
@@ -8125,8 +7421,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P18437",
@@ -8158,8 +7454,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P19336",
@@ -8197,7 +7493,7 @@
   {
     "HUL Code": "HUL-217115D-P19571",
     "HUL Outlet Name": "S. Sarkar-D-D-D",
-    "ME Name": "Utpal  Chakraborty",
+    "ME Name": "N.A.",
     "BEAT": "D-MANIKTALA-2",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -8213,8 +7509,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P20812",
@@ -8252,29 +7548,7 @@
   {
     "HUL Code": "HUL-217115D-P22094",
     "HUL Outlet Name": "MA DURGA STORES-D-D-D",
-    "ME Name": "Sumit Patra",
-    "BEAT": "K-BAGBAZAR-2+NUTS",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P22094",
-    "HUL Outlet Name": "MA DURGA STORES-D-D-D",
-    "ME Name": "Sumit Patra",
-    "BEAT": "K-BAGBAZAR-2+NUTS",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P22094",
-    "HUL Outlet Name": "MA DURGA STORES-D-D-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-BAGBAZAR-2+NUTS",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -8285,7 +7559,7 @@
   {
     "HUL Code": "HUL-217115D-P22094",
     "HUL Outlet Name": "MA DURGA STORES-D-D-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-BAGBAZAR-2+NUTS",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -8301,13 +7575,13 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P22384",
     "HUL Outlet Name": "JHANTU STORES-D-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-2+NUTS",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -8318,7 +7592,7 @@
   {
     "HUL Code": "HUL-217115D-P22384",
     "HUL Outlet Name": "JHANTU STORES-D-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-2+NUTS",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -8345,8 +7619,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P22604",
@@ -8373,7 +7647,7 @@
   {
     "HUL Code": "HUL-217115D-P23604",
     "HUL Outlet Name": "BERA STORES-D-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-1+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -8422,8 +7696,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P24150",
@@ -8439,7 +7713,7 @@
   {
     "HUL Code": "HUL-217115D-P24720",
     "HUL Outlet Name": "AMAR DUTTA-D-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-1+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -8450,7 +7724,7 @@
   {
     "HUL Code": "HUL-217115D-P24900",
     "HUL Outlet Name": "SAHA ST-D-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-BAGBAZAR-2+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -8466,8 +7740,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 6,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P25775",
@@ -8477,13 +7751,13 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P26000",
     "HUL Outlet Name": "JAI KALI STORES-D-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-2+NUTS",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -8529,54 +7803,10 @@
     "HUL Outlet Name": "RAMAYAN BHANDER-COLLSBJ-D-D-D",
     "ME Name": "Avijit Paul",
     "BEAT": "D-COLLEGE STREET(SBJ)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P7652",
-    "HUL Outlet Name": "RAMAYAN BHANDER-COLLSBJ-D-D-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-COLLEGE STREET(SBJ)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P7652",
-    "HUL Outlet Name": "RAMAYAN BHANDER-COLLSBJ-D-D-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-COLLEGE STREET(SBJ)",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
     "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P8396",
-    "HUL Outlet Name": "GANESH STORES-D-D-D",
-    "ME Name": "JAYANTA  MANDAL",
-    "BEAT": "D-BIDHANSARANI-3",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P8396",
-    "HUL Outlet Name": "GANESH STORES-D-D-D",
-    "ME Name": "JAYANTA  MANDAL",
-    "BEAT": "D-BIDHANSARANI-3",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 3,
     "Status": "Pending"
   },
   {
@@ -8604,7 +7834,7 @@
   {
     "HUL Code": "HUL-217115F-7207",
     "HUL Outlet Name": "SANTOSHIMA STORES-F-D-D",
-    "ME Name": "Utpal  Chakraborty",
+    "ME Name": "N.A.",
     "BEAT": "D-MANIKTALA-2",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -8615,40 +7845,18 @@
   {
     "HUL Code": "HUL-217115F-7207",
     "HUL Outlet Name": "SANTOSHIMA STORES-F-D-D",
-    "ME Name": "Utpal  Chakraborty",
+    "ME Name": "N.A.",
     "BEAT": "D-MANIKTALA-2",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115F-7431",
-    "HUL Outlet Name": "SBS M/S SREE GANESH TRADING-F-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115F-7431",
-    "HUL Outlet Name": "SBS M/S SREE GANESH TRADING-F-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
     "Achv Qty": 0,
     "Status": "Pending"
   },
   {
     "HUL Code": "HUL-217115P-7495",
     "HUL Outlet Name": "AMC M/S COSMETIC WORLD-P-D-D",
-    "ME Name": 0,
+    "ME Name": "N.A.",
     "BEAT": "",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -8675,8 +7883,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217575P526",
@@ -8697,8 +7905,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217628P1171",
@@ -8719,8 +7927,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P25161",
@@ -8752,8 +7960,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P25246",
@@ -8763,8 +7971,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P25246",
@@ -8780,7 +7988,7 @@
   {
     "HUL Code": "HUL-219176D-P25286",
     "HUL Outlet Name": "R.K.S GROCERY SHOP-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-AMARPALLY-2",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -8791,7 +7999,7 @@
   {
     "HUL Code": "HUL-219176D-P25286",
     "HUL Outlet Name": "R.K.S GROCERY SHOP-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-AMARPALLY-2",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -8802,7 +8010,7 @@
   {
     "HUL Code": "HUL-219176D-P25286",
     "HUL Outlet Name": "R.K.S GROCERY SHOP-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-AMARPALLY-2",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -8813,7 +8021,7 @@
   {
     "HUL Code": "HUL-219176D-P25562",
     "HUL Outlet Name": "D.PATRA-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-BAGBAZAR+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -8824,7 +8032,7 @@
   {
     "HUL Code": "HUL-219176D-P25607",
     "HUL Outlet Name": "MOUMITA STORES-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-BAGBAZAR+NUTS",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -8884,8 +8092,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P25797",
@@ -8950,35 +8158,13 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P26262",
-    "HUL Outlet Name": "B.S STORES-D",
-    "ME Name": "Utpal  Chakraborty",
-    "BEAT": "D-KESHAB SEN ST-2",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P26262",
-    "HUL Outlet Name": "B.S STORES-D",
-    "ME Name": "Utpal  Chakraborty",
-    "BEAT": "D-KESHAB SEN ST-2",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P26282",
     "HUL Outlet Name": "MAHAMAYA STORES-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -8994,8 +8180,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P26307",
@@ -9055,7 +8241,7 @@
   {
     "HUL Code": "HUL-219176D-P26417",
     "HUL Outlet Name": "N.C.STORES-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -9088,7 +8274,7 @@
   {
     "HUL Code": "HUL-219176D-P26487",
     "HUL Outlet Name": "S.P.SHAW-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN+NUTS",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -9104,8 +8290,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P26497",
@@ -9115,41 +8301,19 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P26517",
     "HUL Outlet Name": "KISHORI LAL SHAW-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P26522",
-    "HUL Outlet Name": "PARAMANIK COMMUNACATION-D",
-    "ME Name": "Joly Mahato",
-    "BEAT": "D-RAJA DINENDRA ST",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P26522",
-    "HUL Outlet Name": "PARAMANIK COMMUNACATION-D",
-    "ME Name": "Joly Mahato",
-    "BEAT": "D-RAJA DINENDRA ST",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P26543",
@@ -9181,8 +8345,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P26861",
@@ -9192,8 +8356,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P26861",
@@ -9258,30 +8422,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P27021",
-    "HUL Outlet Name": "LAXMI NARAYAN BHANDAR-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-NAGERBAZAR (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P27021",
-    "HUL Outlet Name": "LAXMI NARAYAN BHANDAR-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-NAGERBAZAR (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P27021",
@@ -9302,28 +8444,6 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P27026",
-    "HUL Outlet Name": "MAA KALI BHANADAR-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-JESSORE ROAD",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P27026",
-    "HUL Outlet Name": "MAA KALI BHANADAR-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-JESSORE ROAD",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -9478,8 +8598,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P27441",
@@ -9515,28 +8635,6 @@
     "Status": "Pending"
   },
   {
-    "HUL Code": "HUL-219176D-P27756",
-    "HUL Outlet Name": "KAMALESH GUPTA-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-KESHAB SEN STREET",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P27756",
-    "HUL Outlet Name": "KAMALESH GUPTA-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-KESHAB SEN STREET",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
     "HUL Code": "HUL-219176D-P28252",
     "HUL Outlet Name": "AJOY SETH-D",
     "ME Name": "Pritam Das",
@@ -9550,7 +8648,7 @@
   {
     "HUL Code": "HUL-219176D-P28357",
     "HUL Outlet Name": "BIREN SHAW-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-2+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -9643,8 +8741,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P28892",
@@ -9698,8 +8796,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-219176D-P29382",
@@ -9742,8 +8840,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P29392",
@@ -9753,8 +8851,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P29832",
@@ -9786,13 +8884,13 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 6,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P30271",
     "HUL Outlet Name": "MATRI BHANDAR-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-1+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -9808,8 +8906,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P30306",
@@ -9819,8 +8917,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P30306",
@@ -9830,8 +8928,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P30731",
@@ -9874,8 +8972,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P31066",
@@ -9918,8 +9016,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P31216",
@@ -9962,8 +9060,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P31391",
@@ -10001,7 +9099,7 @@
   {
     "HUL Code": "HUL-219176D-P31706",
     "HUL Outlet Name": "OM BHANDAR-D",
-    "ME Name": 0,
+    "ME Name": "N.A.",
     "BEAT": "",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -10012,7 +9110,7 @@
   {
     "HUL Code": "HUL-219176D-P31706",
     "HUL Outlet Name": "OM BHANDAR-D",
-    "ME Name": 0,
+    "ME Name": "N.A.",
     "BEAT": "",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -10023,7 +9121,7 @@
   {
     "HUL Code": "HUL-219176D-P31706",
     "HUL Outlet Name": "OM BHANDAR-D",
-    "ME Name": 0,
+    "ME Name": "N.A.",
     "BEAT": "",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -10078,7 +9176,7 @@
   {
     "HUL Code": "HUL-219176D-P32519",
     "HUL Outlet Name": "ANIL THAKUR-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-2+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -10100,7 +9198,7 @@
   {
     "HUL Code": "HUL-219176D-P32613",
     "HUL Outlet Name": "MONOJ SHOW-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -10111,7 +9209,7 @@
   {
     "HUL Code": "HUL-219176D-P32643",
     "HUL Outlet Name": "JOY JAGANNATH PAN SHOP-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -10157,28 +9255,6 @@
     "HUL Outlet Name": "K.G.N STORES-D",
     "ME Name": "Sukalyan  Saha",
     "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P32727",
-    "HUL Outlet Name": "K.G.N STORES-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P32727",
-    "HUL Outlet Name": "K.G.N STORES-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 24,
@@ -10186,31 +9262,9 @@
     "Status": "Pending"
   },
   {
-    "HUL Code": "HUL-219176D-P32791",
-    "HUL Outlet Name": "MANJU STORES-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P32791",
-    "HUL Outlet Name": "MANJU STORES-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
     "HUL Code": "HUL-219176D-P32856",
     "HUL Outlet Name": "BIJOY STORES-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-SHYAMBAZAR+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -10254,7 +9308,7 @@
   {
     "HUL Code": "HUL-219176D-P32986",
     "HUL Outlet Name": "MUNILLAL SHAW & SONS-D",
-    "ME Name": "Utpal  Chakraborty",
+    "ME Name": "N.A.",
     "BEAT": "D-MANIKTALA-2",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -10265,7 +9319,7 @@
   {
     "HUL Code": "HUL-219176D-P32986",
     "HUL Outlet Name": "MUNILLAL SHAW & SONS-D",
-    "ME Name": "Utpal  Chakraborty",
+    "ME Name": "N.A.",
     "BEAT": "D-MANIKTALA-2",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -10287,7 +9341,7 @@
   {
     "HUL Code": "HUL-219176D-P33167",
     "HUL Outlet Name": "M.K.AGARWAL-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-2+NUTS",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -10298,7 +9352,7 @@
   {
     "HUL Code": "HUL-219176D-P33167",
     "HUL Outlet Name": "M.K.AGARWAL-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-2+NUTS",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -10309,7 +9363,7 @@
   {
     "HUL Code": "HUL-219176D-P33217",
     "HUL Outlet Name": "KAPIL STORES-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-2+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -10331,7 +9385,7 @@
   {
     "HUL Code": "HUL-219176D-P33574",
     "HUL Outlet Name": "APPAYAN-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -10342,7 +9396,7 @@
   {
     "HUL Code": "HUL-219176D-P33574",
     "HUL Outlet Name": "APPAYAN-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -10353,7 +9407,7 @@
   {
     "HUL Code": "HUL-219176D-P33574",
     "HUL Outlet Name": "APPAYAN-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -10369,13 +9423,13 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P33814",
     "HUL Outlet Name": "LOKENATH STORES-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-1+NUTS",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -10397,7 +9451,7 @@
   {
     "HUL Code": "HUL-219176D-P33977",
     "HUL Outlet Name": "MAA DURGA TEA HOUSE-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -10435,8 +9489,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P34097",
@@ -10446,8 +9500,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P34097",
@@ -10457,8 +9511,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P34143",
@@ -10534,8 +9588,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P34360",
@@ -10545,8 +9599,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P34453",
@@ -10556,28 +9610,6 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P34685",
-    "HUL Outlet Name": "ARMAN STORES-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-COLLEGE STREET(SBJ)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P34685",
-    "HUL Outlet Name": "ARMAN STORES-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-COLLEGE STREET(SBJ)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -10639,7 +9671,7 @@
   {
     "HUL Code": "HUL-219176D-P34853",
     "HUL Outlet Name": "SUDHIR KUMAR-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-1+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -10677,13 +9709,13 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P35227",
     "HUL Outlet Name": "KARTIK SAHA-D",
-    "ME Name": "Utpal  Chakraborty",
+    "ME Name": "N.A.",
     "BEAT": "D-MANIKTALA-2",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -10787,19 +9819,19 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P35472",
     "HUL Outlet Name": "MAA BAGALA BHANDER-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-AMARPALLY-2",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P35492",
@@ -10815,7 +9847,7 @@
   {
     "HUL Code": "HUL-219176D-P35497",
     "HUL Outlet Name": "TARAMA VARIETY STORES-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -10826,7 +9858,7 @@
   {
     "HUL Code": "HUL-219176D-P35512",
     "HUL Outlet Name": "PAYEL STORES-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -10853,8 +9885,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P35597",
@@ -10875,30 +9907,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P35647",
-    "HUL Outlet Name": "MATRI BHANDAR-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-BAGUIHATI RD",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P35647",
-    "HUL Outlet Name": "MATRI BHANDAR-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-BAGUIHATI RD",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P35647",
@@ -10908,8 +9918,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P35647",
@@ -10919,8 +9929,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P35772",
@@ -10941,8 +9951,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 6,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P35772",
@@ -10952,8 +9962,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P35787",
@@ -10985,17 +9995,6 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P35797",
-    "HUL Outlet Name": "PANKAJ STORES-D",
-    "ME Name": "Avijit Paul",
-    "BEAT": "D-DAKSHINDARI",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -11040,8 +10039,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P36087",
@@ -11073,8 +10072,8 @@
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P36222",
@@ -11084,8 +10083,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P36222",
@@ -11095,7 +10094,7 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
+    "Achv Qty": 1,
     "Status": "Pending"
   },
   {
@@ -11106,8 +10105,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P36302",
@@ -11128,13 +10127,13 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 6,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P36317",
     "HUL Outlet Name": "SUKANTI STORES-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-2+NUTS",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -11145,13 +10144,13 @@
   {
     "HUL Code": "HUL-219176D-P36407",
     "HUL Outlet Name": "APURBA SHOPPING-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P36437",
@@ -11260,8 +10259,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P36837",
@@ -11370,8 +10369,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P37532",
@@ -11381,8 +10380,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P37537",
@@ -11414,28 +10413,6 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P37682",
-    "HUL Outlet Name": "DINESH KUMAR-D",
-    "ME Name": "SAMAR ADHIKARI",
-    "BEAT": "K-CHALK BAZAR+NUTS",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P37682",
-    "HUL Outlet Name": "DINESH KUMAR-D",
-    "ME Name": "SAMAR ADHIKARI",
-    "BEAT": "K-CHALK BAZAR+NUTS",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -11541,24 +10518,24 @@
   {
     "HUL Code": "HUL-219176D-P38307",
     "HUL Outlet Name": "FAIR PRICE-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P38307",
     "HUL Outlet Name": "FAIR PRICE-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P38387",
@@ -11645,8 +10622,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P39442",
@@ -11662,7 +10639,7 @@
   {
     "HUL Code": "HUL-219176D-P39547",
     "HUL Outlet Name": "S. GHOSH-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -11673,7 +10650,7 @@
   {
     "HUL Code": "HUL-219176D-P39547",
     "HUL Outlet Name": "S. GHOSH-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN+NUTS",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -11684,7 +10661,7 @@
   {
     "HUL Code": "HUL-219176D-P39557",
     "HUL Outlet Name": "SANKAR STORES-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-BAGBAZAR+NUTS",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -11706,7 +10683,7 @@
   {
     "HUL Code": "HUL-219176D-P39799",
     "HUL Outlet Name": "Suresh Shaw-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-2+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -11739,7 +10716,7 @@
   {
     "HUL Code": "HUL-219176D-P40223",
     "HUL Outlet Name": "GANBAK FRESH-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -11750,35 +10727,13 @@
   {
     "HUL Code": "HUL-219176D-P40289",
     "HUL Outlet Name": "SAHEB VARIETY STORES-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
     "Achv Qty": 1,
     "Status": "Completed"
-  },
-  {
-    "HUL Code": "HUL-219176D-P40391",
-    "HUL Outlet Name": "Saha Variety Stores-D",
-    "ME Name": "SAMAR ADHIKARI",
-    "BEAT": "K-MURARIPUKUR 4+NUTS",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P40391",
-    "HUL Outlet Name": "Saha Variety Stores-D",
-    "ME Name": "SAMAR ADHIKARI",
-    "BEAT": "K-MURARIPUKUR 4+NUTS",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-219176D-P40391",
@@ -11799,8 +10754,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P40658",
@@ -11860,7 +10815,7 @@
   {
     "HUL Code": "HUL-219176D-P41109",
     "HUL Outlet Name": "Asoke Shaw-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -11884,33 +10839,11 @@
     "HUL Outlet Name": "ABO HAMZA STORE-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "BEAT": "D-TERETTI (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P41379",
-    "HUL Outlet Name": "ABO HAMZA STORE-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-TERETTI (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P41379",
-    "HUL Outlet Name": "ABO HAMZA STORE-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-TERETTI (W/S)",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P41379",
@@ -11920,19 +10853,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P41384",
-    "HUL Outlet Name": "Kalpataru Stores-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-BAGMARI-1",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P41384",
@@ -11986,8 +10908,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P41499",
@@ -11997,24 +10919,24 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P41519",
     "HUL Outlet Name": "RAHUL VARIETY-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P41599",
     "HUL Outlet Name": "Monoj Panda-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -12030,13 +10952,13 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P42271",
     "HUL Outlet Name": "Maa Bishalakhi Stores-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -12113,7 +11035,7 @@
   {
     "HUL Code": "HUL-219176D-P42935",
     "HUL Outlet Name": "BHAWAGAN STORES-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -12146,7 +11068,7 @@
   {
     "HUL Code": "HUL-219176D-P43155",
     "HUL Outlet Name": "R D Shing-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-BAGBAZAR+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -12184,8 +11106,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P43422",
@@ -12217,7 +11139,7 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "Achv Qty": 4,
     "Status": "Completed"
   },
   {
@@ -12228,8 +11150,8 @@
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P43452",
@@ -12239,8 +11161,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P43572",
@@ -12261,13 +11183,13 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "Achv Qty": 4,
     "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P43628",
     "HUL Outlet Name": "Summer Shaw-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-AMARPALLY-2",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -12344,24 +11266,24 @@
   {
     "HUL Code": "HUL-219176D-P43926",
     "HUL Outlet Name": "THE NEW CALCUTTA STORE-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P43926",
     "HUL Outlet Name": "THE NEW CALCUTTA STORE-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P43959",
@@ -12371,8 +11293,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P44021",
@@ -12382,7 +11304,7 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
+    "Achv Qty": 1,
     "Status": "Pending"
   },
   {
@@ -12393,8 +11315,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P44036",
@@ -12421,7 +11343,7 @@
   {
     "HUL Code": "HUL-219176D-P44177",
     "HUL Outlet Name": "SHAW STATIONARY-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-BAGBAZAR+NUTS",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -12437,8 +11359,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 3,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-219176D-P44252",
@@ -12448,8 +11370,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 2,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-219176D-P44252",
@@ -12459,8 +11381,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-219176D-P44257",
@@ -12470,7 +11392,7 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 4,
+    "Achv Qty": 7,
     "Status": "Completed"
   },
   {
@@ -12492,13 +11414,13 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 1,
+    "Achv Qty": 0,
     "Status": "Pending"
   },
   {
     "HUL Code": "HUL-219176D-P44342",
     "HUL Outlet Name": "MA TARA SILPALOY",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -12536,13 +11458,13 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P44432",
     "HUL Outlet Name": "Srijita Varity Stores-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-SHYAMPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -12558,13 +11480,13 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 10,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P44502",
     "HUL Outlet Name": "Maa Monosha Bhandar-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -12635,8 +11557,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P44797",
@@ -12657,8 +11579,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P44832",
@@ -12767,8 +11689,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P44957",
@@ -12778,8 +11700,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P44982",
@@ -12789,8 +11711,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P45007",
@@ -12844,8 +11766,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-219176D-P45112",
@@ -12872,7 +11794,7 @@
   {
     "HUL Code": "HUL-219176D-P45177",
     "HUL Outlet Name": "NARAYAN  Pan ST-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -12905,7 +11827,7 @@
   {
     "HUL Code": "HUL-219176D-P45334",
     "HUL Outlet Name": "SOMNATH STORES-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-2+NUTS",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -12960,7 +11882,7 @@
   {
     "HUL Code": "HUL-219176D-P45601",
     "HUL Outlet Name": "Maa ganga vandar-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -12971,7 +11893,7 @@
   {
     "HUL Code": "HUL-219176D-P45601",
     "HUL Outlet Name": "Maa ganga vandar-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-MURARIPUKUR",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -12987,8 +11909,8 @@
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P45837",
@@ -12998,8 +11920,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P45837",
@@ -13009,8 +11931,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P45837",
@@ -13020,8 +11942,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P45842",
@@ -13031,8 +11953,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P46094",
@@ -13086,8 +12008,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P46286",
@@ -13103,7 +12025,7 @@
   {
     "HUL Code": "HUL-219176D-P46402",
     "HUL Outlet Name": "Shivam Stores-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -13114,7 +12036,7 @@
   {
     "HUL Code": "HUL-219176D-P46642",
     "HUL Outlet Name": "BINA BHANDAR-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -13125,13 +12047,13 @@
   {
     "HUL Code": "HUL-219176D-P46642",
     "HUL Outlet Name": "BINA BHANDAR-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P46647",
@@ -13158,7 +12080,7 @@
   {
     "HUL Code": "HUL-219176D-P46717",
     "HUL Outlet Name": "Ma Annapurna Bhander-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-2+NUTS",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -13169,33 +12091,11 @@
   {
     "HUL Code": "HUL-219176D-P46717",
     "HUL Outlet Name": "Ma Annapurna Bhander-D",
-    "ME Name": "Sumit Patra",
+    "ME Name": "Joly Mahato",
     "BEAT": "K-HATIBAGAN-2+NUTS",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P46722",
-    "HUL Outlet Name": "MEHTAB  STORES-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P46722",
-    "HUL Outlet Name": "MEHTAB  STORES-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -13246,29 +12146,7 @@
   {
     "HUL Code": "HUL-219176D-P46814",
     "HUL Outlet Name": "Gain & Sons-D",
-    "ME Name": "Joly Mahato",
-    "BEAT": "D-KALINDI",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P46814",
-    "HUL Outlet Name": "Gain & Sons-D",
-    "ME Name": "Joly Mahato",
-    "BEAT": "D-KALINDI",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P46814",
-    "HUL Outlet Name": "Gain & Sons-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -13279,7 +12157,7 @@
   {
     "HUL Code": "HUL-219176D-P46814",
     "HUL Outlet Name": "Gain & Sons-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -13301,7 +12179,7 @@
   {
     "HUL Code": "HUL-219176D-P46875",
     "HUL Outlet Name": "Hindu Biri-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -13345,7 +12223,7 @@
   {
     "HUL Code": "HUL-219176D-P46920",
     "HUL Outlet Name": "Pragati St-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KALINDI",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -13361,28 +12239,6 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P46930",
-    "HUL Outlet Name": "SRI SAI  TRADING-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P46930",
-    "HUL Outlet Name": "SRI SAI  TRADING-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -13471,8 +12327,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P47190",
@@ -13482,8 +12338,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P47190",
@@ -13504,8 +12360,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P47305",
@@ -13515,8 +12371,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P47305",
@@ -13526,8 +12382,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P47315",
@@ -13625,8 +12481,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P47643",
@@ -13636,8 +12492,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P47650",
@@ -13655,17 +12511,6 @@
     "HUL Outlet Name": "SHREE GANESH STORES-D",
     "ME Name": "Sukalyan  Saha",
     "BEAT": "D-SK DEV ROAD-2",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P47650",
-    "HUL Outlet Name": "SHREE GANESH STORES-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SK DEV ROAD-2",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
@@ -13675,7 +12520,7 @@
   {
     "HUL Code": "HUL-219176D-P47759",
     "HUL Outlet Name": "HEART CENTRE-D",
-    "ME Name": 0,
+    "ME Name": "N.A.",
     "BEAT": "",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
@@ -13710,28 +12555,6 @@
     "HUL Outlet Name": "B. SAMANTA & SON-D-D-D",
     "ME Name": "Sukalyan  Saha",
     "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000402211",
-    "HUL Outlet Name": "B. SAMANTA & SON-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000402211",
-    "HUL Outlet Name": "B. SAMANTA & SON-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 24,
@@ -13776,28 +12599,6 @@
     "HUL Outlet Name": "BABY STORES (PARTHO ST.)-D-D-D",
     "ME Name": "Sukalyan  Saha",
     "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000402292",
-    "HUL Outlet Name": "BABY STORES (PARTHO ST.)-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000402292",
-    "HUL Outlet Name": "BABY STORES (PARTHO ST.)-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 12,
@@ -13820,28 +12621,6 @@
     "HUL Outlet Name": "OM MAHADEV BHANDER-D-D-D",
     "ME Name": "Sukalyan  Saha",
     "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000402296",
-    "HUL Outlet Name": "OM MAHADEV BHANDER-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000402296",
-    "HUL Outlet Name": "OM MAHADEV BHANDER-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 6,
@@ -13856,28 +12635,6 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 6,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000404711",
-    "HUL Outlet Name": "DIPAK STORES-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000404711",
-    "HUL Outlet Name": "DIPAK STORES-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -13900,28 +12657,6 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 6,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000404712",
-    "HUL Outlet Name": "R.K.STORES-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000404712",
-    "HUL Outlet Name": "R.K.STORES-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -13941,28 +12676,6 @@
     "HUL Outlet Name": "RINA STORES-D-D-D",
     "ME Name": "Sukalyan  Saha",
     "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000404714",
-    "HUL Outlet Name": "RINA STORES-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000404714",
-    "HUL Outlet Name": "RINA STORES-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 36,
@@ -13988,8 +12701,8 @@
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70000461145",
@@ -13999,8 +12712,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 9,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70000461145",
@@ -14010,8 +12723,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 6,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 6,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70000461145",
@@ -14021,63 +12734,41 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70000461156",
     "HUL Outlet Name": "MPS M/S SARKAR STORES-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70000461156",
     "HUL Outlet Name": "MPS M/S SARKAR STORES-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70000461156",
     "HUL Outlet Name": "MPS M/S SARKAR STORES-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-RAJA DINENDRA ST",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000461161",
-    "HUL Outlet Name": "BLN NEW MAA LAXMI-D-D-D-D",
-    "ME Name": "SAIKAT   Das",
-    "BEAT": "D-BELGACHIA",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000461161",
-    "HUL Outlet Name": "BLN NEW MAA LAXMI-D-D-D-D",
-    "ME Name": "SAIKAT   Das",
-    "BEAT": "D-BELGACHIA",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70000461161",
@@ -14087,28 +12778,6 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 6,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000461167",
-    "HUL Outlet Name": "SKM M/S MUNNA STORES-D-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SK DEV ROAD-2",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000461167",
-    "HUL Outlet Name": "SKM M/S MUNNA STORES-D-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SK DEV ROAD-2",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -14175,28 +12844,6 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000502231",
-    "HUL Outlet Name": "KARKATNAG SALES AGNCY-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000502231",
-    "HUL Outlet Name": "KARKATNAG SALES AGNCY-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-SHYAM BAZAR (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -14230,30 +12877,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000560726",
-    "HUL Outlet Name": "Nandlal Shaw (SVS)-D-D-D-D",
-    "ME Name": "SAIKAT   Das",
-    "BEAT": "D-SOVA BAZAR (SVS)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000560726",
-    "HUL Outlet Name": "Nandlal Shaw (SVS)-D-D-D-D",
-    "ME Name": "SAIKAT   Das",
-    "BEAT": "D-SOVA BAZAR (SVS)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70000560726",
@@ -14263,30 +12888,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000560727",
-    "HUL Outlet Name": "JAISWAL FOOD STORE (SVS)-D-D-D-D",
-    "ME Name": "SAIKAT   Das",
-    "BEAT": "D-SOVA BAZAR (SVS)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70000560727",
-    "HUL Outlet Name": "JAISWAL FOOD STORE (SVS)-D-D-D-D",
-    "ME Name": "SAIKAT   Das",
-    "BEAT": "D-SOVA BAZAR (SVS)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70000560727",
@@ -14307,8 +12910,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70000560730",
@@ -14318,8 +12921,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70000660741",
@@ -14329,13 +12932,13 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70000660751",
     "HUL Outlet Name": "LAXMI BHANDAR (SVS)K B-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
@@ -14346,7 +12949,7 @@
   {
     "HUL Code": "WB70000660751",
     "HUL Outlet Name": "LAXMI BHANDAR (SVS)K B-D-D-D-D-D",
-    "ME Name": "Joly Mahato",
+    "ME Name": "Sumit Patra",
     "BEAT": "D-KAILASH BOSE STREET",
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
@@ -14362,8 +12965,8 @@
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70000702297",
@@ -14373,8 +12976,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 9,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70000702297",
@@ -14384,8 +12987,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 36,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 36,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70000702297",
@@ -14395,8 +12998,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 12,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 12,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70000960745",
@@ -14461,8 +13064,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70003902240",
@@ -14472,8 +13075,8 @@
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70003902240",
@@ -14483,8 +13086,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 9,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70005460747",
@@ -14495,28 +13098,6 @@
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 6,
     "Achv Qty": 3,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70005460753",
-    "HUL Outlet Name": "NEW BANSHIBADAN STORES (SVS)-D-D-D-D-D-P",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-BAGMARI-2",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70005460753",
-    "HUL Outlet Name": "NEW BANSHIBADAN STORES (SVS)-D-D-D-D-D-P",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-BAGMARI-2",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
     "Status": "Pending"
   },
   {
@@ -14538,17 +13119,6 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70005461267",
-    "HUL Outlet Name": "GITA STORES (SVS)-D-D-D-D-D-U2NC",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-BAGMARI-1",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -14601,55 +13171,11 @@
     "HUL Outlet Name": "SREE DURGA  STORES-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "BEAT": "D-NAGERBAZAR (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 3,
-    "Status": "Completed"
-  },
-  {
-    "HUL Code": "WB70005502276",
-    "HUL Outlet Name": "SREE DURGA  STORES-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-NAGERBAZAR (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
-    "Achv Qty": 9,
-    "Status": "Completed"
-  },
-  {
-    "HUL Code": "WB70005502276",
-    "HUL Outlet Name": "SREE DURGA  STORES-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-NAGERBAZAR (W/S)",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
     "Achv Qty": 2,
     "Status": "Completed"
-  },
-  {
-    "HUL Code": "WB70005902207",
-    "HUL Outlet Name": "DADIMAA BHANDER-D-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-BAGUIHATI (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70005902207",
-    "HUL Outlet Name": "DADIMAA BHANDER-D-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-BAGUIHATI (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
   },
   {
     "HUL Code": "WB70005902207",
@@ -14674,28 +13200,6 @@
     "Status": "Pending"
   },
   {
-    "HUL Code": "WB70005902241",
-    "HUL Outlet Name": "MONDAL BHANDER-D-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-BAGUIHATI (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70005902241",
-    "HUL Outlet Name": "MONDAL BHANDER-D-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-BAGUIHATI (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
     "HUL Code": "WB70005902269",
     "HUL Outlet Name": "SATTYAM-D-D-D-D",
     "ME Name": "Sukalyan  Saha",
@@ -14711,28 +13215,6 @@
     "HUL Outlet Name": "ANNAPURNA  BHANDER.-D-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "BEAT": "D-BAGUIHATI (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70005902281",
-    "HUL Outlet Name": "ANNAPURNA  BHANDER.-D-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-BAGUIHATI (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70005902281",
-    "HUL Outlet Name": "ANNAPURNA  BHANDER.-D-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-BAGUIHATI (W/S)",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 12,
@@ -14755,33 +13237,11 @@
     "HUL Outlet Name": "SUBHA ENTERPRISE-D",
     "ME Name": "Sukalyan  Saha",
     "BEAT": "D-BAGUIHATI BAZAR",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70005902283",
-    "HUL Outlet Name": "SUBHA ENTERPRISE-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-BAGUIHATI BAZAR",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70005902283",
-    "HUL Outlet Name": "SUBHA ENTERPRISE-D",
-    "ME Name": "Sukalyan  Saha",
-    "BEAT": "D-BAGUIHATI BAZAR",
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 12,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 12,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70005902283",
@@ -14791,30 +13251,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 6,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70005902285",
-    "HUL Outlet Name": "SUNDARAM-D-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-BAGUIHATI (W/S)",
-    "BasePack Code": 44167,
-    "BasePack Desc": "LUX PINK - SINGLE 75G",
-    "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "WB70005902285",
-    "HUL Outlet Name": "SUNDARAM-D-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "BEAT": "D-BAGUIHATI (W/S)",
-    "BasePack Code": 44175,
-    "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
-    "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 6,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70005902285",
@@ -14846,8 +13284,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70007302212",
@@ -14879,8 +13317,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70007302212",
@@ -14923,8 +13361,8 @@
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70007302246",
@@ -14934,8 +13372,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 9,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 9,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70007302246",
@@ -14945,8 +13383,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 12,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 12,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70007302246",
@@ -14956,8 +13394,8 @@
     "BasePack Code": 44303,
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 6,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 6,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70007302251",
@@ -14967,8 +13405,8 @@
     "BasePack Code": 44167,
     "BasePack Desc": "LUX PINK - SINGLE 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70007302251",
@@ -14978,8 +13416,8 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70007302251",
@@ -14989,8 +13427,8 @@
     "BasePack Code": 44302,
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 6,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 6,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70007302251",
@@ -15011,7 +13449,7 @@
     "BasePack Code": 44175,
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 3,
+    "Achv Qty": 6,
     "Status": "Completed"
   },
   {
