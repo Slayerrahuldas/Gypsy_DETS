@@ -6,8 +6,8 @@
     "Beat": "D-RAJA DINENDRA ST",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 12,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P42519",
@@ -34,9 +34,9 @@
     "HUL Outlet Name": "S N PRASAD SHAW-D",
     "ME Name": "Sumit Patra",
     "Beat": "D-AMARPALLY-2",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
+    "Achv Qty": 4,
     "Status": "Completed"
   },
   {
@@ -44,9 +44,9 @@
     "HUL Outlet Name": "S N PRASAD SHAW-D",
     "ME Name": "Sumit Patra",
     "Beat": "D-AMARPALLY-2",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
-    "Achv Qty": 4,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
+    "Achv Qty": 1,
     "Status": "Completed"
   },
   {
@@ -174,8 +174,8 @@
     "HUL Outlet Name": "Babu Saheb General Store-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-DAKSHINDARI",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -184,8 +184,8 @@
     "HUL Outlet Name": "Babu Saheb General Store-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-DAKSHINDARI",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -204,8 +204,8 @@
     "HUL Outlet Name": "Saawariya-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-JESSORE ROAD",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -214,8 +214,8 @@
     "HUL Outlet Name": "Saawariya-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-JESSORE ROAD",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -244,8 +244,8 @@
     "HUL Outlet Name": "New MS Radha Nath Paul-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -254,8 +254,8 @@
     "HUL Outlet Name": "New MS Radha Nath Paul-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -276,8 +276,8 @@
     "Beat": "K-CHALK BAZAR+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P44008",
@@ -304,8 +304,8 @@
     "HUL Outlet Name": "Rishi Bhandar-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-KAZIPARA",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -314,8 +314,8 @@
     "HUL Outlet Name": "Rishi Bhandar-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-KAZIPARA",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -344,9 +344,9 @@
     "HUL Outlet Name": "Bhowmik Stores-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-BAGUIHATI RD",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
+    "Achv Qty": 2,
     "Status": "Completed"
   },
   {
@@ -354,9 +354,9 @@
     "HUL Outlet Name": "Bhowmik Stores-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-BAGUIHATI RD",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
+    "Achv Qty": 1,
     "Status": "Completed"
   },
   {
@@ -414,8 +414,8 @@
     "HUL Outlet Name": "Hari Om Bhandar",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
     "Achv Qty": 4,
     "Status": "Completed"
   },
@@ -424,10 +424,10 @@
     "HUL Outlet Name": "Hari Om Bhandar",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 2,
-    "Status": "Pending"
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317P44481",
@@ -464,8 +464,8 @@
     "HUL Outlet Name": "Kalpana Saha",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-TERRITY MARKET",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 6,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -474,8 +474,8 @@
     "HUL Outlet Name": "Kalpana Saha",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-TERRITY MARKET",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 6,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -494,8 +494,8 @@
     "HUL Outlet Name": "Preeti Stores",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SHYAMBAZAR",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -504,20 +504,10 @@
     "HUL Outlet Name": "Preeti Stores",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SHYAMBAZAR",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-20B317P44514",
-    "HUL Outlet Name": "SUFAL BANGALA",
-    "ME Name": "SAIKAT   Das",
-    "Beat": "D-BELGACHIA",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-20B317P44514",
@@ -527,6 +517,16 @@
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
     "Achv Qty": 2,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-20B317P44514",
+    "HUL Outlet Name": "SUFAL BANGALA",
+    "ME Name": "SAIKAT   Das",
+    "Beat": "D-BELGACHIA",
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
+    "Achv Qty": 1,
     "Status": "Completed"
   },
   {
@@ -564,20 +564,20 @@
     "HUL Outlet Name": "TARA VARIETY STORE(SHYAMBAZAR)-F-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SHYAMBAZAR",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-216252F-C978",
     "HUL Outlet Name": "TARA VARIETY STORE(SHYAMBAZAR)-F-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SHYAMBAZAR",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-B",
@@ -586,8 +586,8 @@
     "Beat": "D-TERRITY MARKET",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P1001",
@@ -704,8 +704,8 @@
     "HUL Outlet Name": "ANNAPURNA BHANDER (K. B. ST.)-D-D-D-D-D",
     "ME Name": "Sumit Patra",
     "Beat": "D-KAILASH BOSE STREET",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -714,8 +714,8 @@
     "HUL Outlet Name": "ANNAPURNA BHANDER (K. B. ST.)-D-D-D-D-D",
     "ME Name": "Sumit Patra",
     "Beat": "D-KAILASH BOSE STREET",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -734,8 +734,8 @@
     "HUL Outlet Name": "Maha Prabhu Stores-D-D-D-D-D",
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -744,8 +744,8 @@
     "HUL Outlet Name": "Maha Prabhu Stores-D-D-D-D-D",
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -784,8 +784,8 @@
     "HUL Outlet Name": "Tapas Nandy-D-D-D-D-D",
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-BAGMARI-1",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -794,8 +794,8 @@
     "HUL Outlet Name": "Tapas Nandy-D-D-D-D-D",
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-BAGMARI-1",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -814,8 +814,8 @@
     "HUL Outlet Name": "MAA KALI BHANDAR(VVR)-D-D-D-D-D",
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 6,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -824,16 +824,6 @@
     "HUL Outlet Name": "MAA KALI BHANDAR(VVR)-D-D-D-D-D",
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 6,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217085D-P3593",
-    "HUL Outlet Name": "MAA SITALA VT.STORES-D-D-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "Beat": "D-BAGMARI-1",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
     "Achv Qty": 0,
@@ -846,6 +836,16 @@
     "Beat": "D-BAGMARI-1",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
+    "Achv Qty": 0,
+    "Status": "Pending"
+  },
+  {
+    "HUL Code": "HUL-217085D-P3593",
+    "HUL Outlet Name": "MAA SITALA VT.STORES-D-D-D-D-D",
+    "ME Name": "Sukalyan  Saha",
+    "Beat": "D-BAGMARI-1",
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -874,8 +874,8 @@
     "HUL Outlet Name": "G MONDAL-D-D-D-D-D",
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-BAGMARI-1",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -884,8 +884,8 @@
     "HUL Outlet Name": "G MONDAL-D-D-D-D-D",
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-BAGMARI-1",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -904,8 +904,8 @@
     "HUL Outlet Name": "S K MALAKAR-D-D-D-D-D",
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-BAGMARI-1",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -914,8 +914,8 @@
     "HUL Outlet Name": "S K MALAKAR-D-D-D-D-D",
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-BAGMARI-1",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1014,8 +1014,8 @@
     "HUL Outlet Name": "C K GHOSH-D-D-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1024,8 +1024,8 @@
     "HUL Outlet Name": "C K GHOSH-D-D-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 2,
     "Status": "Completed"
   },
@@ -1064,8 +1064,8 @@
     "HUL Outlet Name": "ANNAPURNA BHANDAR (M)-D-D-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1074,8 +1074,8 @@
     "HUL Outlet Name": "ANNAPURNA BHANDAR (M)-D-D-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1094,26 +1094,16 @@
     "HUL Outlet Name": "Sree Sree Satyanarayan Bh..-D-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-TERRITY MARKET",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 6,
+    "Achv Qty": 12,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P884",
     "HUL Outlet Name": "Sree Sree Satyanarayan Bh..-D-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-TERRITY MARKET",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 6,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217085D-P886",
-    "HUL Outlet Name": "SHREE SHYAM STORE-D-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "Beat": "D-TERETTI (W/S)",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
     "Achv Qty": 0,
@@ -1130,10 +1120,10 @@
     "Status": "Pending"
   },
   {
-    "HUL Code": "HUL-217085D-P892",
-    "HUL Outlet Name": "M Sarker-D-D-D-D",
+    "HUL Code": "HUL-217085D-P886",
+    "HUL Outlet Name": "SHREE SHYAM STORE-D-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
-    "Beat": "D-TERRITY MARKET",
+    "Beat": "D-TERETTI (W/S)",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
     "Achv Qty": 0,
@@ -1146,8 +1136,18 @@
     "Beat": "D-TERRITY MARKET",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-217085D-P892",
+    "HUL Outlet Name": "M Sarker-D-D-D-D",
+    "ME Name": "MANOJ KUMAR GUPTA",
+    "Beat": "D-TERRITY MARKET",
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P895",
@@ -1156,18 +1156,8 @@
     "Beat": "D-TERRITY MARKET",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217085D-P898",
-    "HUL Outlet Name": "Narayan Stores-D-D-D-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "Beat": "D-TERRITY MARKET",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P898",
@@ -1176,8 +1166,18 @@
     "Beat": "D-TERRITY MARKET",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 6,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 6,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-217085D-P898",
+    "HUL Outlet Name": "Narayan Stores-D-D-D-D",
+    "ME Name": "MANOJ KUMAR GUPTA",
+    "Beat": "D-TERRITY MARKET",
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 2,
+    "Achv Qty": 6,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P900",
@@ -1196,8 +1196,8 @@
     "Beat": "D-TERRITY MARKET",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P973",
@@ -1236,8 +1236,8 @@
     "Beat": "D-KAILASH BOSE STREET",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P986",
@@ -1276,8 +1276,8 @@
     "Beat": "K-MANICKTALA-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR121",
@@ -1294,8 +1294,8 @@
     "HUL Outlet Name": "Biswanath Stores-D-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 6,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1304,8 +1304,8 @@
     "HUL Outlet Name": "Biswanath Stores-D-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 6,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1316,8 +1316,8 @@
     "Beat": "D-SOVA BAZAR",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR167",
@@ -1326,6 +1326,16 @@
     "Beat": "D-SOVA BAZAR",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 4,
+    "Achv Qty": 4,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-217085D-PAR185",
+    "HUL Outlet Name": "Ganesh Stores-D-D-D-D",
+    "ME Name": "SAIKAT   Das",
+    "Beat": "D-SOVA BAZAR",
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1340,14 +1350,14 @@
     "Status": "Pending"
   },
   {
-    "HUL Code": "HUL-217085D-PAR185",
-    "HUL Outlet Name": "Ganesh Stores-D-D-D-D",
+    "HUL Code": "HUL-217085D-PAR220",
+    "HUL Outlet Name": "Hara Gouri Bhandar-D-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR220",
@@ -1356,18 +1366,8 @@
     "Beat": "D-SOVA BAZAR",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217085D-PAR220",
-    "HUL Outlet Name": "Hara Gouri Bhandar-D-D-D-D",
-    "ME Name": "SAIKAT   Das",
-    "Beat": "D-SOVA BAZAR",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR282",
@@ -1376,18 +1376,8 @@
     "Beat": "D-SOVA BAZAR",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217085D-PAR352",
-    "HUL Outlet Name": "ADI LAXMI BHANDER-D-D-D-D-D",
-    "ME Name": "Sumit Patra",
-    "Beat": "D-KAILASH BOSE STREET",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR352",
@@ -1396,8 +1386,18 @@
     "Beat": "D-KAILASH BOSE STREET",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-217085D-PAR352",
+    "HUL Outlet Name": "ADI LAXMI BHANDER-D-D-D-D-D",
+    "ME Name": "Sumit Patra",
+    "Beat": "D-KAILASH BOSE STREET",
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 2,
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085P-P3584",
@@ -1416,8 +1416,8 @@
     "Beat": "D-TERRITY MARKET",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085P-P3588",
@@ -1466,8 +1466,8 @@
     "Beat": "D-SK DEV ROAD-2",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-1546",
@@ -1484,8 +1484,8 @@
     "HUL Outlet Name": "Nalanda Stores-D-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1494,8 +1494,8 @@
     "HUL Outlet Name": "Nalanda Stores-D-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1554,30 +1554,20 @@
     "HUL Outlet Name": "NEW GUPTA STORE",
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-SK DEV ROAD-2",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-1602",
     "HUL Outlet Name": "NEW GUPTA STORE",
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-SK DEV ROAD-2",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217086D-1603",
-    "HUL Outlet Name": "SKM M/S MEDI AID PLUS-D-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "Beat": "D-SK DEV ROAD-2",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-1603",
@@ -1590,14 +1580,24 @@
     "Status": "Pending"
   },
   {
-    "HUL Code": "HUL-217086D-1605",
-    "HUL Outlet Name": "SKA M/S ARATI VTY STORES-D-D-D-D",
+    "HUL Code": "HUL-217086D-1603",
+    "HUL Outlet Name": "SKM M/S MEDI AID PLUS-D-D-D-D",
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-SK DEV ROAD-2",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
+  },
+  {
+    "HUL Code": "HUL-217086D-1605",
+    "HUL Outlet Name": "SKA M/S ARATI VTY STORES-D-D-D-D",
+    "ME Name": "Sukalyan  Saha",
+    "Beat": "D-SK DEV ROAD-2",
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-1617",
@@ -1676,8 +1676,8 @@
     "Beat": "D-SK DEV ROAD-2",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-198",
@@ -1724,8 +1724,8 @@
     "HUL Outlet Name": "SPK M/S K.C. PRAMANICK-D-D-D-D",
     "ME Name": "Sumit Patra",
     "Beat": "D-SHYAMPUKUR",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1734,8 +1734,8 @@
     "HUL Outlet Name": "SPK M/S K.C. PRAMANICK-D-D-D-D",
     "ME Name": "Sumit Patra",
     "Beat": "D-SHYAMPUKUR",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1784,8 +1784,8 @@
     "HUL Outlet Name": "ABA M/S ANIL STORES-D-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BELGACHIA",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
     "Achv Qty": 4,
     "Status": "Completed"
   },
@@ -1794,8 +1794,8 @@
     "HUL Outlet Name": "ABA M/S ANIL STORES-D-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BELGACHIA",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1806,8 +1806,8 @@
     "Beat": "D-RAJA DINENDRA ST",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-2375",
@@ -1826,8 +1826,8 @@
     "Beat": "D-BIDHANSARANI-3",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-2610",
@@ -1856,8 +1856,8 @@
     "Beat": "D-BIDHANSARANI-3",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-2703",
@@ -1884,8 +1884,8 @@
     "HUL Outlet Name": "HAN M/S NAND STORES-D-D-D-D",
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-BIDHANSARANI-3",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1894,20 +1894,10 @@
     "HUL Outlet Name": "HAN M/S NAND STORES-D-D-D-D",
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-BIDHANSARANI-3",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217086D-2782",
-    "HUL Outlet Name": "SPS M/S SHYAM STORES-D-D-D-D",
-    "ME Name": "Sumit Patra",
-    "Beat": "D-SHYAMPUKUR",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-2782",
@@ -1920,10 +1910,10 @@
     "Status": "Pending"
   },
   {
-    "HUL Code": "HUL-217086D-2822",
-    "HUL Outlet Name": "DDR M/S RAJENDRA STORES-D-D-D-D",
-    "ME Name": "Utpal  Chakraborty",
-    "Beat": "D-DAKSHINDARI-2",
+    "HUL Code": "HUL-217086D-2782",
+    "HUL Outlet Name": "SPS M/S SHYAM STORES-D-D-D-D",
+    "ME Name": "Sumit Patra",
+    "Beat": "D-SHYAMPUKUR",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
     "Achv Qty": 0,
@@ -1936,6 +1926,16 @@
     "Beat": "D-DAKSHINDARI-2",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 4,
+    "Achv Qty": 4,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-217086D-2822",
+    "HUL Outlet Name": "DDR M/S RAJENDRA STORES-D-D-D-D",
+    "ME Name": "Utpal  Chakraborty",
+    "Beat": "D-DAKSHINDARI-2",
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1954,24 +1954,14 @@
     "HUL Outlet Name": "SANJOY KUMAR GUPTA-D-D",
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-SK DEV ROAD-2",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217086D-2856",
-    "HUL Outlet Name": "SANJOY KUMAR GUPTA-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "Beat": "D-SK DEV ROAD-2",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
   {
-    "HUL Code": "HUL-217086D-2857",
-    "HUL Outlet Name": "SKB M/S BABLU STORES-D-D-D-D",
+    "HUL Code": "HUL-217086D-2856",
+    "HUL Outlet Name": "SANJOY KUMAR GUPTA-D-D",
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-SK DEV ROAD-2",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
@@ -1986,6 +1976,16 @@
     "Beat": "D-SK DEV ROAD-2",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 4,
+    "Achv Qty": 0,
+    "Status": "Pending"
+  },
+  {
+    "HUL Code": "HUL-217086D-2857",
+    "HUL Outlet Name": "SKB M/S BABLU STORES-D-D-D-D",
+    "ME Name": "Sukalyan  Saha",
+    "Beat": "D-SK DEV ROAD-2",
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2016,8 +2016,8 @@
     "Beat": "K-CHALK BAZAR+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-526",
@@ -2056,8 +2056,8 @@
     "Beat": "D-RAJA DINENDRA ST",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-761",
@@ -2066,8 +2066,8 @@
     "Beat": "D-RAJA DINENDRA ST",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-766",
@@ -2086,8 +2086,8 @@
     "Beat": "D-RAJA DINENDRA ST",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-981",
@@ -2104,8 +2104,8 @@
     "HUL Outlet Name": "HBN M/S NEW PANYASRI-D-D-D-D",
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-HATIBAGAN",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 3,
     "Status": "Completed"
   },
@@ -2114,8 +2114,8 @@
     "HUL Outlet Name": "HBN M/S NEW PANYASRI-D-D-D-D",
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-HATIBAGAN",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2144,8 +2144,8 @@
     "HUL Outlet Name": "SREE KRISHNA TRADERS - JR-D-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-NAGERBAZAR (W/S)",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2154,8 +2154,8 @@
     "HUL Outlet Name": "SREE KRISHNA TRADERS - JR-D-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-NAGERBAZAR (W/S)",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2184,20 +2184,20 @@
     "HUL Outlet Name": "CHOWDHURY STORES - JR-D-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-NAGERBAZAR (W/S)",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
+    "Achv Qty": 6,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P0197",
     "HUL Outlet Name": "CHOWDHURY STORES - JR-D-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-NAGERBAZAR (W/S)",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
-    "Achv Qty": 6,
-    "Status": "Completed"
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-217093D-P0198",
@@ -2214,8 +2214,8 @@
     "HUL Outlet Name": "KUNDU STORES - KL-D-D-D-D",
     "ME Name": "Sumit Patra",
     "Beat": "D-KALINDI",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2224,8 +2224,8 @@
     "HUL Outlet Name": "KUNDU STORES - KL-D-D-D-D",
     "ME Name": "Sumit Patra",
     "Beat": "D-KALINDI",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2254,8 +2254,8 @@
     "HUL Outlet Name": "PAPPU STORES - JR-D-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-JESSORE ROAD",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2264,8 +2264,8 @@
     "HUL Outlet Name": "PAPPU STORES - JR-D-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-JESSORE ROAD",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2294,8 +2294,8 @@
     "HUL Outlet Name": "MAA KALI BHANDER - AMPALLY-D-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-KAZIPARA",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2304,8 +2304,8 @@
     "HUL Outlet Name": "MAA KALI BHANDER - AMPALLY-D-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-KAZIPARA",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2356,6 +2356,16 @@
     "Beat": "D-BAGUIHATI (W/S)",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
+    "Achv Qty": 3,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-217093D-P0873",
+    "HUL Outlet Name": "KUNDU BHANDER-D-D-D-D",
+    "ME Name": "Sukalyan  Saha",
+    "Beat": "D-BAGUIHATI BAZAR",
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2366,16 +2376,6 @@
     "Beat": "D-BAGUIHATI BAZAR",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217093D-P0873",
-    "HUL Outlet Name": "KUNDU BHANDER-D-D-D-D",
-    "ME Name": "Sukalyan  Saha",
-    "Beat": "D-BAGUIHATI BAZAR",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2396,18 +2396,8 @@
     "Beat": "D-BAGUIHATI (W/S)",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217093D-P0886",
-    "HUL Outlet Name": "JAGABANDHU STORES-D-D-D-D",
-    "ME Name": "JAYANTA  MANDAL",
-    "Beat": "D-SATGACHI",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P0886",
@@ -2416,8 +2406,18 @@
     "Beat": "D-SATGACHI",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-217093D-P0886",
+    "HUL Outlet Name": "JAGABANDHU STORES-D-D-D-D",
+    "ME Name": "JAYANTA  MANDAL",
+    "Beat": "D-SATGACHI",
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P0889",
@@ -2434,8 +2434,8 @@
     "HUL Outlet Name": "SUPRIYA ST-D-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-BAGUIHATI RD",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 2,
     "Status": "Completed"
   },
@@ -2444,9 +2444,19 @@
     "HUL Outlet Name": "SUPRIYA ST-D-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-BAGUIHATI RD",
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
+    "Achv Qty": 1,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-217093D-P0899",
+    "HUL Outlet Name": "BHAI BHAI ST-D-D-D-D",
+    "ME Name": "Avijit Paul",
+    "Beat": "D-BAGUIHATI RD",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 1,
+    "Achv Qty": 0,
     "Status": "Pending"
   },
   {
@@ -2456,16 +2466,6 @@
     "Beat": "D-BAGUIHATI RD",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217093D-P0899",
-    "HUL Outlet Name": "BHAI BHAI ST-D-D-D-D",
-    "ME Name": "Avijit Paul",
-    "Beat": "D-BAGUIHATI RD",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2484,8 +2484,8 @@
     "HUL Outlet Name": "NEW RABINDRA NATH BHANDAR-D-D-D-D",
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-SATGACHI",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2494,8 +2494,8 @@
     "HUL Outlet Name": "NEW RABINDRA NATH BHANDAR-D-D-D-D",
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-SATGACHI",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2604,8 +2604,8 @@
     "HUL Outlet Name": "BSG GANAPATI STORES-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2614,16 +2614,6 @@
     "HUL Outlet Name": "BSG GANAPATI STORES-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-7220",
-    "HUL Outlet Name": "DILIP STORES-D-D-D",
-    "ME Name": "Avijit Paul",
-    "Beat": "D-COLLEGE STREET(SBJ)",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
     "Achv Qty": 0,
@@ -2640,8 +2630,8 @@
     "Status": "Pending"
   },
   {
-    "HUL Code": "HUL-217115D-7223",
-    "HUL Outlet Name": "DUTTA BHANDER-D-D-D",
+    "HUL Code": "HUL-217115D-7220",
+    "HUL Outlet Name": "DILIP STORES-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-COLLEGE STREET(SBJ)",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
@@ -2656,8 +2646,18 @@
     "Beat": "D-COLLEGE STREET(SBJ)",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-217115D-7223",
+    "HUL Outlet Name": "DUTTA BHANDER-D-D-D",
+    "ME Name": "Avijit Paul",
+    "Beat": "D-COLLEGE STREET(SBJ)",
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-7226",
@@ -2684,8 +2684,8 @@
     "HUL Outlet Name": "N C STORES-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-COLLEGE STREET(SBJ)",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2694,8 +2694,8 @@
     "HUL Outlet Name": "N C STORES-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-COLLEGE STREET(SBJ)",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2714,8 +2714,8 @@
     "HUL Outlet Name": "PANKAJ STORES-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-COLLEGE STREET(SBJ)",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2724,8 +2724,8 @@
     "HUL Outlet Name": "PANKAJ STORES-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-COLLEGE STREET(SBJ)",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2754,8 +2754,8 @@
     "HUL Outlet Name": "SANTOSH STORES-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-COLLEGE STREET(SBJ)",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2764,8 +2764,8 @@
     "HUL Outlet Name": "SANTOSH STORES-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-COLLEGE STREET(SBJ)",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2824,8 +2824,8 @@
     "HUL Outlet Name": "SREE KRISHNA BHANDER-D-D-D",
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2834,8 +2834,8 @@
     "HUL Outlet Name": "SREE KRISHNA BHANDER-D-D-D",
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -2874,9 +2874,9 @@
     "HUL Outlet Name": "MTN M/S NEW LOKENATH BHANDER-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
-    "Achv Qty": 2,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
+    "Achv Qty": 4,
     "Status": "Completed"
   },
   {
@@ -2884,9 +2884,9 @@
     "HUL Outlet Name": "MTN M/S NEW LOKENATH BHANDER-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
-    "Achv Qty": 4,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
+    "Achv Qty": 2,
     "Status": "Completed"
   },
   {
@@ -2986,8 +2986,8 @@
     "Beat": "D-RAJA DINENDRA ST",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P11585",
@@ -3034,8 +3034,8 @@
     "HUL Outlet Name": "BASUDEV SAHA - VK RD-D-D-D",
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3044,8 +3044,8 @@
     "HUL Outlet Name": "BASUDEV SAHA - VK RD-D-D-D",
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3074,8 +3074,8 @@
     "HUL Outlet Name": "NEW GUPTA BHANDER - MANIKTALA-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3084,8 +3084,8 @@
     "HUL Outlet Name": "NEW GUPTA BHANDER - MANIKTALA-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3204,8 +3204,8 @@
     "HUL Outlet Name": "MOUSUMI STORES - CP-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-TERETTI (W/S)",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 6,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3214,8 +3214,8 @@
     "HUL Outlet Name": "MOUSUMI STORES - CP-D-D-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-TERETTI (W/S)",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 6,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3234,8 +3234,8 @@
     "HUL Outlet Name": "MATARA CLASSIC - SOVABZR-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3244,8 +3244,8 @@
     "HUL Outlet Name": "MATARA CLASSIC - SOVABZR-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3264,8 +3264,8 @@
     "HUL Outlet Name": "SHIV BHANDER - COLL SBJ-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-COLLEGE STREET(SBJ)",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3274,8 +3274,8 @@
     "HUL Outlet Name": "SHIV BHANDER - COLL SBJ-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-COLLEGE STREET(SBJ)",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3334,8 +3334,8 @@
     "HUL Outlet Name": "MOHAN PRASAD KUSSWAH - DDARI-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-DAKSHINDARI",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3344,8 +3344,8 @@
     "HUL Outlet Name": "MOHAN PRASAD KUSSWAH - DDARI-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-DAKSHINDARI",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3356,8 +3356,8 @@
     "Beat": "D-COLLEGE STREET(SBJ)",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P13540",
@@ -3434,8 +3434,8 @@
     "HUL Outlet Name": "GANAPATI - AMARPALLY-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-KAZIPARA",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3444,16 +3444,6 @@
     "HUL Outlet Name": "GANAPATI - AMARPALLY-D-D-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-KAZIPARA",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P18545",
-    "HUL Outlet Name": "SUJOY SAT - KS-D-D-D",
-    "ME Name": "Utpal  Chakraborty",
-    "Beat": "D-KESHAB SEN ST-2",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
     "Achv Qty": 0,
@@ -3470,10 +3460,10 @@
     "Status": "Pending"
   },
   {
-    "HUL Code": "HUL-217115D-P19696",
-    "HUL Outlet Name": "Sonu Stores-D-D-D",
-    "ME Name": "Pritam Das",
-    "Beat": "K-MANICKTALA-2+NUTS",
+    "HUL Code": "HUL-217115D-P18545",
+    "HUL Outlet Name": "SUJOY SAT - KS-D-D-D",
+    "ME Name": "Utpal  Chakraborty",
+    "Beat": "D-KESHAB SEN ST-2",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
     "Achv Qty": 0,
@@ -3486,6 +3476,16 @@
     "Beat": "K-MANICKTALA-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
+    "Achv Qty": 2,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-217115D-P19696",
+    "HUL Outlet Name": "Sonu Stores-D-D-D",
+    "ME Name": "Pritam Das",
+    "Beat": "K-MANICKTALA-2+NUTS",
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3576,8 +3576,8 @@
     "Beat": "K-BAGMARI-3+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P23749",
@@ -3586,8 +3586,8 @@
     "Beat": "K-BAGMARI-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P24015",
@@ -3636,6 +3636,16 @@
     "Beat": "K-BAGMARI-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 4,
+    "Achv Qty": 4,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-217115D-P26225",
+    "HUL Outlet Name": "S.N STORES-D-D",
+    "ME Name": "Avijit Paul",
+    "Beat": "D-DAKSHINDARI",
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3646,16 +3656,6 @@
     "Beat": "D-DAKSHINDARI",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P26225",
-    "HUL Outlet Name": "S.N STORES-D-D",
-    "ME Name": "Avijit Paul",
-    "Beat": "D-DAKSHINDARI",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3694,8 +3694,8 @@
     "HUL Outlet Name": "GANESH STORES-D-D-D",
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-BIDHANSARANI-3",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3704,8 +3704,8 @@
     "HUL Outlet Name": "GANESH STORES-D-D-D",
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-BIDHANSARANI-3",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3744,8 +3744,8 @@
     "HUL Outlet Name": "FAIR PRICES SHOP-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SK DEV ROAD-1",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3754,8 +3754,8 @@
     "HUL Outlet Name": "FAIR PRICES SHOP-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SK DEV ROAD-1",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3874,8 +3874,8 @@
     "HUL Outlet Name": "BASUKI BHANDAR-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-COLLEGE STREET(SBJ)",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3884,8 +3884,8 @@
     "HUL Outlet Name": "BASUKI BHANDAR-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-COLLEGE STREET(SBJ)",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -3946,8 +3946,8 @@
     "Beat": "D-TERRITY MARKET",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P26397",
@@ -3994,20 +3994,20 @@
     "HUL Outlet Name": "PARAMANIK COMMUNACATION-D",
     "ME Name": "Sumit Patra",
     "Beat": "D-RAJA DINENDRA ST",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P26522",
     "HUL Outlet Name": "PARAMANIK COMMUNACATION-D",
     "ME Name": "Sumit Patra",
     "Beat": "D-RAJA DINENDRA ST",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P26831",
@@ -4036,8 +4036,8 @@
     "Beat": "D-DAKSHINDARI-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P27156",
@@ -4046,8 +4046,8 @@
     "Beat": "D-DAKSHINDARI-2",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P27371",
@@ -4106,8 +4106,8 @@
     "Beat": "K-BAGMARI-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P28522",
@@ -4216,8 +4216,8 @@
     "Beat": "D-DAKSHINDARI",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P29832",
@@ -4316,8 +4316,8 @@
     "Beat": "D-DAKSHINDARI-2",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P31216",
@@ -4436,8 +4436,8 @@
     "Beat": "D-SHYAM BAZAR (W/S)",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 24,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 24,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P32791",
@@ -4524,8 +4524,8 @@
     "HUL Outlet Name": "RANJIT SADHUKHAN-D",
     "ME Name": "Pritam Das",
     "Beat": "K-AMHAR ST+NUTS",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -4534,16 +4534,6 @@
     "HUL Outlet Name": "RANJIT SADHUKHAN-D",
     "ME Name": "Pritam Das",
     "Beat": "K-AMHAR ST+NUTS",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P34295",
-    "HUL Outlet Name": "SREE KRISHNA ST-D",
-    "ME Name": "Avijit Paul",
-    "Beat": "D-BAGUIHATI RD",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
     "Achv Qty": 0,
@@ -4556,6 +4546,16 @@
     "Beat": "D-BAGUIHATI RD",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
+    "Achv Qty": 0,
+    "Status": "Pending"
+  },
+  {
+    "HUL Code": "HUL-219176D-P34295",
+    "HUL Outlet Name": "SREE KRISHNA ST-D",
+    "ME Name": "Avijit Paul",
+    "Beat": "D-BAGUIHATI RD",
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -4594,8 +4594,8 @@
     "HUL Outlet Name": "SUDHIR KUMAR-D",
     "ME Name": "Ranajit Das",
     "Beat": "K-HATIBAGAN-1+NUTS",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -4604,8 +4604,8 @@
     "HUL Outlet Name": "SUDHIR KUMAR-D",
     "ME Name": "Ranajit Das",
     "Beat": "K-HATIBAGAN-1+NUTS",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -4624,8 +4624,8 @@
     "HUL Outlet Name": "SHYAM BHANDER-D",
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-MANIKTALA-2+NUTS",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -4634,8 +4634,8 @@
     "HUL Outlet Name": "SHYAM BHANDER-D",
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-MANIKTALA-2+NUTS",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -4754,8 +4754,8 @@
     "HUL Outlet Name": "JAI MATADI BHANDAR-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-JESSORE ROAD",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 2,
     "Status": "Completed"
   },
@@ -4764,8 +4764,8 @@
     "HUL Outlet Name": "JAI MATADI BHANDAR-D",
     "ME Name": "Avijit Paul",
     "Beat": "D-JESSORE ROAD",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -4794,8 +4794,8 @@
     "HUL Outlet Name": "SITALA BH.-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-BAGUIHATI (W/S)",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -4804,16 +4804,6 @@
     "HUL Outlet Name": "SITALA BH.-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-BAGUIHATI (W/S)",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P36472",
-    "HUL Outlet Name": "BAPPA BANIK-D",
-    "ME Name": "Sukalyan  Saha",
-    "Beat": "D-BAGUIHATI BAZAR",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
     "Achv Qty": 0,
@@ -4826,6 +4816,16 @@
     "Beat": "D-BAGUIHATI BAZAR",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
+    "Achv Qty": 0,
+    "Status": "Pending"
+  },
+  {
+    "HUL Code": "HUL-219176D-P36472",
+    "HUL Outlet Name": "BAPPA BANIK-D",
+    "ME Name": "Sukalyan  Saha",
+    "Beat": "D-BAGUIHATI BAZAR",
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -4846,8 +4846,8 @@
     "Beat": "K-CHALK BAZAR+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P36827",
@@ -4914,8 +4914,8 @@
     "HUL Outlet Name": "GOURI BH (1)-D",
     "ME Name": "SAMAR ADHIKARI",
     "Beat": "K-GOLA GHATA+NUTS",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -4924,16 +4924,6 @@
     "HUL Outlet Name": "GOURI BH (1)-D",
     "ME Name": "SAMAR ADHIKARI",
     "Beat": "K-GOLA GHATA+NUTS",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-219176D-P37832",
-    "HUL Outlet Name": "TALHA STORES-D",
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "Beat": "D-TERRITY MARKET",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
     "Achv Qty": 0,
@@ -4946,8 +4936,18 @@
     "Beat": "D-TERRITY MARKET",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-219176D-P37832",
+    "HUL Outlet Name": "TALHA STORES-D",
+    "ME Name": "MANOJ KUMAR GUPTA",
+    "Beat": "D-TERRITY MARKET",
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P38247",
@@ -5164,8 +5164,8 @@
     "HUL Outlet Name": "Loknath Stores-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SK DEV ROAD-1",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -5174,8 +5174,8 @@
     "HUL Outlet Name": "Loknath Stores-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SK DEV ROAD-1",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -5296,8 +5296,8 @@
     "Beat": "D-SATGACHI",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P43452",
@@ -5324,8 +5324,8 @@
     "HUL Outlet Name": "MAA JAGDAMBA TREDERS-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -5334,8 +5334,8 @@
     "HUL Outlet Name": "MAA JAGDAMBA TREDERS-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -5386,8 +5386,8 @@
     "Beat": "D-BIDHANSARANI-3",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P44357",
@@ -5454,8 +5454,8 @@
     "HUL Outlet Name": "Ganesh Bhandar-D",
     "ME Name": "Indrajit Sarkar",
     "Beat": "D-AMARPALLY+NUTS",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -5464,8 +5464,8 @@
     "HUL Outlet Name": "Ganesh Bhandar-D",
     "ME Name": "Indrajit Sarkar",
     "Beat": "D-AMARPALLY+NUTS",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -5524,20 +5524,20 @@
     "HUL Outlet Name": "Maa Kali Bhandar-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-TERRITY MARKET",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P44982",
     "HUL Outlet Name": "Maa Kali Bhandar-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-TERRITY MARKET",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P45007",
@@ -5596,8 +5596,8 @@
     "Beat": "K-MANICKTALA-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P45167",
@@ -5646,8 +5646,8 @@
     "Beat": "D-DAKSHINDARI-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P45601",
@@ -5664,8 +5664,8 @@
     "HUL Outlet Name": "Vishnu bhander-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-TERRITY MARKET",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -5674,8 +5674,8 @@
     "HUL Outlet Name": "Vishnu bhander-D",
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-TERRITY MARKET",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -6114,8 +6114,8 @@
     "HUL Outlet Name": "BSM M/S MOTILAL AGARWAL-D-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 4,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 6,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -6124,8 +6124,8 @@
     "HUL Outlet Name": "BSM M/S MOTILAL AGARWAL-D-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 6,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -6154,8 +6154,8 @@
     "HUL Outlet Name": "SKM M/S MUNNA STORES-D-D-D-D",
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-SK DEV ROAD-2",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -6164,8 +6164,8 @@
     "HUL Outlet Name": "SKM M/S MUNNA STORES-D-D-D-D",
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-SK DEV ROAD-2",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -6174,8 +6174,8 @@
     "HUL Outlet Name": "SKP M/S PRATIVA STORES(SV)-D-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SK DEV ROAD-1",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 3,
     "Status": "Completed"
   },
@@ -6184,8 +6184,8 @@
     "HUL Outlet Name": "SKP M/S PRATIVA STORES(SV)-D-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SK DEV ROAD-1",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -6204,8 +6204,8 @@
     "HUL Outlet Name": "Nandlal Shaw (SVS)-D-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -6214,8 +6214,8 @@
     "HUL Outlet Name": "Nandlal Shaw (SVS)-D-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -6234,8 +6234,8 @@
     "HUL Outlet Name": "Munna Shaw & Sanjay Shaw (SVS)-D-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -6244,8 +6244,8 @@
     "HUL Outlet Name": "Munna Shaw & Sanjay Shaw (SVS)-D-D-D-D",
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -6264,8 +6264,8 @@
     "HUL Outlet Name": "LAXMI BHANDAR (SVS)K B-D-D-D-D-D",
     "ME Name": "Sumit Patra",
     "Beat": "D-KAILASH BOSE STREET",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -6274,8 +6274,8 @@
     "HUL Outlet Name": "LAXMI BHANDAR (SVS)K B-D-D-D-D-D",
     "ME Name": "Sumit Patra",
     "Beat": "D-KAILASH BOSE STREET",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -6314,8 +6314,8 @@
     "HUL Outlet Name": "P MONDAL (SVS)-D-D-D-D-D",
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-BAGMARI-1",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -6324,8 +6324,8 @@
     "HUL Outlet Name": "P MONDAL (SVS)-D-D-D-D-D",
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-BAGMARI-1",
-    "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -6396,8 +6396,8 @@
     "Beat": "D-SATGACHI",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 3,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70007302212",
