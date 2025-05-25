@@ -23,7 +23,7 @@ function populateTable(data) {
         row.appendChild(createCell(data.length - index));
 
         // Add table data
-        ["HUL Code", "HUL Outlet Name", "ME Name", "Beat", "BasePack Desc", "Target (VMQ)", "Achv Qty", "Status"].forEach(key => {
+        ["HUL Code", "HUL Outlet Name", "BasePack Desc", "Target (VMQ)", "Achv Qty", "Status", "Beat"].forEach(key => {
             row.appendChild(createCell(item[key]));
         });
 
