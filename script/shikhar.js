@@ -1,10 +1,10 @@
 let filterButtonActive = false;
 let jsonData = [];
 
-// Fetch and initialize data
+// Fetch JSON data and initialize
 async function fetchData() {
     try {
-        const response = await fetch("coverage.json"); // Adjust if needed
+        const response = await fetch("json/shikhar.json"); // Adjust filename if needed
         if (!response.ok) throw new Error("Failed to fetch data.");
         jsonData = await response.json();
         initialize();
@@ -13,7 +13,7 @@ async function fetchData() {
     }
 }
 
-// Populate table
+// Populate table with filtered data
 function populateTable(data) {
     const tableBody = document.getElementById("table-body");
     tableBody.innerHTML = "";
@@ -25,7 +25,15 @@ function populateTable(data) {
         serialCell.textContent = data.length - index;
         row.appendChild(serialCell);
 
-        const columns = ["HUL Code", "HUL Outlet Name", "ECO", "BTD", "Beat"];
+        const columns = [
+            "HUL Code",
+            "HUL Outlet Name",
+            "Status",
+            "Shikhar",
+            "BTD",
+            "Beat",
+        ];
+
         columns.forEach((key) => {
             const cell = document.createElement("td");
             cell.textContent = item[key] !== undefined ? item[key] : "";
@@ -36,14 +44,14 @@ function populateTable(data) {
     });
 }
 
-// Apply filters and update table
+// Apply all filters
 function applyFilters() {
     const meName = document.getElementById("filter-me-name").value;
     const day = document.getElementById("filter-day").value;
     const searchQuery = document.getElementById("search-bar").value.toLowerCase();
 
     const filteredData = jsonData.filter((row) => {
-        const ecoValue = parseFloat(row["ECO"]);
+        const shikharValue = parseFloat(row["Shikhar"]);
 
         return (
             (meName === "" || row["ME Name"] === meName) &&
@@ -51,7 +59,7 @@ function applyFilters() {
             (searchQuery === "" ||
                 (row["HUL Code"] && row["HUL Code"].toLowerCase().includes(searchQuery)) ||
                 (row["HUL Outlet Name"] && row["HUL Outlet Name"].toLowerCase().includes(searchQuery))) &&
-            (!filterButtonActive || (!isNaN(ecoValue) && ecoValue < 1000))
+            (!filterButtonActive || (!isNaN(shikharValue) && shikharValue < 500))
         );
     });
 
@@ -59,7 +67,7 @@ function applyFilters() {
     updateDropdowns(filteredData);
 }
 
-// Update dropdowns based on current data
+// Populate dropdowns with current values
 function updateDropdowns(filteredData) {
     const meSet = new Set();
     const daySet = new Set();
@@ -69,12 +77,12 @@ function updateDropdowns(filteredData) {
         if (row["Day"]) daySet.add(row["Day"]);
     });
 
-    populateDropdown("filter-me-name", meSet, "ME Name");
-    populateDropdown("filter-day", daySet, "Day");
+    populateSelectDropdown("filter-me-name", meSet, "ME Name");
+    populateSelectDropdown("filter-day", daySet, "Day");
 }
 
-// Helper to populate a select dropdown
-function populateDropdown(id, optionsSet, headerName) {
+// Helper for dropdowns
+function populateSelectDropdown(id, optionsSet, headerName) {
     const dropdown = document.getElementById(id);
     const selectedValue = dropdown.value;
     dropdown.innerHTML = `<option value="">${headerName}</option>`;
@@ -91,7 +99,7 @@ function resetFilters() {
     filterButtonActive = false;
     document.getElementById("filter-button").style.backgroundColor = "#007bff";
     document.getElementById("search-bar").value = "";
-    document.querySelectorAll("select").forEach((dropdown) => dropdown.value = "");
+    document.querySelectorAll("select").forEach((dropdown) => (dropdown.value = ""));
     applyFilters();
 }
 
@@ -104,11 +112,11 @@ function debounce(func, delay = 300) {
     };
 }
 
-// Initialize listeners and display
+// Initialize event listeners
 function initialize() {
     document.getElementById("reset-button").addEventListener("click", resetFilters);
     document.getElementById("search-bar").addEventListener("input", debounce(applyFilters));
-    document.querySelectorAll("select").forEach(dropdown =>
+    document.querySelectorAll("select").forEach((dropdown) =>
         dropdown.addEventListener("change", applyFilters)
     );
 
@@ -122,5 +130,5 @@ function initialize() {
     applyFilters();
 }
 
-// Start process
+// Start
 fetchData();
