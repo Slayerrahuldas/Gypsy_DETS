@@ -3,7 +3,7 @@ let jsonData = [];
 // Fetch and initialize data
 async function fetchData() {
     try {
-        const response = await fetch("json/channel.json"); // Adjust if needed
+        const response = await fetch("json/channel.json");
         if (!response.ok) throw new Error("Failed to fetch data.");
         jsonData = await response.json();
         initialize();
@@ -30,9 +30,7 @@ function populateTable(data) {
             "TGT",
             "ACH",
             "BTD",
-            "ME Name",
             "Beat",
-            "Day"
         ];
 
         columns.forEach((key) => {
@@ -62,15 +60,14 @@ function applyFilters() {
     });
 
     populateTable(filteredData);
-    updateDropdowns(filteredData);
 }
 
-// Update dropdowns based on current data
-function updateDropdowns(filteredData) {
+// Update dropdowns on initial load
+function updateDropdowns(data) {
     const meSet = new Set();
     const daySet = new Set();
 
-    filteredData.forEach((row) => {
+    data.forEach((row) => {
         if (row["ME Name"]) meSet.add(row["ME Name"]);
         if (row["Day"]) daySet.add(row["Day"]);
     });
@@ -79,7 +76,7 @@ function updateDropdowns(filteredData) {
     populateDropdown("filter-day", daySet, "Day");
 }
 
-// Helper to populate a select dropdown
+// Populate a select dropdown
 function populateDropdown(id, optionsSet, headerName) {
     const dropdown = document.getElementById(id);
     const selectedValue = dropdown.value;
@@ -101,16 +98,16 @@ function debounce(func, delay = 300) {
     };
 }
 
-// Initialize listeners and display
+// Initialize page
 function initialize() {
     document.getElementById("search-bar").addEventListener("input", debounce(applyFilters));
     document.querySelectorAll("select").forEach((dropdown) =>
         dropdown.addEventListener("change", applyFilters)
     );
 
-    populateTable(jsonData);
+    updateDropdowns(jsonData);
     applyFilters();
 }
 
-// Start process
+// Kickstart
 fetchData();
