@@ -27,7 +27,6 @@ function populateTable(data) {
         const columns = [
             "HUL Code",
             "HUL Outlet Name",
-            "BasePack Desc",
             "TGT",
             "ACH",
             "BTD",
