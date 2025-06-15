@@ -31,7 +31,8 @@ function populateTable(data) {
             "ACH",
             "BTD",
             "ME Name",
-            "Beat"
+            "Beat",
+            "Day"
         ];
 
         columns.forEach((key) => {
