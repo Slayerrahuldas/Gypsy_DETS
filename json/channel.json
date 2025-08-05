@@ -1,22 +1,42 @@
 [
   {
-    "HUL Code": "HUL-217115D-P13294",
-    "HUL Outlet Name": "MATARA CLASSIC - SOVABZR-D-D-D",
-    "TGT": 5241,
-    "ACH": 0,
-    "BTD": 5241,
+    "HUL Code": "HUL-217086D-1617",
+    "HUL Outlet Name": "ABG G. D. TRADING-D-D-D-D",
+    "TGT": 22128,
+    "ACH": 9850,
+    "BTD": 12278,
     "ME Name": "SAIKAT   Das",
-    "Beat": "D-SOVA BAZAR (SVS)",
-    "Day": "MON"
+    "Beat": "D-BELGACHIA",
+    "Day": "WED"
   },
   {
-    "HUL Code": "HUL-217086D-1694",
-    "HUL Outlet Name": "SBA M/S ADI GHOSH BROTHERS-D-D-D-D",
-    "TGT": 7622,
-    "ACH": 7786,
-    "BTD": 0,
-    "ME Name": "SAIKAT   Das",
-    "Beat": "D-SHYAMBAZAR",
+    "HUL Code": "HUL-217085D-PAR352",
+    "HUL Outlet Name": "ADI LAXMI BHANDER-D-D-D-D-D",
+    "TGT": 55459,
+    "ACH": -200,
+    "BTD": 55659,
+    "ME Name": "Sumit Patra",
+    "Beat": "D-KAILASH BOSE STREET",
+    "Day": "SAT"
+  },
+  {
+    "HUL Code": "HUL-217085D-P878",
+    "HUL Outlet Name": "ANNAPURNA BHANDAR (M)-D-D-D-D-D",
+    "TGT": 36384,
+    "ACH": 32696,
+    "BTD": 3688,
+    "ME Name": "MANOJ KUMAR GUPTA",
+    "Beat": "D-MANICKTALA",
+    "Day": "TUE"
+  },
+  {
+    "HUL Code": "HUL-219176D-P25797",
+    "HUL Outlet Name": "BASUKI BHANDAR-D",
+    "TGT": 45278,
+    "ACH": 21212,
+    "BTD": 24066,
+    "ME Name": "Avijit Paul",
+    "Beat": "D-COLLEGE STREET(SBJ)",
     "Day": "FRI"
   },
   {
@@ -30,24 +50,64 @@
     "Day": "THU"
   },
   {
-    "HUL Code": "HUL-217086D-1682",
-    "HUL Outlet Name": "SKB M/S BANIK STORES-D-D-D-D",
-    "TGT": 14174,
-    "ACH": 9734,
-    "BTD": 4440,
+    "HUL Code": "WB70000461145",
+    "HUL Outlet Name": "BSM M/S MOTILAL AGARWAL-D-D-D-D",
+    "TGT": 111579,
+    "ACH": 21442,
+    "BTD": 90137,
+    "ME Name": "SAIKAT   Das",
+    "Beat": "D-BIDHANSARANI-1",
+    "Day": "THU"
+  },
+  {
+    "HUL Code": "HUL-217093D-P0197",
+    "HUL Outlet Name": "CHOWDHURY STORES - JR-D-D-D-D",
+    "TGT": 57223,
+    "ACH": 12749,
+    "BTD": 44474,
     "ME Name": "MANOJ KUMAR GUPTA",
-    "Beat": "D-SK DEV ROAD-2",
+    "Beat": "D-NAGERBAZAR (W/S)",
+    "Day": "WED"
+  },
+  {
+    "HUL Code": "HUL-217115D-7223",
+    "HUL Outlet Name": "DUTTA BHANDER-D-D-D",
+    "TGT": 27606,
+    "ACH": 0,
+    "BTD": 27606,
+    "ME Name": "Avijit Paul",
+    "Beat": "D-COLLEGE STREET(SBJ)",
+    "Day": "FRI"
+  },
+  {
+    "HUL Code": "HUL-217085D-P707",
+    "HUL Outlet Name": "G MONDAL-D-D-D-D-D",
+    "TGT": 38385,
+    "ACH": 16634,
+    "BTD": 21751,
+    "ME Name": "MANOJ KUMAR GUPTA",
+    "Beat": "D-BAGMARI-1",
+    "Day": "MON"
+  },
+  {
+    "HUL Code": "HUL-217093D-P0886",
+    "HUL Outlet Name": "JAGABANDHU STORES-D-D-D-D",
+    "TGT": 38682,
+    "ACH": 7498,
+    "BTD": 31184,
+    "ME Name": "JAYANTA  MANDAL",
+    "Beat": "D-SATGACHI",
     "Day": "SAT"
   },
   {
-    "HUL Code": "HUL-217093D-P0193",
-    "HUL Outlet Name": "MIRA GIFT - JR-D-D-D-D",
-    "TGT": 18406,
-    "ACH": 866,
-    "BTD": 17540,
-    "ME Name": "Avijit Paul",
-    "Beat": "D-JESSORE ROAD",
-    "Day": "MON"
+    "HUL Code": "HUL-217093D-P0873",
+    "HUL Outlet Name": "KUNDU BHANDER-D-D-D-D",
+    "TGT": 20083,
+    "ACH": 4556,
+    "BTD": 15527,
+    "ME Name": "Sukalyan  Saha",
+    "Beat": "D-BAGUIHATI BAZAR",
+    "Day": "WED"
   },
   {
     "HUL Code": "WB70000660751",
@@ -60,44 +120,64 @@
     "Day": "SAT"
   },
   {
-    "HUL Code": "HUL-217093D-P0873",
-    "HUL Outlet Name": "KUNDU BHANDER-D-D-D-D",
-    "TGT": 20083,
-    "ACH": 4630,
-    "BTD": 15453,
-    "ME Name": "Sukalyan  Saha",
-    "Beat": "D-BAGUIHATI BAZAR",
-    "Day": "WED"
-  },
-  {
-    "HUL Code": "HUL-217093D-P0653",
-    "HUL Outlet Name": "SREE BHANDER - AMP-D-D-D-D",
-    "TGT": 20132,
-    "ACH": 10901,
-    "BTD": 9231,
-    "ME Name": "Avijit Paul",
-    "Beat": "D-KAZIPARA",
-    "Day": "WED"
-  },
-  {
-    "HUL Code": "HUL-217086D-1617",
-    "HUL Outlet Name": "ABG G. D. TRADING-D-D-D-D",
-    "TGT": 22128,
-    "ACH": 9850,
-    "BTD": 12278,
+    "HUL Code": "HUL-217115D-P13294",
+    "HUL Outlet Name": "MATARA CLASSIC - SOVABZR-D-D-D",
+    "TGT": 5241,
+    "ACH": 31706,
+    "BTD": 0,
     "ME Name": "SAIKAT   Das",
-    "Beat": "D-BELGACHIA",
-    "Day": "WED"
+    "Beat": "D-SOVA BAZAR (SVS)",
+    "Day": "MON"
   },
   {
-    "HUL Code": "HUL-217086D-2856",
-    "HUL Outlet Name": "SANJOY KUMAR GUPTA-D-D",
-    "TGT": 24056,
-    "ACH": 11937,
-    "BTD": 12119,
+    "HUL Code": "HUL-217093D-P0193",
+    "HUL Outlet Name": "MIRA GIFT - JR-D-D-D-D",
+    "TGT": 18406,
+    "ACH": 866,
+    "BTD": 17540,
+    "ME Name": "Avijit Paul",
+    "Beat": "D-JESSORE ROAD",
+    "Day": "MON"
+  },
+  {
+    "HUL Code": "HUL-217115D-P12989",
+    "HUL Outlet Name": "MOUSUMI STORES - CP-D-D-D",
+    "TGT": 26470,
+    "ACH": 2408,
+    "BTD": 24062,
+    "ME Name": "Sukalyan  Saha",
+    "Beat": "D-TERETTI (W/S)",
+    "Day": "MON"
+  },
+  {
+    "HUL Code": "WB70000560726",
+    "HUL Outlet Name": "Nandlal Shaw (SVS)-D-D-D-D",
+    "TGT": 32472,
+    "ACH": 35723,
+    "BTD": 0,
+    "ME Name": "SAIKAT   Das",
+    "Beat": "D-SOVA BAZAR (SVS)",
+    "Day": "MON"
+  },
+  {
+    "HUL Code": "WB70005460747",
+    "HUL Outlet Name": "P MONDAL (SVS)-D-D-D-D-D",
+    "TGT": 36266,
+    "ACH": 9882,
+    "BTD": 26384,
     "ME Name": "MANOJ KUMAR GUPTA",
-    "Beat": "D-SK DEV ROAD-2",
-    "Day": "SAT"
+    "Beat": "D-BAGMARI-1",
+    "Day": "MON"
+  },
+  {
+    "HUL Code": "HUL-20B317D-P43301",
+    "HUL Outlet Name": "Rasafa Mart",
+    "TGT": 62122,
+    "ACH": 14424,
+    "BTD": 47698,
+    "ME Name": "Avijit Paul",
+    "Beat": "D-KESHAB SEN STREET",
+    "Day": "THU"
   },
   {
     "HUL Code": "HUL-20B317D-P44044",
@@ -120,36 +200,6 @@
     "Day": "FRI"
   },
   {
-    "HUL Code": "HUL-217115D-P12989",
-    "HUL Outlet Name": "MOUSUMI STORES - CP-D-D-D",
-    "TGT": 26470,
-    "ACH": 548,
-    "BTD": 25922,
-    "ME Name": "Sukalyan  Saha",
-    "Beat": "D-TERETTI (W/S)",
-    "Day": "MON"
-  },
-  {
-    "HUL Code": "HUL-217115D-7223",
-    "HUL Outlet Name": "DUTTA BHANDER-D-D-D",
-    "TGT": 27606,
-    "ACH": 0,
-    "BTD": 27606,
-    "ME Name": "Avijit Paul",
-    "Beat": "D-COLLEGE STREET(SBJ)",
-    "Day": "FRI"
-  },
-  {
-    "HUL Code": "WB70000461167",
-    "HUL Outlet Name": "SKM M/S MUNNA STORES-D-D-D-D",
-    "TGT": 30612,
-    "ACH": 17596,
-    "BTD": 13016,
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "Beat": "D-SK DEV ROAD-2",
-    "Day": "SAT"
-  },
-  {
     "HUL Code": "HUL-217085D-P717",
     "HUL Outlet Name": "S K MALAKAR-D-D-D-D-D",
     "TGT": 30721,
@@ -160,114 +210,24 @@
     "Day": "MON"
   },
   {
-    "HUL Code": "HUL-217086D-1603",
-    "HUL Outlet Name": "SKM M/S MEDI AID PLUS-D-D-D-D",
-    "TGT": 30812,
-    "ACH": 13413,
-    "BTD": 17399,
+    "HUL Code": "HUL-217086D-2856",
+    "HUL Outlet Name": "SANJOY KUMAR GUPTA-D-D",
+    "TGT": 24056,
+    "ACH": 11937,
+    "BTD": 12119,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
     "Day": "SAT"
   },
   {
-    "HUL Code": "WB70000461169",
-    "HUL Outlet Name": "SKP M/S PRATIVA STORES(SV)-D-D-D-D",
-    "TGT": 31825,
-    "ACH": 0,
-    "BTD": 31825,
+    "HUL Code": "HUL-217086D-1694",
+    "HUL Outlet Name": "SBA M/S ADI GHOSH BROTHERS-D-D-D-D",
+    "TGT": 7622,
+    "ACH": 7786,
+    "BTD": 0,
     "ME Name": "SAIKAT   Das",
-    "Beat": "D-SK DEV ROAD-1",
-    "Day": "TUE"
-  },
-  {
-    "HUL Code": "WB70000560726",
-    "HUL Outlet Name": "Nandlal Shaw (SVS)-D-D-D-D",
-    "TGT": 32472,
-    "ACH": 10974,
-    "BTD": 21498,
-    "ME Name": "SAIKAT   Das",
-    "Beat": "D-SOVA BAZAR (SVS)",
-    "Day": "MON"
-  },
-  {
-    "HUL Code": "WB70005460747",
-    "HUL Outlet Name": "P MONDAL (SVS)-D-D-D-D-D",
-    "TGT": 36266,
-    "ACH": 2310,
-    "BTD": 33956,
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "Beat": "D-BAGMARI-1",
-    "Day": "MON"
-  },
-  {
-    "HUL Code": "HUL-217085D-P878",
-    "HUL Outlet Name": "ANNAPURNA BHANDAR (M)-D-D-D-D-D",
-    "TGT": 36384,
-    "ACH": 17043,
-    "BTD": 19341,
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "Beat": "D-MANICKTALA",
-    "Day": "TUE"
-  },
-  {
-    "HUL Code": "HUL-217085D-P707",
-    "HUL Outlet Name": "G MONDAL-D-D-D-D-D",
-    "TGT": 38385,
-    "ACH": 5466,
-    "BTD": 32919,
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "Beat": "D-BAGMARI-1",
-    "Day": "MON"
-  },
-  {
-    "HUL Code": "HUL-217093D-P0886",
-    "HUL Outlet Name": "JAGABANDHU STORES-D-D-D-D",
-    "TGT": 38682,
-    "ACH": 7498,
-    "BTD": 31184,
-    "ME Name": "JAYANTA  MANDAL",
-    "Beat": "D-SATGACHI",
-    "Day": "SAT"
-  },
-  {
-    "HUL Code": "HUL-217093D-P0188",
-    "HUL Outlet Name": "SREE KRISHNA TRADERS - JR-D-D-D-D",
-    "TGT": 41255,
-    "ACH": 0,
-    "BTD": 41255,
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "Beat": "D-NAGERBAZAR (W/S)",
-    "Day": "WED"
-  },
-  {
-    "HUL Code": "HUL-219176D-P25797",
-    "HUL Outlet Name": "BASUKI BHANDAR-D",
-    "TGT": 45278,
-    "ACH": 21212,
-    "BTD": 24066,
-    "ME Name": "Avijit Paul",
-    "Beat": "D-COLLEGE STREET(SBJ)",
+    "Beat": "D-SHYAMBAZAR",
     "Day": "FRI"
-  },
-  {
-    "HUL Code": "HUL-217085D-PAR352",
-    "HUL Outlet Name": "ADI LAXMI BHANDER-D-D-D-D-D",
-    "TGT": 55459,
-    "ACH": -200,
-    "BTD": 55659,
-    "ME Name": "Sumit Patra",
-    "Beat": "D-KAILASH BOSE STREET",
-    "Day": "SAT"
-  },
-  {
-    "HUL Code": "HUL-217093D-P0197",
-    "HUL Outlet Name": "CHOWDHURY STORES - JR-D-D-D-D",
-    "TGT": 57223,
-    "ACH": 12749,
-    "BTD": 44474,
-    "ME Name": "MANOJ KUMAR GUPTA",
-    "Beat": "D-NAGERBAZAR (W/S)",
-    "Day": "WED"
   },
   {
     "HUL Code": "HUL-217086D-2857",
@@ -280,23 +240,63 @@
     "Day": "SAT"
   },
   {
-    "HUL Code": "HUL-20B317D-P43301",
-    "HUL Outlet Name": "Rasafa Mart",
-    "TGT": 62122,
-    "ACH": 14479,
-    "BTD": 47643,
-    "ME Name": "Avijit Paul",
-    "Beat": "D-KESHAB SEN STREET",
-    "Day": "THU"
+    "HUL Code": "HUL-217086D-1682",
+    "HUL Outlet Name": "SKB M/S BANIK STORES-D-D-D-D",
+    "TGT": 14174,
+    "ACH": 9734,
+    "BTD": 4440,
+    "ME Name": "MANOJ KUMAR GUPTA",
+    "Beat": "D-SK DEV ROAD-2",
+    "Day": "SAT"
   },
   {
-    "HUL Code": "WB70000461145",
-    "HUL Outlet Name": "BSM M/S MOTILAL AGARWAL-D-D-D-D",
-    "TGT": 111579,
-    "ACH": 21442,
-    "BTD": 90137,
+    "HUL Code": "HUL-217086D-1603",
+    "HUL Outlet Name": "SKM M/S MEDI AID PLUS-D-D-D-D",
+    "TGT": 30812,
+    "ACH": 13413,
+    "BTD": 17399,
+    "ME Name": "MANOJ KUMAR GUPTA",
+    "Beat": "D-SK DEV ROAD-2",
+    "Day": "SAT"
+  },
+  {
+    "HUL Code": "WB70000461167",
+    "HUL Outlet Name": "SKM M/S MUNNA STORES-D-D-D-D",
+    "TGT": 30612,
+    "ACH": 17596,
+    "BTD": 13016,
+    "ME Name": "MANOJ KUMAR GUPTA",
+    "Beat": "D-SK DEV ROAD-2",
+    "Day": "SAT"
+  },
+  {
+    "HUL Code": "WB70000461169",
+    "HUL Outlet Name": "SKP M/S PRATIVA STORES(SV)-D-D-D-D",
+    "TGT": 31825,
+    "ACH": 34041,
+    "BTD": 0,
     "ME Name": "SAIKAT   Das",
-    "Beat": "D-BIDHANSARANI-1",
-    "Day": "THU"
+    "Beat": "D-SK DEV ROAD-1",
+    "Day": "TUE"
+  },
+  {
+    "HUL Code": "HUL-217093D-P0653",
+    "HUL Outlet Name": "SREE BHANDER - AMP-D-D-D-D",
+    "TGT": 20132,
+    "ACH": 10901,
+    "BTD": 9231,
+    "ME Name": "Avijit Paul",
+    "Beat": "D-KAZIPARA",
+    "Day": "WED"
+  },
+  {
+    "HUL Code": "HUL-217093D-P0188",
+    "HUL Outlet Name": "SREE KRISHNA TRADERS - JR-D-D-D-D",
+    "TGT": 41255,
+    "ACH": 0,
+    "BTD": 41255,
+    "ME Name": "MANOJ KUMAR GUPTA",
+    "Beat": "D-NAGERBAZAR (W/S)",
+    "Day": "WED"
   }
 ]
