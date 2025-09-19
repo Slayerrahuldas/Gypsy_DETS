@@ -47,7 +47,7 @@
   {
     "HUL Code": "HUL-219176D-P34828",
     "HUL Outlet Name": "GLAMOUR-D-P",
-    "ECO": 7195,
+    "ECO": 4236,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-BIDHANSARANI-2+NUTS",
@@ -101,7 +101,7 @@
   {
     "HUL Code": "HUL-219176D-P39906",
     "HUL Outlet Name": "MARUTI NANDAN STORES-D",
-    "ECO": 3848,
+    "ECO": 4060,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -110,7 +110,7 @@
   {
     "HUL Code": "HUL-219176D-P40451",
     "HUL Outlet Name": "ANIL KUMAR GUPTA-D-U2NC",
-    "ECO": 1362,
+    "ECO": 2020,
     "BTD": 0,
     "ME Name": "Tapan Chanda",
     "Beat": "N-HATIBAGAN",
@@ -218,7 +218,7 @@
   {
     "HUL Code": "HUL-219176D-P43608",
     "HUL Outlet Name": "Ramjanam Stores-D",
-    "ECO": 3216,
+    "ECO": 3503,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2",
@@ -245,7 +245,7 @@
   {
     "HUL Code": "HUL-219176D-P44922",
     "HUL Outlet Name": "Arun Stores-D",
-    "ECO": 1351,
+    "ECO": 1829,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
@@ -290,7 +290,7 @@
   {
     "HUL Code": "HUL-219176D-P46692",
     "HUL Outlet Name": "BHAGAWATI ENTERPRISE",
-    "ECO": 3478,
+    "ECO": 6941,
     "BTD": 0,
     "ME Name": "PRIYANKA GHOSH",
     "Beat": "N-MANICKTALA",
@@ -362,8 +362,8 @@
   {
     "HUL Code": "HUL-219176D-P47205",
     "HUL Outlet Name": "MATA ENTERPRISES-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 401,
+    "BTD": 599,
     "ME Name": "Subrata Dey",
     "Beat": "P-SATGACHI",
     "Day": "THU"
@@ -407,8 +407,8 @@
   {
     "HUL Code": "HUL-219176D-P47410",
     "HUL Outlet Name": "Makhan Shaw-D",
-    "ECO": 501,
-    "BTD": 499,
+    "ECO": 1031,
+    "BTD": 0,
     "ME Name": "TAPAS MUHURI",
     "Beat": "U2NC-SK DEB ROAD-2",
     "Day": "THU"
@@ -434,7 +434,7 @@
   {
     "HUL Code": "HUL-219176D-P54273",
     "HUL Outlet Name": "Annapurna Fashion House-D",
-    "ECO": 37615,
+    "ECO": 42941,
     "BTD": 0,
     "ME Name": "Subrata Dey",
     "Beat": "P-SATGACHI",
@@ -443,7 +443,7 @@
   {
     "HUL Code": "HUL-217115D-6586",
     "HUL Outlet Name": "MAA KALI COLLECTION",
-    "ECO": 1100,
+    "ECO": 1316,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -452,7 +452,7 @@
   {
     "HUL Code": "HUL-217115D-7280",
     "HUL Outlet Name": "J M DUTTA-D-D-D",
-    "ECO": 1170,
+    "ECO": 1610,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -551,7 +551,7 @@
   {
     "HUL Code": "HUL-217115D-P12002",
     "HUL Outlet Name": "NABIN STORES -MANIKTALA-D-D-D",
-    "ECO": 1704,
+    "ECO": 13799,
     "BTD": 0,
     "ME Name": "PRASANTA DAS",
     "Beat": "F-MANICKTALA",
@@ -659,7 +659,7 @@
   {
     "HUL Code": "HUL-217085D-P1001",
     "HUL Outlet Name": "SAHA STORES-D-D-D-D-D",
-    "ECO": 9528,
+    "ECO": 14794,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -758,8 +758,8 @@
   {
     "HUL Code": "HUL-217115D-P17488",
     "HUL Outlet Name": "SUBHASHINI - B.HATI BZR-D-D-D",
-    "ECO": 566,
-    "BTD": 434,
+    "ECO": 1705,
+    "BTD": 0,
     "ME Name": "TAPAS MUHURI",
     "Beat": "U2NC-BAGUIATI ROAD",
     "Day": "WED"
@@ -848,7 +848,7 @@
   {
     "HUL Code": "HUL-20B317D-P42820",
     "HUL Outlet Name": "Janani Varieties Shop-U2NC",
-    "ECO": 10102,
+    "ECO": 12733,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-SATGACHI",
@@ -875,8 +875,8 @@
   {
     "HUL Code": "HUL-20B317D-P43450",
     "HUL Outlet Name": "Apnar Sansar-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1530,
+    "BTD": 0,
     "ME Name": "Subrata Dey",
     "Beat": "P-SATGACHI",
     "Day": "THU"
@@ -1001,7 +1001,7 @@
   {
     "HUL Code": "HUL-217086D-1596",
     "HUL Outlet Name": "SKA M/S AISWARYA-D-D-D-D",
-    "ECO": 13026,
+    "ECO": 14848,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -1010,7 +1010,7 @@
   {
     "HUL Code": "HUL-217086D-1606",
     "HUL Outlet Name": "SKC M/S CHEEP VTY STORES-D-D-D-D",
-    "ECO": 16115,
+    "ECO": 19991,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -1019,7 +1019,7 @@
   {
     "HUL Code": "HUL-217086D-1671",
     "HUL Outlet Name": "BSS M/S SANKARI STORES-D-D-D-D",
-    "ECO": 19645,
+    "ECO": 21293,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -1037,7 +1037,7 @@
   {
     "HUL Code": "HUL-217086D-1673",
     "HUL Outlet Name": "BSG GOURI BHANDER-D-D-D-D",
-    "ECO": 36029,
+    "ECO": 34572,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-BIDHANSARANI-2",
@@ -1055,7 +1055,7 @@
   {
     "HUL Code": "HUL-217086D-1705",
     "HUL Outlet Name": "MPK M/S KHOKON STORES-D-D-D-D",
-    "ECO": 1715,
+    "ECO": 2142,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -1082,7 +1082,7 @@
   {
     "HUL Code": "HUL-217086D-2071",
     "HUL Outlet Name": "BSN M/S NEW NATIONAL (V) STORES-D-D-D-D",
-    "ECO": 63506,
+    "ECO": 65906,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-BIDHANSARANI-2+NUTS",
@@ -1109,7 +1109,7 @@
   {
     "HUL Code": "HUL-217086D-2614",
     "HUL Outlet Name": "HBV M/S VALENTINE-D-D",
-    "ECO": 1499,
+    "ECO": 61936,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-HATIBAGAN",
@@ -1145,7 +1145,7 @@
   {
     "HUL Code": "HUL-217086D-36",
     "HUL Outlet Name": "BSA M/S ANNAPURNA VARIETIES(A)-D-D-D-D",
-    "ECO": 22273,
+    "ECO": 21839,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-BIDHANSARANI-2+NUTS",
@@ -1703,7 +1703,7 @@
   {
     "HUL Code": "HUL-219176D-P33977",
     "HUL Outlet Name": "MAA DURGA TEA HOUSE-D",
-    "ECO": 7546,
+    "ECO": 9771,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -1784,7 +1784,7 @@
   {
     "HUL Code": "HUL-219176D-P36222",
     "HUL Outlet Name": "CHANDA & SONS-D",
-    "ECO": 17809,
+    "ECO": 30347,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -1793,7 +1793,7 @@
   {
     "HUL Code": "HUL-219176D-P37727",
     "HUL Outlet Name": "NEW OM TRADERS-D-F",
-    "ECO": 4428,
+    "ECO": 8787,
     "BTD": 0,
     "ME Name": "Indrajit Sarkar",
     "Beat": "D-SATGACHI-2",
@@ -1802,7 +1802,7 @@
   {
     "HUL Code": "HUL-219176D-P39783",
     "HUL Outlet Name": "BAJARANG STORES-D",
-    "ECO": 7481,
+    "ECO": 8682,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -1874,7 +1874,7 @@
   {
     "HUL Code": "HUL-219176D-P44897",
     "HUL Outlet Name": "SADHANA  GUPTA-D",
-    "ECO": 44572,
+    "ECO": 47164,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
@@ -1928,7 +1928,7 @@
   {
     "HUL Code": "HUL-219176D-P47100",
     "HUL Outlet Name": "Radha Rani Bhander-D-F",
-    "ECO": 4194,
+    "ECO": 4415,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-HATIBAGAN",
@@ -1946,7 +1946,7 @@
   {
     "HUL Code": "HUL-219176D-P47650",
     "HUL Outlet Name": "SHREE GANESH STORES-D",
-    "ECO": 17407,
+    "ECO": 17621,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -1964,7 +1964,7 @@
   {
     "HUL Code": "HUL-217115D-6518",
     "HUL Outlet Name": "S S GHOSH-D-D-D",
-    "ECO": 7241,
+    "ECO": 14721,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-HATIBAGAN",
@@ -1991,7 +1991,7 @@
   {
     "HUL Code": "HUL-217115D-7274",
     "HUL Outlet Name": "CHANDRANATH-D-D-D",
-    "ECO": 13748,
+    "ECO": 26317,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -2000,7 +2000,7 @@
   {
     "HUL Code": "HUL-217115D-7277",
     "HUL Outlet Name": "G C KUNDU-D-D-D",
-    "ECO": 3666,
+    "ECO": 3917,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -2009,7 +2009,7 @@
   {
     "HUL Code": "HUL-217115D-7489",
     "HUL Outlet Name": "MTN M/S NEW TRINATH BHANDER-D-D-D",
-    "ECO": 8249,
+    "ECO": 8822,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
@@ -2036,7 +2036,7 @@
   {
     "HUL Code": "HUL-216252F-C869",
     "HUL Outlet Name": "RABI ROY(HATIBAGAN)-F-D-D-D",
-    "ECO": 15629,
+    "ECO": 18003,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-HATIBAGAN",
@@ -2063,7 +2063,7 @@
   {
     "HUL Code": "HUL-217115D-P13324",
     "HUL Outlet Name": "SATYANARAYAN BHANDER - MP-D-D-D",
-    "ECO": 15830,
+    "ECO": 18901,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -2108,7 +2108,7 @@
   {
     "HUL Code": "HUL-217093D-P0896",
     "HUL Outlet Name": "Jyoti Stores-D-D-D-D",
-    "ECO": 6391,
+    "ECO": 6337,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-BAGUIHATI RD",
@@ -2135,7 +2135,7 @@
   {
     "HUL Code": "HUL-217093F-P275",
     "HUL Outlet Name": "HINDUSTAN SUPPLY-F-D-D-D",
-    "ECO": 12721,
+    "ECO": 13769,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-SATGACHI",
@@ -2207,7 +2207,7 @@
   {
     "HUL Code": "HUL-217085D-P882",
     "HUL Outlet Name": "MULLICK BROTHERS-D-D-D-D-D",
-    "ECO": 39254,
+    "ECO": 50589,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
@@ -2252,7 +2252,7 @@
   {
     "HUL Code": "HUL-219176D-P26517",
     "HUL Outlet Name": "KISHORI LAL SHAW-D",
-    "ECO": 11631,
+    "ECO": 22589,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -2297,7 +2297,7 @@
   {
     "HUL Code": "HUL-219176D-P27126",
     "HUL Outlet Name": "KANAI STORES-D",
-    "ECO": 15515,
+    "ECO": 15354,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-DAKSHINDARI-2+NUTS",
@@ -2315,7 +2315,7 @@
   {
     "HUL Code": "HUL-219176D-P29347",
     "HUL Outlet Name": "ANAND STORES-D",
-    "ECO": 1770,
+    "ECO": 3327,
     "BTD": 0,
     "ME Name": "SAMAR ADHIKARI",
     "Beat": "K-GOLA GHATA+NUTS",
@@ -2342,7 +2342,7 @@
   {
     "HUL Code": "HUL-20B317D-P42519",
     "HUL Outlet Name": "RANA STORE-D",
-    "ECO": 23731,
+    "ECO": 25711,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -2360,7 +2360,7 @@
   {
     "HUL Code": "HUL-20B317D-P43748",
     "HUL Outlet Name": "SANKAR BHANDER-D",
-    "ECO": 21308,
+    "ECO": 26979,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-HATIBAGAN",
@@ -2414,7 +2414,7 @@
   {
     "HUL Code": "HUL-217086D-1252",
     "HUL Outlet Name": "MPS M/S SRI DURGA (V) STORES-2-D-D-D-D",
-    "ECO": 3774,
+    "ECO": 6764,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -2423,7 +2423,7 @@
   {
     "HUL Code": "HUL-217086D-1534",
     "HUL Outlet Name": "SKA M/S ANUPAM VARIETY-D-D-D-D",
-    "ECO": 30102,
+    "ECO": 31201,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -2432,7 +2432,7 @@
   {
     "HUL Code": "HUL-217086D-1582",
     "HUL Outlet Name": "Sanjay Stores-D-D-D-D",
-    "ECO": 17822,
+    "ECO": 17768,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SK DEV ROAD-1",
@@ -2486,7 +2486,7 @@
   {
     "HUL Code": "HUL-217086D-2137",
     "HUL Outlet Name": "MPA M/S ALOCK DUTTA-D-D-D-D",
-    "ECO": 11395,
+    "ECO": 15517,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -2495,7 +2495,7 @@
   {
     "HUL Code": "HUL-217086D-2142",
     "HUL Outlet Name": "MPJ M/S JANATA STORES-D-D-D-D",
-    "ECO": 13362,
+    "ECO": 16995,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -2531,7 +2531,7 @@
   {
     "HUL Code": "HUL-217086D-701",
     "HUL Outlet Name": "HBS M/S SHAW FOOD STORES-D-D-D-D",
-    "ECO": 17335,
+    "ECO": 18375,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-HATIBAGAN",
@@ -2585,7 +2585,7 @@
   {
     "HUL Code": "HUL-217085D-P1044",
     "HUL Outlet Name": "MAHAPRABHU BHANDAR",
-    "ECO": 22958,
+    "ECO": 22645,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-BECHU CHATTERJEE STREET",
@@ -2621,7 +2621,7 @@
   {
     "HUL Code": "HUL-217085D-P1135",
     "HUL Outlet Name": "PARESH NATH PAUL-D-D-D-D-D-P",
-    "ECO": 12512,
+    "ECO": 17760,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -2657,7 +2657,7 @@
   {
     "HUL Code": "HUL-217115F-7426",
     "HUL Outlet Name": "NEW MUKHA MISTI BHANDER-F-D-D",
-    "ECO": 6351,
+    "ECO": 7375,
     "BTD": 0,
     "ME Name": "Vivek Prasad",
     "Beat": "F-VIVEKANANDA ROAD",
@@ -2666,7 +2666,7 @@
   {
     "HUL Code": "HUL-216252F-1385",
     "HUL Outlet Name": "A.K.GHOSH(HATIBAGAN)-F-D-D-D",
-    "ECO": 11225,
+    "ECO": 13100,
     "BTD": 0,
     "ME Name": "GITA HATI",
     "Beat": "F-HATIBAGAN",
@@ -2684,8 +2684,8 @@
   {
     "HUL Code": "HUL-20B317P44489",
     "HUL Outlet Name": "Suruchi Stores",
-    "ECO": 987,
-    "BTD": 13,
+    "ECO": 1426,
+    "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
     "Day": "THU"
@@ -2729,7 +2729,7 @@
   {
     "HUL Code": "HUL-20B317P44529",
     "HUL Outlet Name": "Swapna Store",
-    "ECO": 1663,
+    "ECO": 2944,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -2738,7 +2738,7 @@
   {
     "HUL Code": "HUL-20B317P44531",
     "HUL Outlet Name": "Guha And Sons",
-    "ECO": 7454,
+    "ECO": 9737,
     "BTD": 0,
     "ME Name": "Sumanta Chatterjee",
     "Beat": "F-KESHAB SEN STREET+NUTS",
@@ -2747,7 +2747,7 @@
   {
     "HUL Code": "HUL-20B317P44537",
     "HUL Outlet Name": "MAHAlAXMI  VARIETY STORES",
-    "ECO": 1072,
+    "ECO": 1310,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2+NUTS",
@@ -2756,7 +2756,7 @@
   {
     "HUL Code": "HUL-20B317P44539",
     "HUL Outlet Name": "NEW GANDESWARI BHANDER",
-    "ECO": 2216,
+    "ECO": 3082,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2+NUTS",
@@ -2918,7 +2918,7 @@
   {
     "HUL Code": "HUL-217575P526",
     "HUL Outlet Name": "FAIR PRICES SHOP-D",
-    "ECO": 8113,
+    "ECO": 7886,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SK DEV ROAD-1",
@@ -3269,7 +3269,7 @@
   {
     "HUL Code": "HUL-219176D-P33814",
     "HUL Outlet Name": "LOKENATH STORES-D",
-    "ECO": 1537,
+    "ECO": 2098,
     "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
@@ -3377,7 +3377,7 @@
   {
     "HUL Code": "HUL-219176D-P34097",
     "HUL Outlet Name": "CHANDRA BROTHERS-D",
-    "ECO": 5970,
+    "ECO": 8013,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -3404,7 +3404,7 @@
   {
     "HUL Code": "HUL-219176D-P34168",
     "HUL Outlet Name": "RANJIT SADHUKHAN-D",
-    "ECO": 2968,
+    "ECO": 4177,
     "BTD": 0,
     "ME Name": "Pritam Das",
     "Beat": "K-AMHAR ST+NUTS",
@@ -3476,8 +3476,8 @@
   {
     "HUL Code": "HUL-219176D-P34360",
     "HUL Outlet Name": "SURAJ FOOD STORES-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1053,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -3548,7 +3548,7 @@
   {
     "HUL Code": "HUL-219176D-P34630",
     "HUL Outlet Name": "TELE LINK-D",
-    "ECO": 1237,
+    "ECO": 1202,
     "BTD": 0,
     "ME Name": "Indrajit Sarkar",
     "Beat": "K-BAGUIATI+NUTS",
@@ -3593,7 +3593,7 @@
   {
     "HUL Code": "HUL-219176D-P34853",
     "HUL Outlet Name": "SUDHIR KUMAR-D",
-    "ECO": 3895,
+    "ECO": 4156,
     "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
@@ -3602,7 +3602,7 @@
   {
     "HUL Code": "HUL-219176D-P34949",
     "HUL Outlet Name": "RATION SHOP-D",
-    "ECO": 4743,
+    "ECO": 7836,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANANDA ROAD 3",
@@ -3611,8 +3611,8 @@
   {
     "HUL Code": "HUL-219176D-P34955",
     "HUL Outlet Name": "PRITAM SHAW-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1053,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -3674,7 +3674,7 @@
   {
     "HUL Code": "HUL-219176D-P35267",
     "HUL Outlet Name": "SHREE JAN STORES-D",
-    "ECO": 6888,
+    "ECO": 7188,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -3719,7 +3719,7 @@
   {
     "HUL Code": "HUL-219176D-P35382",
     "HUL Outlet Name": "HALDER &SONS-D",
-    "ECO": 3045,
+    "ECO": 3399,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2",
@@ -3854,7 +3854,7 @@
   {
     "HUL Code": "HUL-219176D-P35602",
     "HUL Outlet Name": "B.T.ENTERPRISE-D",
-    "ECO": 5108,
+    "ECO": 6614,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-BIDHANSARANI-3",
@@ -3989,8 +3989,8 @@
   {
     "HUL Code": "HUL-219176D-P36097",
     "HUL Outlet Name": "SHIVA-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1530,
+    "BTD": 0,
     "ME Name": "Subrata Dey",
     "Beat": "P-SATGACHI",
     "Day": "THU"
@@ -4106,7 +4106,7 @@
   {
     "HUL Code": "HUL-219176D-P36502",
     "HUL Outlet Name": "RATION SHOP(1876)-D",
-    "ECO": 4136,
+    "ECO": 3545,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SK DEV ROAD-1",
@@ -4223,7 +4223,7 @@
   {
     "HUL Code": "HUL-219176D-P36837",
     "HUL Outlet Name": "PINTU STORES-D",
-    "ECO": 6041,
+    "ECO": 8258,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -4259,8 +4259,8 @@
   {
     "HUL Code": "HUL-219176D-P37182",
     "HUL Outlet Name": "A K SADHUKHAN-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1053,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -4313,8 +4313,8 @@
   {
     "HUL Code": "HUL-219176D-P37442",
     "HUL Outlet Name": "BIMAL STD-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1053,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -4322,8 +4322,8 @@
   {
     "HUL Code": "HUL-219176D-P37447",
     "HUL Outlet Name": "DILIP SHOW-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1053,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -4367,7 +4367,7 @@
   {
     "HUL Code": "HUL-219176D-P37582",
     "HUL Outlet Name": "ABHIDHAN-D",
-    "ECO": 1045,
+    "ECO": 1827,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2+NUTS",
@@ -4502,7 +4502,7 @@
   {
     "HUL Code": "HUL-219176D-P38307",
     "HUL Outlet Name": "FAIR PRICE-D",
-    "ECO": 20338,
+    "ECO": 27805,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -4610,8 +4610,8 @@
   {
     "HUL Code": "HUL-219176D-P38722",
     "HUL Outlet Name": "PARBATI STORES-D",
-    "ECO": 777,
-    "BTD": 223,
+    "ECO": 1092,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -4673,8 +4673,8 @@
   {
     "HUL Code": "HUL-219176D-P39432",
     "HUL Outlet Name": "FAIR PRICE SHOP-D",
-    "ECO": 685,
-    "BTD": 315,
+    "ECO": 1068,
+    "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
     "Day": "THU"
@@ -4682,7 +4682,7 @@
   {
     "HUL Code": "HUL-219176D-P39437",
     "HUL Outlet Name": "GUPTA STORES-D",
-    "ECO": 1755,
+    "ECO": 2330,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -4691,7 +4691,7 @@
   {
     "HUL Code": "HUL-219176D-P39442",
     "HUL Outlet Name": "RAJENDRA SHAW-D",
-    "ECO": 1563,
+    "ECO": 1778,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -4718,7 +4718,7 @@
   {
     "HUL Code": "HUL-219176D-P39462",
     "HUL Outlet Name": "RADHARANI STORES-D",
-    "ECO": 2809,
+    "ECO": 4084,
     "BTD": 0,
     "ME Name": "SAMAR ADHIKARI",
     "Beat": "K-GOLA GHATA+NUTS",
@@ -4736,7 +4736,7 @@
   {
     "HUL Code": "HUL-219176D-P39497",
     "HUL Outlet Name": "PINTU GUPTA-D",
-    "ECO": 1050,
+    "ECO": 1270,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2+NUTS",
@@ -4799,8 +4799,8 @@
   {
     "HUL Code": "HUL-219176D-P39736",
     "HUL Outlet Name": "S.N.STORES-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1053,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -4844,7 +4844,7 @@
   {
     "HUL Code": "HUL-219176D-P39851",
     "HUL Outlet Name": "APAN STORES-D",
-    "ECO": 1833,
+    "ECO": 2074,
     "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
@@ -4853,8 +4853,8 @@
   {
     "HUL Code": "HUL-219176D-P39856",
     "HUL Outlet Name": "NETAI SAHA-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1053,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -4862,7 +4862,7 @@
   {
     "HUL Code": "HUL-219176D-P39876",
     "HUL Outlet Name": "FAIR PRICE SHOP-D",
-    "ECO": 1621,
+    "ECO": 2762,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -5087,7 +5087,7 @@
   {
     "HUL Code": "HUL-219176D-P40903",
     "HUL Outlet Name": "PRAVASH GHOSH-D",
-    "ECO": 4810,
+    "ECO": 7374,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -5132,8 +5132,8 @@
   {
     "HUL Code": "HUL-219176D-P41044",
     "HUL Outlet Name": "Shakuntala Stores-D",
-    "ECO": 993,
-    "BTD": 7,
+    "ECO": 1369,
+    "BTD": 0,
     "ME Name": "Pritam Das",
     "Beat": "K-AMHAR ST+NUTS",
     "Day": "THU"
@@ -5150,7 +5150,7 @@
   {
     "HUL Code": "HUL-219176D-P41099",
     "HUL Outlet Name": "Show Telecom-D",
-    "ECO": 1549,
+    "ECO": 2051,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANANDA ROAD 3",
@@ -5168,8 +5168,8 @@
   {
     "HUL Code": "HUL-217115D-P23304",
     "HUL Outlet Name": "JAGANNATH ST.-D-D",
-    "ECO": 792,
-    "BTD": 208,
+    "ECO": 1508,
+    "BTD": 0,
     "ME Name": "Pritam Das",
     "Beat": "K-AMHAR ST+NUTS",
     "Day": "THU"
@@ -5204,8 +5204,8 @@
   {
     "HUL Code": "HUL-219176D-P41244",
     "HUL Outlet Name": "Gita Varities Stores-D",
-    "ECO": 219,
-    "BTD": 781,
+    "ECO": 1061,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -5240,7 +5240,7 @@
   {
     "HUL Code": "HUL-219176D-P41379",
     "HUL Outlet Name": "ABO HAMZA STORE-D",
-    "ECO": 26716,
+    "ECO": 27109,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-TERETTI (W/S)",
@@ -5249,8 +5249,8 @@
   {
     "HUL Code": "HUL-217115D-P23329",
     "HUL Outlet Name": "RAJU ST.-D-D",
-    "ECO": 497,
-    "BTD": 503,
+    "ECO": 1443,
+    "BTD": 0,
     "ME Name": "Pritam Das",
     "Beat": "K-AMHAR ST+NUTS",
     "Day": "THU"
@@ -5294,7 +5294,7 @@
   {
     "HUL Code": "HUL-219176D-P41519",
     "HUL Outlet Name": "RAHUL VARIETY-D",
-    "ECO": 7269,
+    "ECO": 7927,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -5348,7 +5348,7 @@
   {
     "HUL Code": "HUL-219176D-P41744",
     "HUL Outlet Name": "Rupali  Tea  Centre-D",
-    "ECO": 3288,
+    "ECO": 4979,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -5366,7 +5366,7 @@
   {
     "HUL Code": "HUL-219176D-P41784",
     "HUL Outlet Name": "Nilima Vty Stores-D",
-    "ECO": 1997,
+    "ECO": 2471,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
@@ -5375,7 +5375,7 @@
   {
     "HUL Code": "HUL-219176D-P41804",
     "HUL Outlet Name": "Bhola Prasad Shaw-D",
-    "ECO": 1682,
+    "ECO": 1981,
     "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
@@ -5384,7 +5384,7 @@
   {
     "HUL Code": "HUL-219176D-P41834",
     "HUL Outlet Name": "Sree Sairam Stores-D",
-    "ECO": 3333,
+    "ECO": 5470,
     "BTD": 0,
     "ME Name": "Indrajit Sarkar",
     "Beat": "D-SATGACHI-2",
@@ -5447,7 +5447,7 @@
   {
     "HUL Code": "HUL-219176D-P41959",
     "HUL Outlet Name": "NANDI TRADERS",
-    "ECO": 1900,
+    "ECO": 2645,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -5456,7 +5456,7 @@
   {
     "HUL Code": "HUL-219176D-P42044",
     "HUL Outlet Name": "Masala Junction-D",
-    "ECO": 1407,
+    "ECO": 1621,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -5492,8 +5492,8 @@
   {
     "HUL Code": "HUL-219176D-P42211",
     "HUL Outlet Name": "Laxmi Bhander-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 882,
+    "BTD": 118,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
     "Day": "THU"
@@ -5564,7 +5564,7 @@
   {
     "HUL Code": "HUL-219176D-P42526",
     "HUL Outlet Name": "Santwana Stores-D",
-    "ECO": 2997,
+    "ECO": 4631,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -5582,8 +5582,8 @@
   {
     "HUL Code": "HUL-219176D-P42686",
     "HUL Outlet Name": "Annapurna Bhandar-D",
-    "ECO": 833,
-    "BTD": 167,
+    "ECO": 1173,
+    "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
     "Day": "THU"
@@ -5627,7 +5627,7 @@
   {
     "HUL Code": "HUL-219176D-P42861",
     "HUL Outlet Name": "Rajendar Prashad Shaw-D",
-    "ECO": 7992,
+    "ECO": 8204,
     "BTD": 0,
     "ME Name": "PRASANTA DAS",
     "Beat": "N-SK DEV ROAD-2",
@@ -5681,7 +5681,7 @@
   {
     "HUL Code": "HUL-219176D-P42965",
     "HUL Outlet Name": "Munna Stores-D",
-    "ECO": 1387,
+    "ECO": 1322,
     "BTD": 0,
     "ME Name": "SAMAR ADHIKARI",
     "Beat": "K-MURARIPUKUR+NUTS",
@@ -5753,8 +5753,8 @@
   {
     "HUL Code": "HUL-219176D-P43160",
     "HUL Outlet Name": "Pradip Stores-D",
-    "ECO": 700,
-    "BTD": 300,
+    "ECO": 1000,
+    "BTD": 0,
     "ME Name": "Abhishek Tiwary",
     "Beat": "F-VIVEKANDA ROAD-2",
     "Day": "THU"
@@ -5762,7 +5762,7 @@
   {
     "HUL Code": "HUL-219176D-P43185",
     "HUL Outlet Name": "Umesh Shah-D",
-    "ECO": 1337,
+    "ECO": 2166,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -5834,7 +5834,7 @@
   {
     "HUL Code": "HUL-219176D-P43397",
     "HUL Outlet Name": "Jai Matadi-D",
-    "ECO": 10098,
+    "ECO": 20777,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -5897,7 +5897,7 @@
   {
     "HUL Code": "HUL-219176D-P43572",
     "HUL Outlet Name": "Ration Shop P S Karkun-D",
-    "ECO": 6303,
+    "ECO": 4977,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SK DEV ROAD-1",
@@ -5915,7 +5915,7 @@
   {
     "HUL Code": "HUL-219176D-P43618",
     "HUL Outlet Name": "ganahari shaw-D",
-    "ECO": 1255,
+    "ECO": 2402,
     "BTD": 0,
     "ME Name": "GITA HATI",
     "Beat": "F-MURARIPUKUR+NUTS",
@@ -5924,8 +5924,8 @@
   {
     "HUL Code": "HUL-219176D-P43623",
     "HUL Outlet Name": "Maallaxmibh-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 2467,
+    "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
     "Day": "THU"
@@ -5951,7 +5951,7 @@
   {
     "HUL Code": "HUL-217115D-P23604",
     "HUL Outlet Name": "BERA STORES-D-D",
-    "ECO": 1913,
+    "ECO": 3819,
     "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
@@ -5969,7 +5969,7 @@
   {
     "HUL Code": "HUL-219176D-P43749",
     "HUL Outlet Name": "Annapurna Store-D",
-    "ECO": 1848,
+    "ECO": 2204,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -6203,7 +6203,7 @@
   {
     "HUL Code": "HUL-219176D-P44071",
     "HUL Outlet Name": "Shyam Traders-D",
-    "ECO": 1184,
+    "ECO": 1392,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2+NUTS",
@@ -6230,8 +6230,8 @@
   {
     "HUL Code": "HUL-219176D-P44122",
     "HUL Outlet Name": "Dhiraj Kumar-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1053,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -6347,8 +6347,8 @@
   {
     "HUL Code": "HUL-219176D-P44247",
     "HUL Outlet Name": "Purnima Variety Stores-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1053,
+    "BTD": 0,
     "ME Name": "Pritam Das",
     "Beat": "K-AMHAR ST+NUTS",
     "Day": "THU"
@@ -6410,8 +6410,8 @@
   {
     "HUL Code": "HUL-219176D-P44297",
     "HUL Outlet Name": "Jaiswal Store-D",
-    "ECO": 284,
-    "BTD": 716,
+    "ECO": 1294,
+    "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
     "Day": "THU"
@@ -6563,7 +6563,7 @@
   {
     "HUL Code": "HUL-219176D-P44422",
     "HUL Outlet Name": "M. D Zahir-D",
-    "ECO": 1543,
+    "ECO": 1751,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2+NUTS",
@@ -6617,7 +6617,7 @@
   {
     "HUL Code": "HUL-219176D-P44472",
     "HUL Outlet Name": "Sayan Enterprice-D",
-    "ECO": 1077,
+    "ECO": 1042,
     "BTD": 0,
     "ME Name": "Indrajit Sarkar",
     "Beat": "K-BAGUIATI+NUTS",
@@ -6644,7 +6644,7 @@
   {
     "HUL Code": "HUL-219176D-P44492",
     "HUL Outlet Name": "Maa Bhander-D",
-    "ECO": 4731,
+    "ECO": 5299,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
@@ -6662,7 +6662,7 @@
   {
     "HUL Code": "HUL-219176D-P44502",
     "HUL Outlet Name": "Maa Monosha Bhandar-D",
-    "ECO": 7235,
+    "ECO": 14897,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -6671,7 +6671,7 @@
   {
     "HUL Code": "HUL-219176D-P44507",
     "HUL Outlet Name": "MADHU SAHA-D",
-    "ECO": 1298,
+    "ECO": 1544,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -6689,8 +6689,8 @@
   {
     "HUL Code": "HUL-219176D-P44512",
     "HUL Outlet Name": "MAA ANNAPURNA BHANDAR-D",
-    "ECO": 282,
-    "BTD": 718,
+    "ECO": 990,
+    "BTD": 10,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
     "Day": "THU"
@@ -6698,7 +6698,7 @@
   {
     "HUL Code": "HUL-219176D-P44517",
     "HUL Outlet Name": "Bapi St-D",
-    "ECO": 5488,
+    "ECO": 8231,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -6788,7 +6788,7 @@
   {
     "HUL Code": "HUL-219176D-P44597",
     "HUL Outlet Name": "New Bapi Stores-D",
-    "ECO": 1565,
+    "ECO": 1905,
     "BTD": 0,
     "ME Name": "Indrajit Sarkar",
     "Beat": "D-SATGACHI-2",
@@ -6833,7 +6833,7 @@
   {
     "HUL Code": "HUL-219176D-P44627",
     "HUL Outlet Name": "Sankar BHANDER-D",
-    "ECO": 2926,
+    "ECO": 3366,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -7004,8 +7004,8 @@
   {
     "HUL Code": "HUL-217115D-P23779",
     "HUL Outlet Name": "B.P. SHAW STORES-D-D",
-    "ECO": 713,
-    "BTD": 287,
+    "ECO": 1032,
+    "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
     "Day": "THU"
@@ -7031,7 +7031,7 @@
   {
     "HUL Code": "HUL-219176D-P44767",
     "HUL Outlet Name": "New Janapriya Bhandar-D",
-    "ECO": 1063,
+    "ECO": 1315,
     "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
@@ -7049,8 +7049,8 @@
   {
     "HUL Code": "HUL-219176D-P44772",
     "HUL Outlet Name": "Show Stores-D",
-    "ECO": 750,
-    "BTD": 250,
+    "ECO": 1203,
+    "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
     "Day": "THU"
@@ -7130,7 +7130,7 @@
   {
     "HUL Code": "HUL-219176D-P44832",
     "HUL Outlet Name": "Laxmi Narayan Bhandar-D",
-    "ECO": 2376,
+    "ECO": 1896,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-CHALKBAZAR+NUTS",
@@ -7193,7 +7193,7 @@
   {
     "HUL Code": "HUL-219176D-P44902",
     "HUL Outlet Name": "Guddu Stores-D",
-    "ECO": 2533,
+    "ECO": 2754,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2",
@@ -7211,8 +7211,8 @@
   {
     "HUL Code": "HUL-219176D-P44912",
     "HUL Outlet Name": "TILOTTAMA-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1530,
+    "BTD": 0,
     "ME Name": "Subrata Dey",
     "Beat": "P-SATGACHI",
     "Day": "THU"
@@ -7220,7 +7220,7 @@
   {
     "HUL Code": "HUL-219176D-P44917",
     "HUL Outlet Name": "Monoj Sing-D",
-    "ECO": 2991,
+    "ECO": 3419,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
@@ -7229,7 +7229,7 @@
   {
     "HUL Code": "HUL-219176D-P44927",
     "HUL Outlet Name": "Supravhat Milk Center-D",
-    "ECO": 1642,
+    "ECO": 1998,
     "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
@@ -7238,8 +7238,8 @@
   {
     "HUL Code": "HUL-219176D-P44937",
     "HUL Outlet Name": "Show Bhandar-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1053,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -7256,7 +7256,7 @@
   {
     "HUL Code": "HUL-219176D-P44957",
     "HUL Outlet Name": "Mother  Dairy  615-D",
-    "ECO": 1704,
+    "ECO": 2697,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -7265,7 +7265,7 @@
   {
     "HUL Code": "HUL-219176D-P44962",
     "HUL Outlet Name": "Arjun Saw-D",
-    "ECO": 2847,
+    "ECO": 3067,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-TERETTI (W/S)",
@@ -7337,7 +7337,7 @@
   {
     "HUL Code": "HUL-219176D-P45007",
     "HUL Outlet Name": "Pritam Vty.. St.-D",
-    "ECO": 8890,
+    "ECO": 11941,
     "BTD": 0,
     "ME Name": "SAMAR ADHIKARI",
     "Beat": "K-GOLA GHATA+NUTS",
@@ -7454,7 +7454,7 @@
   {
     "HUL Code": "HUL-219176D-P45102",
     "HUL Outlet Name": "Rabi Pan Bhandar-D",
-    "ECO": 1145,
+    "ECO": 1389,
     "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
@@ -7490,8 +7490,8 @@
   {
     "HUL Code": "HUL-219176D-P45127",
     "HUL Outlet Name": "S K MATHAN-D",
-    "ECO": 580,
-    "BTD": 420,
+    "ECO": 1233,
+    "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
     "Day": "THU"
@@ -7508,7 +7508,7 @@
   {
     "HUL Code": "HUL-219176D-P45137",
     "HUL Outlet Name": "Matri And Singha Bhander-D",
-    "ECO": 3065,
+    "ECO": 3379,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
@@ -7607,8 +7607,8 @@
   {
     "HUL Code": "HUL-219176D-P45233",
     "HUL Outlet Name": "Sankar & Sons-D",
-    "ECO": 219,
-    "BTD": 781,
+    "ECO": 1061,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -7661,8 +7661,8 @@
   {
     "HUL Code": "HUL-219176D-P45268",
     "HUL Outlet Name": "Shaw Stores-D",
-    "ECO": 706,
-    "BTD": 294,
+    "ECO": 1306,
+    "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
     "Day": "THU"
@@ -7688,7 +7688,7 @@
   {
     "HUL Code": "HUL-219176D-P45284",
     "HUL Outlet Name": "Bhattacherjee Varietes-D",
-    "ECO": 1557,
+    "ECO": 1503,
     "BTD": 0,
     "ME Name": "Indrajit Sarkar",
     "Beat": "K-BAGUIATI+NUTS",
@@ -7706,7 +7706,7 @@
   {
     "HUL Code": "HUL-219176D-P45344",
     "HUL Outlet Name": "Ma Manasha Bh.-D",
-    "ECO": 1406,
+    "ECO": 4635,
     "BTD": 0,
     "ME Name": "SAMAR ADHIKARI",
     "Beat": "K-GOLA GHATA+NUTS",
@@ -7715,7 +7715,7 @@
   {
     "HUL Code": "HUL-219176D-P45349",
     "HUL Outlet Name": "Mittunjoy Pal-D",
-    "ECO": 2191,
+    "ECO": 5301,
     "BTD": 0,
     "ME Name": "SAMAR ADHIKARI",
     "Beat": "K-GOLA GHATA+NUTS",
@@ -7787,8 +7787,8 @@
   {
     "HUL Code": "HUL-219176D-P45556",
     "HUL Outlet Name": "AVA STORES-D",
-    "ECO": 1015,
-    "BTD": 0,
+    "ECO": 689,
+    "BTD": 311,
     "ME Name": "Pritam Das",
     "Beat": "K-BAGUIHATI KHAL PAR+NUTS",
     "Day": "FRI"
@@ -8039,7 +8039,7 @@
   {
     "HUL Code": "HUL-219176D-P46014",
     "HUL Outlet Name": "Soumi Variety-D",
-    "ECO": 1110,
+    "ECO": 2041,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANANDA ROAD 3",
@@ -8066,7 +8066,7 @@
   {
     "HUL Code": "HUL-219176D-P46029",
     "HUL Outlet Name": "SREE GURU STORES-D",
-    "ECO": 2698,
+    "ECO": 4472,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANANDA ROAD 3",
@@ -8075,7 +8075,7 @@
   {
     "HUL Code": "HUL-219176D-P46034",
     "HUL Outlet Name": "ASHOK STORES-D",
-    "ECO": 5760,
+    "ECO": 8082,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
@@ -8309,7 +8309,7 @@
   {
     "HUL Code": "HUL-219176D-P46205",
     "HUL Outlet Name": "Bollywood-D",
-    "ECO": 1324,
+    "ECO": 1562,
     "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
@@ -8327,8 +8327,8 @@
   {
     "HUL Code": "HUL-219176D-P46225",
     "HUL Outlet Name": "Sarwan Show-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1053,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -8354,7 +8354,7 @@
   {
     "HUL Code": "HUL-219176D-P46286",
     "HUL Outlet Name": "Tara Vrity-D",
-    "ECO": 4875,
+    "ECO": 4772,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SK DEV ROAD-1",
@@ -8381,7 +8381,7 @@
   {
     "HUL Code": "HUL-219176D-P46307",
     "HUL Outlet Name": "FATSO S-D",
-    "ECO": 5696,
+    "ECO": 7660,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -8534,7 +8534,7 @@
   {
     "HUL Code": "HUL-219176D-P46727",
     "HUL Outlet Name": "Mother Dairy-D",
-    "ECO": 2492,
+    "ECO": 2755,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
@@ -8912,7 +8912,7 @@
   {
     "HUL Code": "HUL-219176D-P47055",
     "HUL Outlet Name": "Suresh Mondal-D",
-    "ECO": 1186,
+    "ECO": 1530,
     "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
@@ -9020,7 +9020,7 @@
   {
     "HUL Code": "HUL-219176D-P47135",
     "HUL Outlet Name": "D.Guha& Sons-D",
-    "ECO": 2202,
+    "ECO": 3435,
     "BTD": 0,
     "ME Name": "Sumanta Chatterjee",
     "Beat": "F-KESHAB SEN STREET+NUTS",
@@ -9029,7 +9029,7 @@
   {
     "HUL Code": "HUL-219176D-P47140",
     "HUL Outlet Name": "Arun krAgrawal-D",
-    "ECO": 1425,
+    "ECO": 1635,
     "BTD": 0,
     "ME Name": "Mita Das Mondal",
     "Beat": "F-BIDHANSARANI -1+NUTS",
@@ -9065,7 +9065,7 @@
   {
     "HUL Code": "HUL-219176D-P47160",
     "HUL Outlet Name": "Riya Stores-D",
-    "ECO": 1306,
+    "ECO": 1681,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -9074,7 +9074,7 @@
   {
     "HUL Code": "HUL-219176D-P47165",
     "HUL Outlet Name": "Dharambir Stores-D",
-    "ECO": 1748,
+    "ECO": 2095,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -9083,7 +9083,7 @@
   {
     "HUL Code": "HUL-219176D-P47170",
     "HUL Outlet Name": "Samir Samanta-D",
-    "ECO": 3048,
+    "ECO": 4169,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2+NUTS",
@@ -9092,8 +9092,8 @@
   {
     "HUL Code": "HUL-219176D-P47175",
     "HUL Outlet Name": "Dinesh Kejriwal-D",
-    "ECO": 525,
-    "BTD": 475,
+    "ECO": 1871,
+    "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2+NUTS",
     "Day": "THU"
@@ -9137,8 +9137,8 @@
   {
     "HUL Code": "HUL-219176D-P47200",
     "HUL Outlet Name": "Saha Stores-D",
-    "ECO": 586,
-    "BTD": 414,
+    "ECO": 1709,
+    "BTD": 0,
     "ME Name": "GITA HATI",
     "Beat": "F-MURARIPUKUR+NUTS",
     "Day": "THU"
@@ -9146,8 +9146,8 @@
   {
     "HUL Code": "HUL-219176D-P47215",
     "HUL Outlet Name": "FOODIE FERM-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1530,
+    "BTD": 0,
     "ME Name": "Subrata Dey",
     "Beat": "P-SATGACHI",
     "Day": "THU"
@@ -9155,7 +9155,7 @@
   {
     "HUL Code": "HUL-219176D-P47220",
     "HUL Outlet Name": "Sree Lakhi Store-D",
-    "ECO": 6244,
+    "ECO": 8640,
     "BTD": 0,
     "ME Name": "Pritam Das",
     "Beat": "K-AMHAR ST+NUTS",
@@ -9164,7 +9164,7 @@
   {
     "HUL Code": "HUL-219176D-P47230",
     "HUL Outlet Name": "K S ENTERPRISE-D",
-    "ECO": 1105,
+    "ECO": 3063,
     "BTD": 0,
     "ME Name": "Indrajit Sarkar",
     "Beat": "K-AMARPALLY+NUTS",
@@ -9182,7 +9182,7 @@
   {
     "HUL Code": "HUL-219176D-P47240",
     "HUL Outlet Name": "HEALTHY  U  P HARMATICALS-D",
-    "ECO": 1015,
+    "ECO": 3481,
     "BTD": 0,
     "ME Name": "Indrajit Sarkar",
     "Beat": "K-AMARPALLY+NUTS",
@@ -9281,7 +9281,7 @@
   {
     "HUL Code": "HUL-219176D-P47315",
     "HUL Outlet Name": "Roy Variety-D",
-    "ECO": 1144,
+    "ECO": 1362,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -9317,7 +9317,7 @@
   {
     "HUL Code": "HUL-219176D-P47345",
     "HUL Outlet Name": "Bijeta St.-D",
-    "ECO": 2311,
+    "ECO": 4612,
     "BTD": 0,
     "ME Name": "SAMAR ADHIKARI",
     "Beat": "K-GOLA GHATA+NUTS",
@@ -9560,7 +9560,7 @@
   {
     "HUL Code": "HUL-219176D-P47526",
     "HUL Outlet Name": "BIRENDRA SHAW-D",
-    "ECO": 2333,
+    "ECO": 2553,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -9578,7 +9578,7 @@
   {
     "HUL Code": "HUL-219176D-P47546",
     "HUL Outlet Name": "Guha & Sons-D",
-    "ECO": 2438,
+    "ECO": 2738,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2+NUTS",
@@ -9713,7 +9713,7 @@
   {
     "HUL Code": "HUL-219176D-P47685",
     "HUL Outlet Name": "Deshbandhu Store-D",
-    "ECO": 1207,
+    "ECO": 1429,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2+NUTS",
@@ -9731,7 +9731,7 @@
   {
     "HUL Code": "HUL-219176D-P47724",
     "HUL Outlet Name": "Joy Guru Bhandar-D",
-    "ECO": 2309,
+    "ECO": 2842,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2+NUTS",
@@ -9875,8 +9875,8 @@
   {
     "HUL Code": "HUL-219176D-P54266",
     "HUL Outlet Name": "Sree Laxminaryan Sto-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 4585,
+    "BTD": 0,
     "ME Name": "Tanmoy Das",
     "Beat": "P-SOVABAZAR(SVS)",
     "Day": "THU"
@@ -9884,7 +9884,7 @@
   {
     "HUL Code": "HUL-217115D-140",
     "HUL Outlet Name": "SREE DHAR BHANDER-D-D-D",
-    "ECO": 20813,
+    "ECO": 22577,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
@@ -9911,7 +9911,7 @@
   {
     "HUL Code": "HUL-217115D-6568",
     "HUL Outlet Name": "DDS SANTOSH SHAW -2-D-D-D",
-    "ECO": 5990,
+    "ECO": 9123,
     "BTD": 0,
     "ME Name": "SAMAR ADHIKARI",
     "Beat": "K-GOLA GHATA+NUTS",
@@ -10100,7 +10100,7 @@
   {
     "HUL Code": "HUL-217115D-7265",
     "HUL Outlet Name": "A.K. SARKAR-D-D-D",
-    "ECO": 2320,
+    "ECO": 2970,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2",
@@ -10127,7 +10127,7 @@
   {
     "HUL Code": "HUL-217115D-7286",
     "HUL Outlet Name": "MOTILAL SHAW-D-D-D",
-    "ECO": 3245,
+    "ECO": 3480,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -10136,7 +10136,7 @@
   {
     "HUL Code": "HUL-217115D-7298",
     "HUL Outlet Name": "RADHA NATH PAUL-D-D-D",
-    "ECO": 5133,
+    "ECO": 7316,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -10145,7 +10145,7 @@
   {
     "HUL Code": "HUL-217115D-7301",
     "HUL Outlet Name": "RAMJEBAN SHAW-D-D-D",
-    "ECO": 1101,
+    "ECO": 1541,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -10154,7 +10154,7 @@
   {
     "HUL Code": "HUL-217115D-7304",
     "HUL Outlet Name": "S K GUPTA-D-D-D",
-    "ECO": 2751,
+    "ECO": 5535,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2",
@@ -10163,7 +10163,7 @@
   {
     "HUL Code": "HUL-217115D-7316",
     "HUL Outlet Name": "SREE KRISHNA BHANDER-D-D-D",
-    "ECO": 3431,
+    "ECO": 3667,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2",
@@ -10172,7 +10172,7 @@
   {
     "HUL Code": "HUL-217115D-7319",
     "HUL Outlet Name": "SUKUMAR STORES-D-D-D",
-    "ECO": 1807,
+    "ECO": 2613,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -10235,7 +10235,7 @@
   {
     "HUL Code": "HUL-217115D-7428",
     "HUL Outlet Name": "SKG M/S GOPAL STORES-D-D-D",
-    "ECO": 24918,
+    "ECO": 24810,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SK DEV ROAD-1",
@@ -10325,7 +10325,7 @@
   {
     "HUL Code": "HUL-217115D-P11483",
     "HUL Outlet Name": "ANNAPURNA BHANDER - K SEN ST-D-D-D",
-    "ECO": 12831,
+    "ECO": 15392,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -10334,7 +10334,7 @@
   {
     "HUL Code": "HUL-217115D-P11522",
     "HUL Outlet Name": "K L SHAW - K SEN ST-D-D-D",
-    "ECO": 7828,
+    "ECO": 9885,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -10352,7 +10352,7 @@
   {
     "HUL Code": "HUL-217115D-P11546",
     "HUL Outlet Name": "S P SHAW - BS1-D-D-D",
-    "ECO": 11258,
+    "ECO": 13673,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -10370,7 +10370,7 @@
   {
     "HUL Code": "HUL-217115D-P11588",
     "HUL Outlet Name": "NEW KAILASH - SK2-D-D-D",
-    "ECO": 34203,
+    "ECO": 34429,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -10388,7 +10388,7 @@
   {
     "HUL Code": "HUL-217115D-P11597",
     "HUL Outlet Name": "PRADIP STORES - SK2-D-D-D",
-    "ECO": 6832,
+    "ECO": 11418,
     "BTD": 0,
     "ME Name": "SAMAR ADHIKARI",
     "Beat": "K-GOLA GHATA+NUTS",
@@ -10397,8 +10397,8 @@
   {
     "HUL Code": "HUL-217115D-P11600",
     "HUL Outlet Name": "SAHA STORES - SK2-D-D-D",
-    "ECO": 428,
-    "BTD": 572,
+    "ECO": 1839,
+    "BTD": 0,
     "ME Name": "SAMAR ADHIKARI",
     "Beat": "K-GOLA GHATA+NUTS",
     "Day": "THU"
@@ -10478,7 +10478,7 @@
   {
     "HUL Code": "HUL-217115D-P11936",
     "HUL Outlet Name": "BASUDEV SAHA - VK RD-D-D-D",
-    "ECO": 13741,
+    "ECO": 20275,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -10487,7 +10487,7 @@
   {
     "HUL Code": "HUL-217115D-P11939",
     "HUL Outlet Name": "BINAPANI VTY STORES - VK RD-D-D-D",
-    "ECO": 3922,
+    "ECO": 4191,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -10514,7 +10514,7 @@
   {
     "HUL Code": "HUL-217115D-P11969",
     "HUL Outlet Name": "LAXMI BHANDER - KSEN ST-D-D-D",
-    "ECO": 21129,
+    "ECO": 23065,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -10559,8 +10559,8 @@
   {
     "HUL Code": "HUL-217115D-P12062",
     "HUL Outlet Name": "SIDDHI GOPAL - BS1-D-D-D",
-    "ECO": 232,
-    "BTD": 768,
+    "ECO": 1371,
+    "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
     "Day": "THU"
@@ -10613,8 +10613,8 @@
   {
     "HUL Code": "HUL-217115D-P12209",
     "HUL Outlet Name": "JOY GURU STORES - RNG-D-D-D",
-    "ECO": 731,
-    "BTD": 269,
+    "ECO": 1040,
+    "BTD": 0,
     "ME Name": "Indrajit Sarkar",
     "Beat": "K-AMARPALLY+NUTS",
     "Day": "THU"
@@ -10622,7 +10622,7 @@
   {
     "HUL Code": "HUL-217115D-P12218",
     "HUL Outlet Name": "GOPAL ROY - MP-D-D-D",
-    "ECO": 7247,
+    "ECO": 8117,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -10793,8 +10793,8 @@
   {
     "HUL Code": "HUL-217115D-P24980",
     "HUL Outlet Name": "DIPSHIKA STORES-D-D",
-    "ECO": 385,
-    "BTD": 615,
+    "ECO": 1109,
+    "BTD": 0,
     "ME Name": "Pritam Das",
     "Beat": "K-AMHAR ST+NUTS",
     "Day": "THU"
@@ -10802,7 +10802,7 @@
   {
     "HUL Code": "HUL-217115D-P12848",
     "HUL Outlet Name": "ANIRBAN STORES - VK RD-D-D-D",
-    "ECO": 2366,
+    "ECO": 3497,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -10811,7 +10811,7 @@
   {
     "HUL Code": "HUL-217115D-P12854",
     "HUL Outlet Name": "NARAYAN STORES - VK RD-D-D-D",
-    "ECO": 2463,
+    "ECO": 3984,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -10820,7 +10820,7 @@
   {
     "HUL Code": "HUL-217115D-P12857",
     "HUL Outlet Name": "SATYANARAYAN BHANDER - VK RD-D-D-D",
-    "ECO": 4564,
+    "ECO": 5602,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -10883,7 +10883,7 @@
   {
     "HUL Code": "HUL-217115D-P13126",
     "HUL Outlet Name": "M.L SHAW - MP-D-D-D",
-    "ECO": 7044,
+    "ECO": 8864,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -10955,8 +10955,8 @@
   {
     "HUL Code": "HUL-217115D-P13242",
     "HUL Outlet Name": "R. K THAKUR - HB-D-D-D",
-    "ECO": 629,
-    "BTD": 371,
+    "ECO": 1176,
+    "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
     "Day": "THU"
@@ -11153,8 +11153,8 @@
   {
     "HUL Code": "HUL-217115D-P13519",
     "HUL Outlet Name": "Jharna Stores - BC-D-D-D",
-    "ECO": 477,
-    "BTD": 523,
+    "ECO": 1056,
+    "BTD": 0,
     "ME Name": "Pritam Das",
     "Beat": "K-AMHAR ST+NUTS",
     "Day": "THU"
@@ -11234,7 +11234,7 @@
   {
     "HUL Code": "HUL-217115D-P13928",
     "HUL Outlet Name": "PAYEL STORES - SK2-D-D-D",
-    "ECO": 28456,
+    "ECO": 29056,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -11306,7 +11306,7 @@
   {
     "HUL Code": "HUL-217696P1463",
     "HUL Outlet Name": "MAA MANGAL CHANDI BHANDER-D-D-D",
-    "ECO": 6834,
+    "ECO": 9433,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -11504,7 +11504,7 @@
   {
     "HUL Code": "HUL-217093D-P0885",
     "HUL Outlet Name": "RENUKA STORES-D-D-D-D",
-    "ECO": 3964,
+    "ECO": 3834,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-SATGACHI",
@@ -11549,7 +11549,7 @@
   {
     "HUL Code": "WB70002860666",
     "HUL Outlet Name": "CHABI STORES",
-    "ECO": 6138,
+    "ECO": 7697,
     "BTD": 0,
     "ME Name": "Indrajit Sarkar",
     "Beat": "D-SATGACHI-2",
@@ -11621,8 +11621,8 @@
   {
     "HUL Code": "HUL-217115D-P17396",
     "HUL Outlet Name": "DAS STORES - B.HATI RD-D-D-D",
-    "ECO": 553,
-    "BTD": 447,
+    "ECO": 482,
+    "BTD": 518,
     "ME Name": "Pritam Das",
     "Beat": "K-BAGUIHATI KHAL PAR+NUTS",
     "Day": "FRI"
@@ -11630,7 +11630,7 @@
   {
     "HUL Code": "HUL-217115D-P17404",
     "HUL Outlet Name": "AMBE ENTERPRISE - B.HATI RD-D-D-D",
-    "ECO": 1401,
+    "ECO": 1388,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-SATGACHI",
@@ -11648,7 +11648,7 @@
   {
     "HUL Code": "HUL-217115D-P17416",
     "HUL Outlet Name": "LOKENATH VTY. STORES - B.HATI RD-D-D-D",
-    "ECO": 5003,
+    "ECO": 4921,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-SATGACHI",
@@ -11657,7 +11657,7 @@
   {
     "HUL Code": "HUL-217115D-P17420",
     "HUL Outlet Name": "RADHA GOBINDA STORES - B.HATI RD-D-D-D",
-    "ECO": 4245,
+    "ECO": 5529,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-SATGACHI",
@@ -11675,7 +11675,7 @@
   {
     "HUL Code": "HUL-217115D-P24975",
     "HUL Outlet Name": "LALITA CONF.-D-D-D",
-    "ECO": 2395,
+    "ECO": 2326,
     "BTD": 0,
     "ME Name": "GITA HATI",
     "Beat": "F-SK DEV ROAD-1",
@@ -11720,7 +11720,7 @@
   {
     "HUL Code": "HUL-217115D-P18328",
     "HUL Outlet Name": "S.P. CHOWDHURY - MANIKTALA-D-D-D",
-    "ECO": 2443,
+    "ECO": 1397,
     "BTD": 0,
     "ME Name": "PRASANTA DAS",
     "Beat": "F-MANICKTALA+NUTS",
@@ -11864,7 +11864,7 @@
   {
     "HUL Code": "HUL-219176D-P25452",
     "HUL Outlet Name": "SUBIR STORES-D",
-    "ECO": 1291,
+    "ECO": 1752,
     "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
@@ -12080,8 +12080,8 @@
   {
     "HUL Code": "HUL-219176D-P25857",
     "HUL Outlet Name": "P.K.STORES-D",
-    "ECO": 842,
-    "BTD": 158,
+    "ECO": 1408,
+    "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
     "Day": "THU"
@@ -12116,7 +12116,7 @@
   {
     "HUL Code": "HUL-219176D-P26242",
     "HUL Outlet Name": "JANAKI SHAW-D",
-    "ECO": 12799,
+    "ECO": 16175,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -12125,7 +12125,7 @@
   {
     "HUL Code": "HUL-219176D-P26247",
     "HUL Outlet Name": "PROLAHAD STORES-D",
-    "ECO": 2857,
+    "ECO": 3840,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -12143,7 +12143,7 @@
   {
     "HUL Code": "HUL-219176D-P26262",
     "HUL Outlet Name": "B.S STORES-D",
-    "ECO": 3533,
+    "ECO": 5557,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2",
@@ -12152,7 +12152,7 @@
   {
     "HUL Code": "HUL-219176D-P26267",
     "HUL Outlet Name": "SANJIT STORES-D",
-    "ECO": 2585,
+    "ECO": 2792,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2",
@@ -12170,7 +12170,7 @@
   {
     "HUL Code": "HUL-219176D-P26282",
     "HUL Outlet Name": "MAHAMAYA STORES-D",
-    "ECO": 5017,
+    "ECO": 5682,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -12197,7 +12197,7 @@
   {
     "HUL Code": "HUL-219176D-P26307",
     "HUL Outlet Name": "MICHRI SHAW-D",
-    "ECO": 2429,
+    "ECO": 5425,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -12206,7 +12206,7 @@
   {
     "HUL Code": "HUL-219176D-P26312",
     "HUL Outlet Name": "MITRA STORES-D",
-    "ECO": 2257,
+    "ECO": 2773,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -12224,8 +12224,8 @@
   {
     "HUL Code": "HUL-219176D-P26332",
     "HUL Outlet Name": "JOY JAGGANATH STORES-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1053,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -12269,7 +12269,7 @@
   {
     "HUL Code": "HUL-219176D-P26392",
     "HUL Outlet Name": "GOPAL STORES-D",
-    "ECO": 2115,
+    "ECO": 3814,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -12287,7 +12287,7 @@
   {
     "HUL Code": "HUL-219176D-P26397",
     "HUL Outlet Name": "KARUNA STORES-D",
-    "ECO": 7312,
+    "ECO": 7605,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -12314,7 +12314,7 @@
   {
     "HUL Code": "HUL-219176D-P26417",
     "HUL Outlet Name": "N.C.STORES-D",
-    "ECO": 1608,
+    "ECO": 6715,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -12323,7 +12323,7 @@
   {
     "HUL Code": "HUL-219176D-P26422",
     "HUL Outlet Name": "G.GHOSH-D",
-    "ECO": 4426,
+    "ECO": 5363,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -12359,8 +12359,8 @@
   {
     "HUL Code": "HUL-219176D-P26442",
     "HUL Outlet Name": "STUDENT CORNER-D",
-    "ECO": 237,
-    "BTD": 763,
+    "ECO": 1079,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -12395,7 +12395,7 @@
   {
     "HUL Code": "HUL-219176D-P26492",
     "HUL Outlet Name": "JAHAR SHAW-D",
-    "ECO": 2001,
+    "ECO": 3596,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -12404,7 +12404,7 @@
   {
     "HUL Code": "HUL-219176D-P26497",
     "HUL Outlet Name": "MOTILAL SHAW-D",
-    "ECO": 6356,
+    "ECO": 8352,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -12431,7 +12431,7 @@
   {
     "HUL Code": "HUL-219176D-P26543",
     "HUL Outlet Name": "GIRIDHARI STORES-D",
-    "ECO": 2141,
+    "ECO": 2436,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-HATIBAGAN",
@@ -12512,7 +12512,7 @@
   {
     "HUL Code": "HUL-219176D-P26791",
     "HUL Outlet Name": "CHAITALI STORES-D",
-    "ECO": 3124,
+    "ECO": 4968,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -12593,8 +12593,8 @@
   {
     "HUL Code": "HUL-219176D-P26986",
     "HUL Outlet Name": "GHOSH BROTHERS-D",
-    "ECO": 977,
-    "BTD": 23,
+    "ECO": 1525,
+    "BTD": 0,
     "ME Name": "Indrajit Sarkar",
     "Beat": "K-AMARPALLY+NUTS",
     "Day": "THU"
@@ -12773,8 +12773,8 @@
   {
     "HUL Code": "HUL-219176D-P27421",
     "HUL Outlet Name": "JOY GURU STORES-D",
-    "ECO": 804,
-    "BTD": 196,
+    "ECO": 1076,
+    "BTD": 0,
     "ME Name": "Indrajit Sarkar",
     "Beat": "K-AMARPALLY+NUTS",
     "Day": "THU"
@@ -12800,7 +12800,7 @@
   {
     "HUL Code": "HUL-219176D-P27456",
     "HUL Outlet Name": "MAA TARA BHANDAR-D",
-    "ECO": 4727,
+    "ECO": 5841,
     "BTD": 0,
     "ME Name": "Indrajit Sarkar",
     "Beat": "D-SATGACHI-2",
@@ -12818,7 +12818,7 @@
   {
     "HUL Code": "HUL-219176D-P27561",
     "HUL Outlet Name": "WONDER SHOP-D",
-    "ECO": 1844,
+    "ECO": 2198,
     "BTD": 0,
     "ME Name": "Indrajit Sarkar",
     "Beat": "D-SATGACHI-2",
@@ -12863,7 +12863,7 @@
   {
     "HUL Code": "HUL-217093D-P0660",
     "HUL Outlet Name": "MANORAMA STORES - AMP-D-D-D-D",
-    "ECO": 6147,
+    "ECO": 6094,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-AMARPALLY-2",
@@ -13034,7 +13034,7 @@
   {
     "HUL Code": "HUL-219176D-P28672",
     "HUL Outlet Name": "MAA RAKHAKALI BHANDAR-D",
-    "ECO": 6536,
+    "ECO": 9103,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -13160,7 +13160,7 @@
   {
     "HUL Code": "HUL-219176D-P28977",
     "HUL Outlet Name": "SANJOY STORES-D",
-    "ECO": 4313,
+    "ECO": 6257,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2+NUTS",
@@ -13169,7 +13169,7 @@
   {
     "HUL Code": "HUL-219176D-P29047",
     "HUL Outlet Name": "SUBHAS SHAW-D",
-    "ECO": 5758,
+    "ECO": 6834,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2",
@@ -13178,7 +13178,7 @@
   {
     "HUL Code": "HUL-219176D-P29067",
     "HUL Outlet Name": "TANIYA STORES-D",
-    "ECO": 1081,
+    "ECO": 1323,
     "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
@@ -13196,7 +13196,7 @@
   {
     "HUL Code": "HUL-219176D-P29150",
     "HUL Outlet Name": "SABNAM STORES-D",
-    "ECO": 1953,
+    "ECO": 2168,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2",
@@ -13304,7 +13304,7 @@
   {
     "HUL Code": "HUL-219176D-P29557",
     "HUL Outlet Name": "SHIV ANANADA STORES-D",
-    "ECO": 1072,
+    "ECO": 1319,
     "BTD": 0,
     "ME Name": "Indrajit Sarkar",
     "Beat": "K-AMARPALLY+NUTS",
@@ -13313,8 +13313,8 @@
   {
     "HUL Code": "HUL-219176D-P29602",
     "HUL Outlet Name": "SUDHA KAR-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1053,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -13322,8 +13322,8 @@
   {
     "HUL Code": "HUL-219176D-P29612",
     "HUL Outlet Name": "GOUTAM STORES-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1053,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -13475,8 +13475,8 @@
   {
     "HUL Code": "HUL-219176D-P30166",
     "HUL Outlet Name": "GAY LORD-D",
-    "ECO": 512,
-    "BTD": 488,
+    "ECO": 1135,
+    "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
     "Day": "THU"
@@ -13511,8 +13511,8 @@
   {
     "HUL Code": "HUL-219176D-P30256",
     "HUL Outlet Name": "MAA ARNAPURNA BHANDAR-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1053,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -13556,8 +13556,8 @@
   {
     "HUL Code": "HUL-219176D-P30336",
     "HUL Outlet Name": "SWAPAN ACHARJEE-D",
-    "ECO": 915,
-    "BTD": 85,
+    "ECO": 1246,
+    "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
     "Day": "THU"
@@ -13574,8 +13574,8 @@
   {
     "HUL Code": "HUL-219176D-P30361",
     "HUL Outlet Name": "KARTIK BERA-D",
-    "ECO": 785,
-    "BTD": 215,
+    "ECO": 1136,
+    "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
     "Day": "THU"
@@ -13592,8 +13592,8 @@
   {
     "HUL Code": "HUL-219176D-P30401",
     "HUL Outlet Name": "GOURI STORES-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1053,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -13601,8 +13601,8 @@
   {
     "HUL Code": "HUL-219176D-P30416",
     "HUL Outlet Name": "D.R.GUPTA-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1053,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -13610,8 +13610,8 @@
   {
     "HUL Code": "HUL-219176D-P30561",
     "HUL Outlet Name": "B.S STORES-D",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1053,
+    "BTD": 0,
     "ME Name": "Manish Choudhary",
     "Beat": "K-MURARIPUKUR-2+NUTS",
     "Day": "THU"
@@ -13745,8 +13745,8 @@
   {
     "HUL Code": "HUL-219176D-P30981",
     "HUL Outlet Name": "ANANPURNA BHANDER-D",
-    "ECO": 968,
-    "BTD": 32,
+    "ECO": 1961,
+    "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
     "Day": "THU"
@@ -13754,7 +13754,7 @@
   {
     "HUL Code": "HUL-219176D-P30996",
     "HUL Outlet Name": "ARJUN SHOW-D",
-    "ECO": 2660,
+    "ECO": 3526,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -13808,7 +13808,7 @@
   {
     "HUL Code": "HUL-219176D-P31131",
     "HUL Outlet Name": "LAKSHI BHANDER (PD)-D",
-    "ECO": 2386,
+    "ECO": 2657,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -13853,7 +13853,7 @@
   {
     "HUL Code": "HUL-219176D-P31216",
     "HUL Outlet Name": "P.CHANDRA-D",
-    "ECO": 1606,
+    "ECO": 1821,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -13871,7 +13871,7 @@
   {
     "HUL Code": "HUL-219176D-P31236",
     "HUL Outlet Name": "PIYALI BHANDER-D",
-    "ECO": 3871,
+    "ECO": 4631,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -13907,7 +13907,7 @@
   {
     "HUL Code": "HUL-219176D-P31346",
     "HUL Outlet Name": "SOHAM STORES-D",
-    "ECO": 3126,
+    "ECO": 4085,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -13943,7 +13943,7 @@
   {
     "HUL Code": "HUL-219176D-P31391",
     "HUL Outlet Name": "SUSHILA STORES-D",
-    "ECO": 6672,
+    "ECO": 13874,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANANDA ROAD 3",
@@ -14033,7 +14033,7 @@
   {
     "HUL Code": "HUL-219176D-P31836",
     "HUL Outlet Name": "SURESH SHAW-D",
-    "ECO": 1382,
+    "ECO": 1619,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2",
@@ -14051,7 +14051,7 @@
   {
     "HUL Code": "HUL-217115D-P26530",
     "HUL Outlet Name": "TAPATI STORES-D",
-    "ECO": 8459,
+    "ECO": 8890,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -14159,7 +14159,7 @@
   {
     "HUL Code": "HUL-219176D-P32427",
     "HUL Outlet Name": "SUNIL STORES-D",
-    "ECO": 1128,
+    "ECO": 1552,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -14177,7 +14177,7 @@
   {
     "HUL Code": "HUL-219176D-P32529",
     "HUL Outlet Name": "BHOLA SHOW-D",
-    "ECO": 1292,
+    "ECO": 1508,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-BIDHANSARANI-3",
@@ -14204,7 +14204,7 @@
   {
     "HUL Code": "HUL-219176D-P32613",
     "HUL Outlet Name": "MONOJ SHOW-D",
-    "ECO": 10041,
+    "ECO": 13603,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -14276,8 +14276,8 @@
   {
     "HUL Code": "HUL-20B317D-P42322",
     "HUL Outlet Name": "SHANKAR MAITY-D",
-    "ECO": 857,
-    "BTD": 143,
+    "ECO": 1302,
+    "BTD": 0,
     "ME Name": "Tapan Chanda",
     "Beat": "N-HATIBAGAN",
     "Day": "THU"
@@ -14402,7 +14402,7 @@
   {
     "HUL Code": "HUL-20B317D-P42625",
     "HUL Outlet Name": "GOLDEN SHOP  VI-D",
-    "ECO": 4918,
+    "ECO": 8648,
     "BTD": 0,
     "ME Name": "Tapan Chanda",
     "Beat": "N-BIDHANSARANI-3",
@@ -14528,7 +14528,7 @@
   {
     "HUL Code": "HUL-20B317D-P42827",
     "HUL Outlet Name": "Narayana Stores-D",
-    "ECO": 8369,
+    "ECO": 9146,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -14609,7 +14609,7 @@
   {
     "HUL Code": "HUL-20B317D-P42955",
     "HUL Outlet Name": "Upoher-D",
-    "ECO": 3406,
+    "ECO": 3959,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -14645,7 +14645,7 @@
   {
     "HUL Code": "HUL-20B317D-P43012",
     "HUL Outlet Name": "SHAW TEA STORES-D",
-    "ECO": 1153,
+    "ECO": 1366,
     "BTD": 0,
     "ME Name": "TAPAS MUHURI",
     "Beat": "U2NC-SK DEB ROAD-2",
@@ -14699,8 +14699,8 @@
   {
     "HUL Code": "HUL-20B317D-P43083",
     "HUL Outlet Name": "Goutam Store-D",
-    "ECO": 990,
-    "BTD": 10,
+    "ECO": 1645,
+    "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
     "Day": "THU"
@@ -14753,8 +14753,8 @@
   {
     "HUL Code": "HUL-20B317D-P43202",
     "HUL Outlet Name": "Annapurna Stores-D",
-    "ECO": 641,
-    "BTD": 359,
+    "ECO": 1845,
+    "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
     "Day": "THU"
@@ -14762,7 +14762,7 @@
   {
     "HUL Code": "HUL-20B317D-P43209",
     "HUL Outlet Name": "B D Enterprise-D",
-    "ECO": 1656,
+    "ECO": 2230,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -14906,7 +14906,7 @@
   {
     "HUL Code": "HUL-20B317D-P43390",
     "HUL Outlet Name": "Savitri Genaral St.-D",
-    "ECO": 3682,
+    "ECO": 5201,
     "BTD": 0,
     "ME Name": "SAMAR ADHIKARI",
     "Beat": "K-GOLA GHATA+NUTS",
@@ -15014,7 +15014,7 @@
   {
     "HUL Code": "HUL-20B317D-P43509",
     "HUL Outlet Name": "ANKIM VTY. STORE-D",
-    "ECO": 4815,
+    "ECO": 10509,
     "BTD": 0,
     "ME Name": "SAMAR ADHIKARI",
     "Beat": "K-GOLA GHATA+NUTS",
@@ -15041,7 +15041,7 @@
   {
     "HUL Code": "HUL-20B317D-P43534",
     "HUL Outlet Name": "Sree Guru Varity Stores-D",
-    "ECO": 1068,
+    "ECO": 2626,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -15068,7 +15068,7 @@
   {
     "HUL Code": "HUL-20B317D-P43564",
     "HUL Outlet Name": "DK Cold Drinks-D",
-    "ECO": 2365,
+    "ECO": 3098,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -15086,8 +15086,8 @@
   {
     "HUL Code": "HUL-20B317D-P43585",
     "HUL Outlet Name": "RESHON SHOP 2-D",
-    "ECO": 495,
-    "BTD": 505,
+    "ECO": 1415,
+    "BTD": 0,
     "ME Name": "Abhishek Tiwary",
     "Beat": "F-VIVEKANDA ROAD-2",
     "Day": "THU"
@@ -15122,8 +15122,8 @@
   {
     "HUL Code": "HUL-20B317D-P43620",
     "HUL Outlet Name": "bablu-D",
-    "ECO": 949,
-    "BTD": 51,
+    "ECO": 1170,
+    "BTD": 0,
     "ME Name": "Tanmoy Das",
     "Beat": "P-SOVABAZAR(SVS)",
     "Day": "THU"
@@ -15194,7 +15194,7 @@
   {
     "HUL Code": "HUL-20B317D-P43720",
     "HUL Outlet Name": "Family Mart-D",
-    "ECO": 7334,
+    "ECO": 10374,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2+NUTS",
@@ -15212,7 +15212,7 @@
   {
     "HUL Code": "HUL-20B317D-P43741",
     "HUL Outlet Name": "Sudhir Shaw-D",
-    "ECO": 1054,
+    "ECO": 2027,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -15374,7 +15374,7 @@
   {
     "HUL Code": "HUL-20B317D-P43881",
     "HUL Outlet Name": "Sathgachi Tea Stall-D",
-    "ECO": 2111,
+    "ECO": 2097,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-SATGACHI",
@@ -15401,7 +15401,7 @@
   {
     "HUL Code": "HUL-20B317D-P43916",
     "HUL Outlet Name": "New MS Radha Nath Paul-D",
-    "ECO": 5280,
+    "ECO": 10811,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -15410,7 +15410,7 @@
   {
     "HUL Code": "HUL-20B317D-P43923",
     "HUL Outlet Name": "Gk Gupta Stores-D",
-    "ECO": 1364,
+    "ECO": 3119,
     "BTD": 0,
     "ME Name": "Indrajit Sarkar",
     "Beat": "K-AMARPALLY+NUTS",
@@ -15536,7 +15536,7 @@
   {
     "HUL Code": "HUL-20B317D-P44051",
     "HUL Outlet Name": "Ichhamoyee Stores-D",
-    "ECO": 3980,
+    "ECO": 8504,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -15545,8 +15545,8 @@
   {
     "HUL Code": "HUL-20B317D-P44067",
     "HUL Outlet Name": "24x7 Daily Needs-D",
-    "ECO": 946,
-    "BTD": 54,
+    "ECO": 1188,
+    "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
     "Day": "THU"
@@ -15581,7 +15581,7 @@
   {
     "HUL Code": "HUL-20B317D-P44115",
     "HUL Outlet Name": "JAYA VARIETY STORES-D",
-    "ECO": 3261,
+    "ECO": 5100,
     "BTD": 0,
     "ME Name": "GITA HATI",
     "Beat": "F-MURARIPUKUR",
@@ -15635,7 +15635,7 @@
   {
     "HUL Code": "HUL-20B317D-P44164",
     "HUL Outlet Name": "Maa Sitala Dosokarma Bhander-D",
-    "ECO": 1374,
+    "ECO": 2496,
     "BTD": 0,
     "ME Name": "SAMAR ADHIKARI",
     "Beat": "K-GOLA GHATA+NUTS",
@@ -15644,7 +15644,7 @@
   {
     "HUL Code": "HUL-20B317D-P44171",
     "HUL Outlet Name": "Chandra Store-D",
-    "ECO": 2336,
+    "ECO": 2142,
     "BTD": 0,
     "ME Name": "Avijit Kumar Nandy",
     "Beat": "U2NC-S.K.DEB ROAD-1",
@@ -15698,7 +15698,7 @@
   {
     "HUL Code": "HUL-20B317D-P44221",
     "HUL Outlet Name": "Golden Shop-D",
-    "ECO": 9519,
+    "ECO": 13613,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-HATIBAGAN",
@@ -15959,7 +15959,7 @@
   {
     "HUL Code": "HUL-217086D-1148",
     "HUL Outlet Name": "MPN N.C PAUL-D-D-D-D",
-    "ECO": 10372,
+    "ECO": 12028,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -15968,8 +15968,8 @@
   {
     "HUL Code": "HUL-217086D-1149",
     "HUL Outlet Name": "MPA ADARSHA PAN BHANDER-D-D-D-D",
-    "ECO": 461,
-    "BTD": 539,
+    "ECO": 919,
+    "BTD": 81,
     "ME Name": "GITA HATI",
     "Beat": "F-MURARIPUKUR+NUTS",
     "Day": "THU"
@@ -15995,7 +15995,7 @@
   {
     "HUL Code": "HUL-217086D-1535",
     "HUL Outlet Name": "SKM M/S MUNNA LAL SHAW-D-D-D-D",
-    "ECO": 1785,
+    "ECO": 1997,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -16022,7 +16022,7 @@
   {
     "HUL Code": "HUL-217086D-1557",
     "HUL Outlet Name": "BSD D.S.TIWARI-D-D-D-D",
-    "ECO": 3630,
+    "ECO": 5263,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -16031,7 +16031,7 @@
   {
     "HUL Code": "HUL-217086D-1558",
     "HUL Outlet Name": "Nalanda Stores-D-D-D-D",
-    "ECO": 14918,
+    "ECO": 20517,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -16040,7 +16040,7 @@
   {
     "HUL Code": "HUL-217086D-1560",
     "HUL Outlet Name": "BSN M/S NEW LAXMINARAYAN BHANDER-D-D-D-D",
-    "ECO": 17631,
+    "ECO": 30021,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -16049,7 +16049,7 @@
   {
     "HUL Code": "HUL-217086D-1561",
     "HUL Outlet Name": "BSP M/S PAUL VTY STORES-D-D-D-D",
-    "ECO": 2649,
+    "ECO": 3212,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -16121,7 +16121,7 @@
   {
     "HUL Code": "HUL-217086D-1602",
     "HUL Outlet Name": "NEW GUPTA STORE",
-    "ECO": 17056,
+    "ECO": 17269,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -16157,7 +16157,7 @@
   {
     "HUL Code": "HUL-217086D-1650",
     "HUL Outlet Name": "SKB M/S BIKASH SHAW-D-D-D-D",
-    "ECO": 2522,
+    "ECO": 2736,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -16166,7 +16166,7 @@
   {
     "HUL Code": "HUL-217086D-1651",
     "HUL Outlet Name": "BSS M/S SWAPAN NANDI-D-D-D-D",
-    "ECO": 3162,
+    "ECO": 5111,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -16175,7 +16175,7 @@
   {
     "HUL Code": "HUL-217086D-1657",
     "HUL Outlet Name": "BSN M/S NEW ELITE TEA-D-D-D-D",
-    "ECO": 4808,
+    "ECO": 9303,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -16184,7 +16184,7 @@
   {
     "HUL Code": "HUL-217086D-1660",
     "HUL Outlet Name": "BSU M/S UPENDRA PANDA-D-D-D-D",
-    "ECO": 10223,
+    "ECO": 10810,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -16193,7 +16193,7 @@
   {
     "HUL Code": "HUL-217086D-1666",
     "HUL Outlet Name": "BSS M/S S.D PRASAD-D-D-D-D",
-    "ECO": 7391,
+    "ECO": 7979,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -16202,7 +16202,7 @@
   {
     "HUL Code": "HUL-217086D-1674",
     "HUL Outlet Name": "BSM M/S MAHA KALI BHANDER-D-D-D-D",
-    "ECO": 12005,
+    "ECO": 20826,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -16247,7 +16247,7 @@
   {
     "HUL Code": "HUL-217086D-2020",
     "HUL Outlet Name": "HBM M/S MAA KALI STORES-D-D-D-D",
-    "ECO": 10914,
+    "ECO": 11144,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-HATIBAGAN",
@@ -16301,8 +16301,8 @@
   {
     "HUL Code": "HUL-217086D-2135",
     "HUL Outlet Name": "MPG M/S GYARSILAL SADHRAM-D-D-D-D",
-    "ECO": 314,
-    "BTD": 686,
+    "ECO": 679,
+    "BTD": 321,
     "ME Name": "GITA HATI",
     "Beat": "F-MURARIPUKUR+NUTS",
     "Day": "THU"
@@ -16391,7 +16391,7 @@
   {
     "HUL Code": "HUL-217086D-2585",
     "HUL Outlet Name": "DDP M/S PRADIP STORES-D-D-D-D",
-    "ECO": 3983,
+    "ECO": 4477,
     "BTD": 0,
     "ME Name": "SAMAR ADHIKARI",
     "Beat": "K-GOLA GHATA+NUTS",
@@ -16427,7 +16427,7 @@
   {
     "HUL Code": "HUL-217086D-2608",
     "HUL Outlet Name": "HBM M/S MADON MOHAN STORES-D-D-D-D",
-    "ECO": 6539,
+    "ECO": 7120,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-BIDHANSARANI-3",
@@ -16436,7 +16436,7 @@
   {
     "HUL Code": "HUL-217086D-2609",
     "HUL Outlet Name": "JAMUNA STORES-D",
-    "ECO": 5898,
+    "ECO": 7012,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-BIDHANSARANI-3",
@@ -16490,7 +16490,7 @@
   {
     "HUL Code": "HUL-217086D-2620",
     "HUL Outlet Name": "HBA M/S ADI GANDESWARI BHANDAR-D-D-D-D",
-    "ECO": 8427,
+    "ECO": 8855,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-HATIBAGAN",
@@ -16580,7 +16580,7 @@
   {
     "HUL Code": "HUL-217086D-2742",
     "HUL Outlet Name": "HAN M/S NAND STORES-D-D-D-D",
-    "ECO": 32515,
+    "ECO": 33200,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-BIDHANSARANI-3",
@@ -16661,7 +16661,7 @@
   {
     "HUL Code": "HUL-217086D-2822",
     "HUL Outlet Name": "DDR M/S RAJENDRA STORES-D-D-D-D",
-    "ECO": 13453,
+    "ECO": 13299,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-DAKSHINDARI-2",
@@ -16679,7 +16679,7 @@
   {
     "HUL Code": "HUL-217086D-2824",
     "HUL Outlet Name": "DDT M/S THE JOY GURU BHANDER-D-D-D-D",
-    "ECO": 4877,
+    "ECO": 4823,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-DAKSHINDARI-2",
@@ -16733,7 +16733,7 @@
   {
     "HUL Code": "HUL-217086D-2869",
     "HUL Outlet Name": "BSC CHANDRA MALLICA-D-D-D-D",
-    "ECO": 1657,
+    "ECO": 2101,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -16742,7 +16742,7 @@
   {
     "HUL Code": "HUL-217086D-2872",
     "HUL Outlet Name": "BSP M/S PAPPU STORES-D-D-D-D",
-    "ECO": 3480,
+    "ECO": 4934,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -16760,7 +16760,7 @@
   {
     "HUL Code": "HUL-217086D-2906",
     "HUL Outlet Name": "HBR M/S R.P. STORES-D-D-D-D",
-    "ECO": 3082,
+    "ECO": 3410,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-HATIBAGAN",
@@ -16922,7 +16922,7 @@
   {
     "HUL Code": "HUL-217086D-749",
     "HUL Outlet Name": "BSB M/S BADSHAHI STORES-D-D-D-D",
-    "ECO": 3656,
+    "ECO": 5302,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -16976,7 +16976,7 @@
   {
     "HUL Code": "HUL-217086D2589",
     "HUL Outlet Name": "SKM M/S MAA MANOSHA BHANDER-D-D-D",
-    "ECO": 13175,
+    "ECO": 14056,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -17012,7 +17012,7 @@
   {
     "HUL Code": "HUL-217085D-P886",
     "HUL Outlet Name": "SHREE SHYAM STORE-D-D-D-D",
-    "ECO": 3490,
+    "ECO": 3866,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-TERETTI (W/S)",
@@ -17048,7 +17048,7 @@
   {
     "HUL Code": "HUL-217085D-P900",
     "HUL Outlet Name": "Azad Stores-D-D-D-D",
-    "ECO": 11974,
+    "ECO": 13354,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-TERETTI (W/S)",
@@ -17093,7 +17093,7 @@
   {
     "HUL Code": "HUL-217085D-PAR127",
     "HUL Outlet Name": "Biswanath Stores-D-D-D-D",
-    "ECO": 10420,
+    "ECO": 11079,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
@@ -17210,8 +17210,8 @@
   {
     "HUL Code": "WB70000660765",
     "HUL Outlet Name": "MAA DURGA STORES-D",
-    "ECO": 446,
-    "BTD": 554,
+    "ECO": 888,
+    "BTD": 112,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
     "Day": "MON"
@@ -17219,7 +17219,7 @@
   {
     "HUL Code": "HUL-217085D-P1002",
     "HUL Outlet Name": "NANDAKISHOR AGARWAL-D-D-D-D-D",
-    "ECO": 19011,
+    "ECO": 20251,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -17318,8 +17318,8 @@
   {
     "HUL Code": "HUL-217085D-P1104",
     "HUL Outlet Name": "BIJOY BHANDER-D-D-D-D-D",
-    "ECO": 978,
-    "BTD": 22,
+    "ECO": 1273,
+    "BTD": 0,
     "ME Name": "Pritam Das",
     "Beat": "K-AMHAR ST+NUTS",
     "Day": "THU"
@@ -17327,7 +17327,7 @@
   {
     "HUL Code": "HUL-217085D-P1132",
     "HUL Outlet Name": "SANSARIK-D-D-D-D-D",
-    "ECO": 6392,
+    "ECO": 7029,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -17336,8 +17336,8 @@
   {
     "HUL Code": "HUL-217085D-P1133",
     "HUL Outlet Name": "DHANANJOY SADHUKHAN-D-D-D-D-D",
-    "ECO": 563,
-    "BTD": 437,
+    "ECO": 1118,
+    "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
     "Day": "THU"
@@ -17390,7 +17390,7 @@
   {
     "HUL Code": "HUL-217085D-P1339",
     "HUL Outlet Name": "PAUL BROTHERS-D-D-D-D-D",
-    "ECO": 1765,
+    "ECO": 2750,
     "BTD": 0,
     "ME Name": "Pritam Das",
     "Beat": "K-AMHAR ST+NUTS",
@@ -17417,7 +17417,7 @@
   {
     "HUL Code": "HUL-217085D-P3553",
     "HUL Outlet Name": "MAA KALI BHANDAR(VVR)-D-D-D-D-D",
-    "ECO": 7594,
+    "ECO": 8914,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -17516,7 +17516,7 @@
   {
     "HUL Code": "HUL-217085D-P821",
     "HUL Outlet Name": "M M GHOSH-D-D-D-D-D",
-    "ECO": 5473,
+    "ECO": 5400,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-BECHU CHATTERJEE STREET",
@@ -17561,7 +17561,7 @@
   {
     "HUL Code": "HUL-217085D-P829",
     "HUL Outlet Name": "MAHAPRABHU BHANDER-D-D-D-D-D",
-    "ECO": 12057,
+    "ECO": 11896,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-BECHU CHATTERJEE STREET",
@@ -17624,7 +17624,7 @@
   {
     "HUL Code": "HUL-217085D-P875",
     "HUL Outlet Name": "MAHA LAKSHMI STORES-D-D-D-D-D",
-    "ECO": 1235,
+    "ECO": 1457,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
@@ -17651,7 +17651,7 @@
   {
     "HUL Code": "HUL-217085D-P977",
     "HUL Outlet Name": "RAMJI SHAW.-D-D-D-D-D",
-    "ECO": 4977,
+    "ECO": 5244,
     "BTD": 0,
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2",
@@ -17660,8 +17660,8 @@
   {
     "HUL Code": "HUL-217085D-P978",
     "HUL Outlet Name": "NEW MAHAKALI BHANDAR-D-D-D-D-D",
-    "ECO": 544,
-    "BTD": 456,
+    "ECO": 1330,
+    "BTD": 0,
     "ME Name": "Pritam Das",
     "Beat": "K-AMHAR ST+NUTS",
     "Day": "THU"
@@ -17678,7 +17678,7 @@
   {
     "HUL Code": "HUL-217085D-P980",
     "HUL Outlet Name": "SABITRI KHADYA BHANDAR-D-D-D-D-D",
-    "ECO": 3260,
+    "ECO": 3703,
     "BTD": 0,
     "ME Name": "Pritam Das",
     "Beat": "K-AMHAR ST+NUTS",
@@ -17687,7 +17687,7 @@
   {
     "HUL Code": "HUL-217085D-P986",
     "HUL Outlet Name": "SHAW STATINORY SHOP-D-D-D-D-D",
-    "ECO": 4347,
+    "ECO": 7356,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANANDA ROAD 3",
@@ -17696,7 +17696,7 @@
   {
     "HUL Code": "HUL-217085D-P993",
     "HUL Outlet Name": "SIMA STORES-D-D",
-    "ECO": 3208,
+    "ECO": 5927,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANANDA ROAD 3",
@@ -17705,7 +17705,7 @@
   {
     "HUL Code": "HUL-217085D-P995",
     "HUL Outlet Name": "GHARANA-D-D",
-    "ECO": 12870,
+    "ECO": 16754,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -17813,8 +17813,8 @@
   {
     "HUL Code": "HUL-217115D-P8450",
     "HUL Outlet Name": "THE SANJAY STORES-D-D-D",
-    "ECO": 228,
-    "BTD": 772,
+    "ECO": 1073,
+    "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
     "Day": "THU"
@@ -17840,8 +17840,8 @@
   {
     "HUL Code": "HUL-217115D-P8558",
     "HUL Outlet Name": "CHOWDHURY STORES-D-D-D",
-    "ECO": 522,
-    "BTD": 478,
+    "ECO": 1091,
+    "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
     "Day": "THU"
@@ -17894,7 +17894,7 @@
   {
     "HUL Code": "HUL-217115F-7404",
     "HUL Outlet Name": "MTL M/S LOKENATH STORES-F-D-D",
-    "ECO": 2029,
+    "ECO": 2199,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
@@ -17912,8 +17912,8 @@
   {
     "HUL Code": "HUL-217115F-7511",
     "HUL Outlet Name": "KSK M/S KAMALA BHANDER-F-D-D",
-    "ECO": 670,
-    "BTD": 330,
+    "ECO": 1704,
+    "BTD": 0,
     "ME Name": "Sumanta Chatterjee",
     "Beat": "F-KESHAB SEN STREET+NUTS",
     "Day": "THU"
@@ -17930,7 +17930,7 @@
   {
     "HUL Code": "HUL-217115P-7427",
     "HUL Outlet Name": "SKR M/S RAM KRISHNA CAFE-P-D-D",
-    "ECO": 3317,
+    "ECO": 3239,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SK DEV ROAD-1",
@@ -17939,7 +17939,7 @@
   {
     "HUL Code": "HUL-216252F-C864",
     "HUL Outlet Name": "NEWELITETEAHOUSE(HATIBAGAN)-F-D-D-D",
-    "ECO": 9682,
+    "ECO": 14448,
     "BTD": 0,
     "ME Name": "Mita Das Mondal",
     "Beat": "F-BIDHANSARANI -1+NUTS",
@@ -17948,7 +17948,7 @@
   {
     "HUL Code": "HUL-216252F-C865",
     "HUL Outlet Name": "ARUNGUPTA(HATIBAGAN)-F-D-D-D",
-    "ECO": 8783,
+    "ECO": 10266,
     "BTD": 0,
     "ME Name": "Mita Das Mondal",
     "Beat": "F-BIDHANSARANI -1",
@@ -17966,7 +17966,7 @@
   {
     "HUL Code": "HUL-217115D-P21819",
     "HUL Outlet Name": "P.PANDAY-D-D-D",
-    "ECO": 3285,
+    "ECO": 5462,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -18029,7 +18029,7 @@
   {
     "HUL Code": "HUL-20B317P44482",
     "HUL Outlet Name": "Shree Shyam Store",
-    "ECO": 1720,
+    "ECO": 3767,
     "BTD": 0,
     "ME Name": "Indrajit Sarkar",
     "Beat": "K-AMARPALLY+NUTS",
@@ -18164,7 +18164,7 @@
   {
     "HUL Code": "HUL-20B317P44505",
     "HUL Outlet Name": "Bijoy Shaw",
-    "ECO": 1835,
+    "ECO": 2428,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -18191,7 +18191,7 @@
   {
     "HUL Code": "HUL-20B317P44510",
     "HUL Outlet Name": "Manidipa Stores",
-    "ECO": 1673,
+    "ECO": 2597,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -18227,7 +18227,7 @@
   {
     "HUL Code": "HUL-20B317P44516",
     "HUL Outlet Name": "Mahabir Stores",
-    "ECO": 1591,
+    "ECO": 5574,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -18245,8 +18245,8 @@
   {
     "HUL Code": "HUL-20B317P44520",
     "HUL Outlet Name": "Ashoke  Kumar Shaw",
-    "ECO": 729,
-    "BTD": 271,
+    "ECO": 1116,
+    "BTD": 0,
     "ME Name": "Suvo Pakhira",
     "Beat": "K-HATIBAGAN-1+NUTS",
     "Day": "THU"
@@ -18308,8 +18308,8 @@
   {
     "HUL Code": "HUL-20B317P44530",
     "HUL Outlet Name": "Rudra Store",
-    "ECO": 591,
-    "BTD": 409,
+    "ECO": 1796,
+    "BTD": 0,
     "ME Name": "PRASANTA DAS",
     "Beat": "N-SK DEV ROAD-2",
     "Day": "THU"
@@ -18326,7 +18326,7 @@
   {
     "HUL Code": "HUL-20B317P44535",
     "HUL Outlet Name": "SANDIP STRES",
-    "ECO": 1056,
+    "ECO": 1642,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -18452,7 +18452,7 @@
   {
     "HUL Code": "HUL-20B317P44563",
     "HUL Outlet Name": "TARA MAA BHANDER",
-    "ECO": 4922,
+    "ECO": 4841,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-BECHU CHATTERJEE STREET",
@@ -18479,8 +18479,8 @@
   {
     "HUL Code": "HUL-20B317P44567",
     "HUL Outlet Name": "BIJOY SHAW",
-    "ECO": 392,
-    "BTD": 608,
+    "ECO": 814,
+    "BTD": 186,
     "ME Name": "GITA HATI",
     "Beat": "F-MURARIPUKUR",
     "Day": "THU"
@@ -18551,7 +18551,7 @@
   {
     "HUL Code": "HUL-20B317P44578",
     "HUL Outlet Name": "Ram Saran Stores",
-    "ECO": 1248,
+    "ECO": 2554,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -18569,8 +18569,8 @@
   {
     "HUL Code": "HUL-20B317P44584",
     "HUL Outlet Name": "Bonomali Store",
-    "ECO": 0,
-    "BTD": 1000,
+    "ECO": 1164,
+    "BTD": 0,
     "ME Name": "PALLABCHOWDHURY",
     "Beat": "P-MANICKTALA",
     "Day": "THU"
@@ -18659,7 +18659,7 @@
   {
     "HUL Code": "HUL-20B317P44600",
     "HUL Outlet Name": "SOVA BHANDER",
-    "ECO": 1637,
+    "ECO": 2590,
     "BTD": 0,
     "ME Name": "Sumit Patra",
     "Beat": "D-MURARIPUKUR",
@@ -18749,7 +18749,7 @@
   {
     "HUL Code": "HUL-217093D-P0600",
     "HUL Outlet Name": "MAA KALI BHANDER - AMPALLY-D-D-D-D",
-    "ECO": 21975,
+    "ECO": 21762,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KAZIPARA",
@@ -18812,7 +18812,7 @@
   {
     "HUL Code": "HUL-219176D-P41494",
     "HUL Outlet Name": "Loknath Stores-D",
-    "ECO": 16938,
+    "ECO": 16913,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SK DEV ROAD-1",
@@ -18866,7 +18866,7 @@
   {
     "HUL Code": "HUL-217115D-6515",
     "HUL Outlet Name": "HBN NEW SATYANARAYAN BHANDER-D-D-D",
-    "ECO": 20284,
+    "ECO": 20515,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-HATIBAGAN",
@@ -18875,7 +18875,7 @@
   {
     "HUL Code": "HUL-217115D-6577",
     "HUL Outlet Name": "BSG GANAPATI STORES-D-D-D",
-    "ECO": 12593,
+    "ECO": 15995,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -18902,7 +18902,7 @@
   {
     "HUL Code": "HUL-217115D-P12008",
     "HUL Outlet Name": "NEW GUPTA BHANDER - MANIKTALA-D-D-D",
-    "ECO": 17363,
+    "ECO": 17271,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
@@ -18920,7 +18920,7 @@
   {
     "HUL Code": "HUL-217115D-P12989",
     "HUL Outlet Name": "MOUSUMI STORES - CP-D-D-D",
-    "ECO": 46425,
+    "ECO": 55287,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-TERETTI (W/S)",
@@ -18983,7 +18983,7 @@
   {
     "HUL Code": "HUL-217093D-P0886",
     "HUL Outlet Name": "JAGABANDHU STORES-D-D-D-D",
-    "ECO": 42293,
+    "ECO": 46347,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-SATGACHI",
@@ -19028,8 +19028,8 @@
   {
     "HUL Code": "HUL-20B317D-P43026",
     "HUL Outlet Name": "JAISWAL GENERAL STORES-D",
-    "ECO": 404,
-    "BTD": 597,
+    "ECO": 1475,
+    "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
     "Day": "THU"
@@ -19064,7 +19064,7 @@
   {
     "HUL Code": "HUL-217086D-1595",
     "HUL Outlet Name": "SKR M/S RAMAVATAR SHARMA-D-D-D-D",
-    "ECO": 24627,
+    "ECO": 24573,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SK DEV ROAD-1",
@@ -19082,7 +19082,7 @@
   {
     "HUL Code": "HUL-217086D-1605",
     "HUL Outlet Name": "SKA M/S ARATI VTY STORES-D-D-D-D",
-    "ECO": 29799,
+    "ECO": 34115,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -19100,7 +19100,7 @@
   {
     "HUL Code": "HUL-217086D-1668",
     "HUL Outlet Name": "BSC CHARU CHANDRA STORES-D-D-D-D",
-    "ECO": 43831,
+    "ECO": 46196,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -19109,7 +19109,7 @@
   {
     "HUL Code": "HUL-217086D-1669",
     "HUL Outlet Name": "BSJ JAGANNATH  PANDAY-D-D-D-D",
-    "ECO": 33460,
+    "ECO": 60679,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -19145,7 +19145,7 @@
   {
     "HUL Code": "HUL-217086D-2857",
     "HUL Outlet Name": "SKB M/S BABLU STORES-D-D-D-D",
-    "ECO": 102144,
+    "ECO": 106475,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -19181,7 +19181,7 @@
   {
     "HUL Code": "HUL-217085D-PAR121",
     "HUL Outlet Name": "P GHOSH-D-D-D-D",
-    "ECO": 38663,
+    "ECO": 39298,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR",
@@ -19217,7 +19217,7 @@
   {
     "HUL Code": "HUL-217085D-P1066",
     "HUL Outlet Name": "Swapan Kr Shet-D-D-D-D-D",
-    "ECO": 37643,
+    "ECO": 38417,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
@@ -19226,7 +19226,7 @@
   {
     "HUL Code": "HUL-217085D-P1134",
     "HUL Outlet Name": "Maha Prabhu Stores-D-D-D-D-D",
-    "ECO": 21389,
+    "ECO": 32732,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-VIVEKANANDA ROAD",
@@ -19235,7 +19235,7 @@
   {
     "HUL Code": "HUL-217085D-P868",
     "HUL Outlet Name": "C K GHOSH-D-D-D-D-D",
-    "ECO": 24786,
+    "ECO": 25588,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
@@ -19244,7 +19244,7 @@
   {
     "HUL Code": "HUL-217085D-P873",
     "HUL Outlet Name": "BHAGAWATI STORES-D-D-D-D-D",
-    "ECO": 21725,
+    "ECO": 21777,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
@@ -19262,7 +19262,7 @@
   {
     "HUL Code": "HUL-217085D-P992",
     "HUL Outlet Name": "KAMALA TEA CO...-D-D-D-D-D",
-    "ECO": 16345,
+    "ECO": 16981,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-VIVEKANDA ROAD-2",
@@ -19307,7 +19307,7 @@
   {
     "HUL Code": "HUL-219176D-P34295",
     "HUL Outlet Name": "SREE KRISHNA ST-D",
-    "ECO": 35846,
+    "ECO": 35738,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-BAGUIHATI RD",
@@ -19379,7 +19379,7 @@
   {
     "HUL Code": "WB70005960702",
     "HUL Outlet Name": "SATYA NARAYAN BHANDAR-D-D-D-D",
-    "ECO": 25437,
+    "ECO": 25423,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-SATGACHI",
@@ -19424,7 +19424,7 @@
   {
     "HUL Code": "HUL-217085D-P878",
     "HUL Outlet Name": "ANNAPURNA BHANDAR (M)-D-D-D-D-D",
-    "ECO": 54255,
+    "ECO": 55701,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
@@ -19433,7 +19433,7 @@
   {
     "HUL Code": "HUL-217086D-1603",
     "HUL Outlet Name": "SKM M/S MEDI AID PLUS-D-D-D-D",
-    "ECO": 71201,
+    "ECO": 90585,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -19451,7 +19451,7 @@
   {
     "HUL Code": "HUL-217086D-1682",
     "HUL Outlet Name": "SKB M/S BANIK STORES-D-D-D-D",
-    "ECO": 42338,
+    "ECO": 42553,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -19460,7 +19460,7 @@
   {
     "HUL Code": "HUL-217086D-1694",
     "HUL Outlet Name": "SBA M/S ADI GHOSH BROTHERS-D-D-D-D",
-    "ECO": 53902,
+    "ECO": 53302,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SHYAMBAZAR",
@@ -19478,7 +19478,7 @@
   {
     "HUL Code": "HUL-217086D-2856",
     "HUL Outlet Name": "SANJOY KUMAR GUPTA-D-D",
-    "ECO": 49509,
+    "ECO": 53423,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -19487,7 +19487,7 @@
   {
     "HUL Code": "WB70000461145",
     "HUL Outlet Name": "BSM M/S MOTILAL AGARWAL-D-D-D-D",
-    "ECO": 65393,
+    "ECO": 109632,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
@@ -19505,7 +19505,7 @@
   {
     "HUL Code": "WB70000461167",
     "HUL Outlet Name": "SKM M/S MUNNA STORES-D-D-D-D",
-    "ECO": 51120,
+    "ECO": 51339,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-SK DEV ROAD-2",
@@ -19523,7 +19523,7 @@
   {
     "HUL Code": "HUL-217085D-PAR149",
     "HUL Outlet Name": "Dashakarma Bhandar-D-D-D-D",
-    "ECO": 31163,
+    "ECO": 34770,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR",
@@ -19532,7 +19532,7 @@
   {
     "HUL Code": "HUL-217085D-PAR167",
     "HUL Outlet Name": "Durga Stores-D-D-D-D",
-    "ECO": 24400,
+    "ECO": 24614,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR",
@@ -19541,7 +19541,7 @@
   {
     "HUL Code": "HUL-217085D-P1064",
     "HUL Outlet Name": "S K Shet-D-D-D-D-D",
-    "ECO": 21599,
+    "ECO": 25609,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
@@ -19559,7 +19559,7 @@
   {
     "HUL Code": "HUL-217085D-P871",
     "HUL Outlet Name": "DAWN VARIEY STORES-D-D-D-D-D",
-    "ECO": 22734,
+    "ECO": 29100,
     "BTD": 0,
     "ME Name": "MANOJ KUMAR GUPTA",
     "Beat": "D-MANICKTALA",
@@ -19676,7 +19676,7 @@
   {
     "HUL Code": "HUL-20B317D-P43244",
     "HUL Outlet Name": "BANIK BHANDER-D",
-    "ECO": 12829,
+    "ECO": 13861,
     "BTD": 0,
     "ME Name": "JAYANTA  MANDAL",
     "Beat": "D-HATIBAGAN",
@@ -19703,7 +19703,7 @@
   {
     "HUL Code": "HUL-20B317P44503",
     "HUL Outlet Name": "SARADA MEDICAL",
-    "ECO": 10514,
+    "ECO": 10033,
     "BTD": 0,
     "ME Name": "Pritam Das",
     "Beat": "K-BAGUIHATI KHAL PAR+NUTS",
@@ -19712,7 +19712,7 @@
   {
     "HUL Code": "HUL-20B317D-P43301",
     "HUL Outlet Name": "Rasafa Mart",
-    "ECO": 95920,
+    "ECO": 182199,
     "BTD": 0,
     "ME Name": "Avijit Paul",
     "Beat": "D-KESHAB SEN STREET",
@@ -19784,7 +19784,7 @@
   {
     "HUL Code": "HUL-219176D-P42866",
     "HUL Outlet Name": "MILAN NANDI-D",
-    "ECO": 21917,
+    "ECO": 21896,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SHYAMBAZAR",
@@ -19838,7 +19838,7 @@
   {
     "HUL Code": "HUL-219176D-P46722",
     "HUL Outlet Name": "MEHTAB  STORES-D",
-    "ECO": 449929,
+    "ECO": 488409,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-SHYAM BAZAR (W/S)",
@@ -19856,7 +19856,7 @@
   {
     "HUL Code": "HUL-219176D-P46930",
     "HUL Outlet Name": "SRI SAI  TRADING-D",
-    "ECO": 32615,
+    "ECO": 46087,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-SHYAM BAZAR (W/S)",
@@ -19874,7 +19874,7 @@
   {
     "HUL Code": "HUL-219176D-P47190",
     "HUL Outlet Name": "A.R.S ENTERPRISES-D",
-    "ECO": 23440,
+    "ECO": 26415,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-TERETTI (W/S)",
@@ -19973,8 +19973,8 @@
   {
     "HUL Code": "WB70000402211",
     "HUL Outlet Name": "B. SAMANTA & SON-D-D-D",
-    "ECO": -18591,
-    "BTD": 19591,
+    "ECO": -21059,
+    "BTD": 22059,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-SHYAM BAZAR (W/S)",
     "Day": "TUE"
@@ -19982,7 +19982,7 @@
   {
     "HUL Code": "WB70000602265",
     "HUL Outlet Name": "S C CHOWDHURY-D-D-D",
-    "ECO": 58378,
+    "ECO": 77264,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
@@ -19991,7 +19991,7 @@
   {
     "HUL Code": "WB70007302212",
     "HUL Outlet Name": "S. AHMED (BABU STORES)-D-D-D",
-    "ECO": 83144,
+    "ECO": 108637,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-TERETTI (W/S)",
@@ -20072,7 +20072,7 @@
   {
     "HUL Code": "WB70007302251",
     "HUL Outlet Name": "NEW BHARAT STORES-D-D-D",
-    "ECO": 140033,
+    "ECO": 176920,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-TERETTI (W/S)",
@@ -20081,7 +20081,7 @@
   {
     "HUL Code": "HUL-217115D-183",
     "HUL Outlet Name": "SREE DURGA BH (SOVA BZ)-D-D-D",
-    "ECO": 58746,
+    "ECO": 60021,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
@@ -20135,7 +20135,7 @@
   {
     "HUL Code": "WB70000404712",
     "HUL Outlet Name": "R.K.STORES-D-D-D",
-    "ECO": 608941,
+    "ECO": 686301,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-SHYAM BAZAR (W/S)",
@@ -20171,7 +20171,7 @@
   {
     "HUL Code": "WB70000404714",
     "HUL Outlet Name": "RINA STORES-D-D-D",
-    "ECO": 499580,
+    "ECO": 583613,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-SHYAM BAZAR (W/S)",
@@ -20198,7 +20198,7 @@
   {
     "HUL Code": "WB70000702297",
     "HUL Outlet Name": "JAWED BROTHERS-D-D-D",
-    "ECO": 3037086,
+    "ECO": 3080520,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-TERETTI (W/S)",
@@ -20252,7 +20252,7 @@
   {
     "HUL Code": "HUL-217115D-7471",
     "HUL Outlet Name": "TMR M/S RADHA KRISHNA ENTERPRISE-D-D-D",
-    "ECO": 2414,
+    "ECO": 2716,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-TERETTI (W/S)",
@@ -20279,7 +20279,7 @@
   {
     "HUL Code": "WB70000402296",
     "HUL Outlet Name": "OM MAHADEV BHANDER-D-D-D",
-    "ECO": 326398,
+    "ECO": 324250,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-SHYAM BAZAR (W/S)",
@@ -20288,7 +20288,7 @@
   {
     "HUL Code": "WB70001202294",
     "HUL Outlet Name": "MD.  ABBAS-D-D-D",
-    "ECO": 16099,
+    "ECO": 16370,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-TERETTI (W/S)",
@@ -20306,7 +20306,7 @@
   {
     "HUL Code": "WB70007302245",
     "HUL Outlet Name": "MUKHTAR AHMED-D-D-D",
-    "ECO": 207577,
+    "ECO": 286046,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-TERETTI (W/S)",
@@ -20441,7 +20441,7 @@
   {
     "HUL Code": "HUL-219176D-P32791",
     "HUL Outlet Name": "MANJU STORES-D",
-    "ECO": 686703,
+    "ECO": 781815,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-SHYAM BAZAR (W/S)",
@@ -20459,8 +20459,8 @@
   {
     "HUL Code": "HUL-20B317D-P42480",
     "HUL Outlet Name": "JOY JAGANNATH STORE-D",
-    "ECO": 347,
-    "BTD": 654,
+    "ECO": 949,
+    "BTD": 51,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-BIDHANSARANI-1",
     "Day": "THU"
@@ -20531,7 +20531,7 @@
   {
     "HUL Code": "HUL-20B317D-P43322",
     "HUL Outlet Name": "Morning Tea Supplier-D",
-    "ECO": 57851,
+    "ECO": 72268,
     "BTD": 0,
     "ME Name": "GITA HATI",
     "Beat": "F-MURARIPUKUR",
@@ -20549,7 +20549,7 @@
   {
     "HUL Code": "HUL-20B317D-P43457",
     "HUL Outlet Name": "MD SABIR ALAM-D",
-    "ECO": 2580,
+    "ECO": 2887,
     "BTD": 0,
     "ME Name": "Sukalyan  Saha",
     "Beat": "D-TERETTI (W/S)",
@@ -20603,7 +20603,7 @@
   {
     "HUL Code": "HUL-20B317D-P44228",
     "HUL Outlet Name": "PAL VARIETY-D",
-    "ECO": 238634,
+    "ECO": 239080,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SHYAMBAZAR",
@@ -20675,7 +20675,7 @@
   {
     "HUL Code": "WB70000560727",
     "HUL Outlet Name": "JAISWAL FOOD STORE (SVS)-D-D-D-D",
-    "ECO": 188283,
+    "ECO": 206503,
     "BTD": 0,
     "ME Name": "SAIKAT   Das",
     "Beat": "D-SOVA BAZAR (SVS)",
