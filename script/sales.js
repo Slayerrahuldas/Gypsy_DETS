@@ -16,7 +16,7 @@ function populateTable(data) {
     tableBody.innerHTML = "";
 
     const totalColumns = ["LYRR", "DQRR", "L3M", "MTD"];
-    let totals = { LYRR: 0, JQRR: 0, L3M: 0, MTD: 0 };
+    let totals = { LYRR: 0, DQRR: 0, L3M: 0, MTD: 0 };
 
     data.forEach(item => {
         totalColumns.forEach(key => {
@@ -132,4 +132,5 @@ function initialize() {
 }
 
 fetchData();
+
 
